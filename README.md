@@ -1,4 +1,4 @@
-Overview: This project aims to extract features from unstructured business website text data from BERT embeddings. These features would then be run and evaluated on tree-based models to characterize businesses on innovative capacity/status.
+Overview: This project aims to extract features from unstructured business website text data from BERT embeddings. These features would then be run and evaluated on tree-based models to characterize businesses on innovative capacity/status. Dataset folder is not included as datasets are classified as restricted/sensitive national data.
 
 General Description of Notebooks (.txt files): 
 1. Generate Embeddings:
