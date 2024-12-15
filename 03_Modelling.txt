@@ -1,0 +1,273 @@
+# IMPORT!!!
+
+# Import dependencies
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import numpy as np
+from sklearn.model_selection import train_test_split, RandomizedSearchCV, GridSearchCV
+from sklearn.metrics import (
+    accuracy_score,
+    precision_score,
+    recall_score,
+    f1_score,
+    roc_auc_score,
+    roc_curve,
+    auc,
+    confusion_matrix,
+    classification_report
+)
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import GradientBoostingClassifier
+import xgboost as xgb
+import pickle
+import joblib
+import os
+
+### Obtain Train & Test-sets by importing parquet files
+- Train file path: data/processed_parquet/train.parquet
+- Test file path: data/processed_parquet/test.parquet
+
+# Define file paths
+train_file_path = 'data/processed/train.csv'
+test_file_path = 'data/processed/test.csv'
+
+# Load the datasets
+train_df = pd.read_csv(train_file_path)
+test_df = pd.read_csv(test_file_path)
+
+train_df.head()
+
+test_df.head()
+
+### Quick analysis on XGBoost model on record embeddings
+
+def train_evaluate_model(model, dataset_path, exclude_columns, target_column, param_grid, model_path, test_set_path):
+    """
+    Trains a machine learning model using RandomizedSearchCV for hyperparameter tuning,
+    saves the best model, evaluates its performance on a test set, and exports the test set with predictions.
+
+    Parameters:
+    - model: The machine learning model to be trained.
+    - dataset_path: Path to the CSV file containing the dataset.
+    - exclude_columns: List of column names to be excluded from the feature set.
+    - target_column: Name of the target variable column in the dataset.
+    - param_grid: Dictionary containing the parameter grid for hyperparameter tuning.
+    - model_path: Path where the trained model will be saved as a pickle file.
+    - test_set_path: Path where the test set with predictions will be saved as a CSV file.
+
+    Returns:
+    - A dictionary containing the evaluation metrics: Precision, Recall, F1-score, and ROC-AUC.
+    """
+    
+    # Step 1: Load the dataset
+    data = pd.read_csv(dataset_path)
+
+    # Step 2: Prepare the data
+    # Keep the UEN column in a separate variable before dropping it from the features
+    UEN = data[exclude_columns]
+    X = data.drop(exclude_columns + [target_column], axis=1)
+    y = data[target_column]
+
+    # Split the data into train and temp sets with stratification
+    X_train, X_temp, y_train, y_temp, UEN_train, UEN_temp = train_test_split(X, y, UEN, test_size=0.2, random_state=42, stratify=y)
+
+    # Further split the temp set into validation and test sets
+    X_val, X_test, y_val, y_test, UEN_val, UEN_test = train_test_split(X_temp, y_temp, UEN_temp, test_size=0.5, random_state=42, stratify=y_temp)
+
+    # Step 3: Perform hyperparameter tuning using random search (with cross-validation)
+    random_search = RandomizedSearchCV(model, param_distributions=param_grid, n_iter=10, cv=3, random_state=42)
+    random_search.fit(X_train, y_train, eval_set=[(X_val, y_val)], verbose=False)
+    
+    # Print the best hyperparameters
+    print("Best hyperparameters:", random_search.best_params_)
+
+    # Get the best model from random search
+    best_model = random_search.best_estimator_
+
+    # Step 4: Save the XGBoost model
+    with open(model_path, "wb") as file:
+        pickle.dump(best_model, file)
+
+    # Step 5: Evaluate the model and get predictions
+    y_pred = best_model.predict(X_test)
+    y_pred_proba = best_model.predict_proba(X_test)[:, 1]
+
+    # import test set, run predictions with best_model, return additional label (pred_cat) on test set (test_withpred.csv)
+    test_df = pd.read_csv(test_set_path)
+
+    # Extract the features (excluding the target column if present in the test set)
+    X_test = test_df.drop(columns=exclude_columns + [target_column], errors='ignore')
+
+    # Run predictions with the best model
+    test_df['pred_cat'] = best_model.predict(X_test)
+
+    # Save the test set with predictions to the specified path
+    test_df.to_csv("data/inference/test_withpred.csv", index=False)
+    print("Test set with predictions saved to data/inference/test_withpred.csv")
+
+    # Calculate evaluation metrics
+    accuracy = accuracy_score(y_test, y_pred)
+    precision = precision_score(y_test, y_pred)
+    recall = recall_score(y_test, y_pred)
+    f1 = f1_score(y_test, y_pred)
+    roc_auc = roc_auc_score(y_test, y_pred_proba)
+
+    # Print the classification report
+    print("\nClassification Report:\n", classification_report(y_test, y_pred))
+
+    # Plot the confusion matrix
+    cm = confusion_matrix(y_test, y_pred)
+    plt.figure(figsize=(8, 6))
+    sns.heatmap(cm, annot=True, fmt='d', cmap='Blues', xticklabels=['Predicted 0', 'Predicted 1'], yticklabels=['Actual 0', 'Actual 1'])
+    plt.title('Confusion Matrix')
+    plt.ylabel('Actual label')
+    plt.xlabel('Predicted label')
+    plt.show()
+    
+    # Plot the ROC-AUC curve
+    fpr, tpr, thresholds = roc_curve(y_test, y_pred_proba)
+    roc_auc = auc(fpr, tpr)
+
+    plt.figure()
+    plt.plot(fpr, tpr, color='darkorange', lw=2, label='ROC curve (area = %0.2f)' % roc_auc)
+    plt.plot([0, 1], [0, 1], color='navy', lw=2, linestyle='--')
+    plt.xlim([0.0, 1.0])
+    plt.ylim([0.0, 1.05])
+    plt.xlabel('False Positive Rate')
+    plt.ylabel('True Positive Rate')
+    plt.title('Receiver Operating Characteristic')
+    plt.legend(loc="lower right")
+    plt.show()
+
+    # Return the evaluation metrics
+    return {
+        "Accuracy": accuracy,
+        "Precision": precision,
+        "Recall": recall,
+        "F1-score": f1,
+        "ROC-AUC": roc_auc
+    }
+
+test_set_path = "data/processed/test.csv"
+dataset_path = "data/processed/train.csv"
+target_column = "label"
+xgb_model = xgb.XGBClassifier()
+model_save_path = "models/XGBoost_modelv3.pkl"
+exclude_columns = ["UEN"]
+param_grid = {
+    'n_estimators': [100, 300, 500],
+    'learning_rate': [0.01, 0.1, 0.2],
+    'max_depth': [3, 4, 5],
+    'min_child_weight': [1, 2, 3],
+    'gamma': [0, 0.1, 0.2],
+    'subsample': [0.8, 0.9, 1.0],
+    'colsample_bytree': [0.8, 0.9, 1.0]
+}
+
+# Call the function with the specified parameters
+metrics = train_evaluate_model(xgb_model, dataset_path, exclude_columns, target_column, param_grid, model_save_path, test_set_path)
+
+# Print the evaluation metrics
+for metric, value in metrics.items():
+    print(f"{metric}: {value}")
+
+### Evaluate XGBoost Model on UEN Level
+
+# # Import test set with predictions
+# testset = pd.read_csv("data/inference/test_withpred.csv")
+
+# # run evaluation metrics: classification report, ROCAUC curve, accuracy, p, r, f1-score. 
+# # Extract the true labels and predicted labels
+# y_true = testset[target_column] ##CHECK*
+# y_pred = testset['pred_cat']
+
+# # Calculate evaluation metrics
+# accuracy = accuracy_score(y_true, y_pred)
+# precision = precision_score(y_true, y_pred)
+# recall = recall_score(y_true, y_pred)
+# f1 = f1_score(y_true, y_pred)
+# roc_auc = roc_auc_score(y_true, y_pred)
+
+# # Print the classification report
+# print("\nClassification Report:\n", classification_report(y_true, y_pred))
+
+# # Plot the confusion matrix
+# cm = confusion_matrix(y_true, y_pred)
+# plt.figure(figsize=(8, 6))
+# sns.heatmap(cm, annot=True, fmt='d', cmap='Blues', xticklabels=['Predicted 0', 'Predicted 1'], yticklabels=['Actual 0', 'Actual 1'])
+# plt.title('Confusion Matrix')
+# plt.ylabel('Actual label')
+# plt.xlabel('Predicted label')
+# plt.show()
+
+# # Plot the ROC-AUC curve
+# fpr, tpr, thresholds = roc_curve(y_true, y_pred)
+# roc_auc = auc(fpr, tpr)
+
+# plt.figure()
+# plt.plot(fpr, tpr, color='darkorange', lw=2, label='ROC curve (area = %0.2f)' % roc_auc)
+# plt.plot([0, 1], [0, 1], color='navy', lw=2, linestyle='--')
+# plt.xlim([0.0, 1.0])
+# plt.ylim([0.0, 1.05])
+# plt.xlabel('False Positive Rate')
+# plt.ylabel('True Positive Rate')
+# plt.title('Receiver Operating Characteristic')
+# plt.legend(loc="lower right")
+# plt.show()
+
+# # Print the evaluation metrics
+# print(f"Accuracy: {accuracy:.4f}")
+# print(f"Precision: {precision:.4f}")
+# print(f"Recall: {recall:.4f}")
+# print(f"F1-score: {f1:.4f}")
+# print(f"ROC-AUC: {roc_auc:.4f}")
+
+### Formulate "prod_tolabel" dataset by dropping train & test data
+
+# read in embedding subset (production data)
+# RUN!!!
+import pandas as pd
+embedding_subset = pd.read_csv("data/processed/embedding_subset.csv")
+
+embedding_subset.head()
+
+len(embedding_subset)
+
+# formulate list of UENs to drop 
+def get_unique_uens_to_drop(train_df, test_df):
+    """
+    Extracts all unique UENs from train and test DataFrames and adds them to a list.
+
+    Parameters:
+    - train_df: DataFrame containing the training data.
+    - test_df: DataFrame containing the test data.
+
+    Returns:
+    - to_drop: List of unique UENs from both DataFrames.
+    """
+    # Extract unique UENs from both DataFrames
+    unique_uens_train = train_df["UEN"].unique()
+    unique_uens_test = test_df["UEN"].unique()
+
+    # Combine unique UENs from both DataFrames into a single list
+    to_drop = list(set(unique_uens_train).union(set(unique_uens_test)))
+
+    return to_drop
+
+# Application
+train = pd.read_csv("data/processed_parquet/train.csv", usecols=["UEN"])
+test = pd.read_csv("data/processed_parquet/test.csv", usecols=["UEN"])
+
+# Call the function
+to_drop = get_unique_uens_to_drop(train, test)
+
+# filter embedding_subset
+filtered_df = embedding_subset[~embedding_subset["UEN"].isin(to_drop)]
+len(filtered_df)
+
+filtered_df.head()
+
+# save to csv
+filtered_df.to_csv("datasets/prod_tolabel.csv", index=False)
+
