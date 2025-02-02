@@ -1,0 +1,91 @@
+pip install pandas --index-url="/home/packages/Python/3.9.15/simple/"
+
+import pyarrow.parquet as pq
+import os
+from azure.storage.blob import BlobServiceClient, BlobClient, ContainerClient
+from io import BytesIO
+import pandas as pd
+
+### Read in BERT embeddings directly
+Fn to read & concat
+
+def read_parquet_blobs_to_dataframe(connection_string, container_name, folder_names):
+    blob_service_client = BlobServiceClient.from_connection_string(connection_string)
+    container_client = blob_service_client.get_container_client(container_name)
+    
+    dfs = []
+    
+    for folder_name in folder_names:
+        # List blobs in the folder
+        blob_list = container_client.list_blobs(name_starts_with=folder_name)
+        
+        # Iterate over blobs in the folder
+        for blob in blob_list:
+            # Download blob content
+            blob_client = container_client.get_blob_client(blob)
+            blob_data = blob_client.download_blob()
+            blob_bytes = blob_data.readall()
+            
+            # Read Parquet data into a DataFrame
+            with BytesIO(blob_bytes) as f:
+                df = pd.read_parquet(f)
+                dfs.append(df)
+
+    # Concatenate DataFrames
+    result_df = pd.concat(dfs, ignore_index=True)
+    return result_df
+
+# connection_string = "DefaultEndpointsProtocol=https;AccountName=bdamlsa;AccountKey=MdO6w+knH6wyjtpfHjiV0ht6Dl9CVeC/f/XYswzdwXi71Mp4+hfDdAYWKoqsdLkiLl32mdU7hACMluHzMueR4g==;EndpointSuffix=core.windows.net"
+connection_string = "DefaultEndpointsProtocol=https;AccountName=bdamlsa;AccountKey=MdO6w+knH6wyjtpfHjiV0ht6Dl9CVeC/f/XYswzdwXi71Mp4+hfDdAYWKoqsdLkiLl32mdU7hACMluHzMueR4g==;EndpointSuffix=core.windows.net"
+container_name = "revenue-generating-pred"
+folder_names = ["vectorized_train_data", "vectorized_validate_data", "vectorized_test_data", "vectorized_remaining_data"]
+final_df = read_parquet_blobs_to_dataframe(connection_string, container_name, folder_names)
+
+final_df.head()
+
+len(final_df)
+
+final_df["UEN"].nunique()
+
+# Save tp csv
+final_df.to_csv("datasets/embedding.csv", index=False)
+
+#### Post-processing for embeddings df
+
+cols_to_drop = ['count_0', 'count_1', 'count_2', 'soft_label_category', 'Actual_Category', 'primary_key']
+df = final_df.drop(columns=cols_to_drop)
+df.head()
+
+#### SUBSET 10 Random UEN records per Unique UEN
+
+import pandas as pd
+
+def subset_by_uen(df, uen_column='UEN', max_records=10):
+    """
+    Subsets the DataFrame by choosing up to a specified number of random records per unique UEN.
+    If a UEN has fewer than or equal to the specified number of records, it leaves them as is.
+    
+    Parameters:
+    df (pd.DataFrame): The input DataFrame.
+    uen_column (str): The name of the UEN column. Default is 'UEN'.
+    max_records (int): The maximum number of records to keep per unique UEN. Default is 10.
+    
+    Returns:
+    pd.DataFrame: The subsetted DataFrame.
+    """
+    # Group by the UEN column and apply a lambda function to sample records
+    subset_df = df.groupby(uen_column).apply(lambda x: x.sample(n=min(len(x), max_records), random_state=1)).reset_index(drop=True)
+    
+    return subset_df
+
+# Apply function
+subset_df = subset_by_uen(df)
+
+subset_df.head()
+
+len(subset_df)
+
+# save df to csv
+subset_df.to_csv("embedding_subset.csv", index=False)
+
+# Retrain the model on BERT embeddings*

@@ -1,0 +1,1001 @@
+SOURCE	UEN	CLUSTER_DEFN	OR_CAT	EMP_SIZE	REF_YR	Age_Band	SSIC	WEBSITE
+SGNIC	e99cb3497003aa9e96f6df7a80dcfa93823458d73e32348b6abc1bd99f3aa27e	12 Retail Trade	01. <=1mil	Missing EMP	2023	01. <= 5 Years	47412.0	INOCHI.COM.SG
+ORBIS	edd32671689d939df6ec015dd5bfa44036950b23fbf6b8f1890a8bd58cf927dc	12 Retail Trade	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	05. > 30 Years	47723.0	wongyiunam.com.sg
+ORBIS	f6ef3f9a31e5ef316feb2b73ca84ec18fa0356b87164a7bade848cce119ea2de	01 Manufacturing	03. 1mil -<= 10mil	01. Employees <= 10	2023	01. <= 5 Years	18129.0	www.pilotpen.com.sg
+ORBIS	f37407ae4e4883a192c03df657cfc5a0a0221dddd1c0917a730282a2204f3463	11 Wholesale	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	46471.0	wallyourphotos.com
+ORBIS	02950115471f371607ff447789ca70e2d3c1d86a6fdf8c8940013a168490ac6b	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	02. 5 to <= 10	46661.0	tbtmarine.com.sg
+SGNIC	f27d381b54a28d9cb83bffd1d1c4effa65aa2bfae11fb10c55813fc2a575034a	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	85409.0	SINACC.COM.SG
+SGNIC	9208aea3f971e4c04a37ecc660461167ee33081be3879ad24ed8e012a9c54738	12 Retail Trade	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	47711.0	thebloombox.com.sg
+GMAP	d0a1f5449aa305decaa58fd0c89f80b52de7b0246a356715849ffbf14aa24a10	20 Administrative & Support Services	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	78104.0	http://www.encasaasia.com/
+ORBIS	7dade4c3983b6b41b3f92fca96828ac0e0be6e62f15594ee51121e61935502a9	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	05. > 30 Years	46549.0	www.or.com.sg
+SGNIC	6ed51d9245bdbe3e44e7f28809ec0f73ce0c9ec682d67e97541d5461152c8a21	21 Other Services Industries	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	85409.0	maxacademy.net
+ORBIS	09956025f82da8d2d3e2726efaecef85d8abce89adcfadfd41df3301666c9e8b	18 Real Estate	06. 10mil -<= 100mil	Missing EMP	2023	04. 20 to <= 3	68103.0	www.onenorthcapital.com
+ORBIS	0c905d81b937e222a32418fbe09886e61466fe9693e83ca817ba70b621db3b75	20 Administrative & Support Services	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	78104.0	rigforceglobal.com
+ORBIS	c40c0dedc09fc9cd8fd00549ac326f5267074f92fcab15e7735a27328f0b15c6	16 Information & Communications	01. <=1mil	Missing EMP	2023	01. <= 5 Years	62011.0	bondatek.com
+ORBIS	6481ec7ad926e1186e3e449db182e7e933b9896cb2c8e04e74fe71ee1dafa2f1	19 Professional Services	01. <=1mil	Missing EMP	2023	01. <= 5 Years	70209.0	tonydeng.sg
+GMAP	ac8b60d1861835f6968c1610f3a8f2628b325eb8c0a19d0f491de1331988e118	17 Finance & Insurance	03. 1mil -<= 10mil	Missing EMP	2023	01. <= 5 Years	64202.0	https://www.tohgarden.com/
+ORBIS	f8ca89f88cf6d1ef5489826f3d83435768568de374f6656791e40703d8f761d5	11 Wholesale	01. <=1mil	Missing EMP	2023	01. <= 5 Years	46900.0	www.fkgroupsg.com
+SGNIC	4084a0768a3193b023a06625e3b6dcc669a581762345e06d404067169721ead3	02 Construction	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	04. 20 to <= 3	43301.0	HONGHWA.COM.SG
+ORBIS	fb0f1bdf26ca67b1697a4a6b2f06d9dcc2695ec207ab95bc25f6d1c42423808f	19 Professional Services	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	70201.0	koplimited.com
+ORBIS	ecdfb847a610d70cd8ebb2307d40312d208f3f847c3160eed7172f4f63749c16	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	46900.0	www.demeter-singapore.com
+ORBIS	ed0a3de87015b43b7fa57f6968c809d81dab074d3ef45b042d6e5d2b51a21896	11 Wholesale	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	04. 20 to <= 3	46633.0	www.kusgrp.com
+ORBIS	d1d0c64251f6988129868849e1aac9a69fed9e6dcc262e459b2549ddd26ffaa8	21 Other Services Industries	01. <=1mil	Missing EMP	2023	05. > 30 Years	95301.0	www.koonmotor.com
+SGNIC	a06468784a00ba88ca9e60bff09515e5091902d0295cf2efde9cd1764bf7f433	02 Construction	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	43309.0	ACHUBPTELTD.COM.SG
+SGNIC	548cd541e3fda4ffd556901c4f167a573f35a831d15be05cfbbcfad6f7b879c4	19 Professional Services	01. <=1mil	Missing EMP	2023	01. <= 5 Years	70201.0	BREWBANK.COM.SG
+GMAP	446c1b5a5ff896c63c6c9f84504806cb49310187d9288916fc90eeb849804817	01 Manufacturing	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	05. > 30 Years	10800.0	www.diasham.com.sg/
+WORLDORGS	9b76eb5a1e148fb8f57b76a622620684853229fa392837dc72ea848d568d6316	01 Manufacturing	01. <=1mil	Missing EMP	2023	01. <= 5 Years	25111.0	https://expresswindows.com.sg/
+ORBIS	13e99aaa1ec6569e54fe9b7f35b30e2e8b9dac60cfb4012ea717d0946502a724	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	04. 20 to <= 3	64202.0	www.sph.com.sg
+ORBIS	0f12844ccded34037daabd8129bf78bac062f2f0737a0dd1c388fc82eb3761e6	19 Professional Services	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	72106.0	www.polylab.in
+ORBIS	997eeea1cd148b333622b9096b239c73ae8a19f819a3dba934e4b5b5136c1e6f	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	46436.0	www.elecom.com.sg
+ORBIS	26a714e0d2b0f1be2550304062df3f0dc3a89bf946b2821f9d97e1b7f9c08d99	11 Wholesale	06. 10mil -<= 100mil	01. Employees <= 10	2023	03. 10 to <= 2	46435.0	onesall.com.sg
+ORBIS	8cca4f6962520561ab8a9f8b6f74e85566896ea6c947bedbea4dc8c2057ea363	19 Professional Services	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	74119.0	www.nextofkincreatives.com
+SGNIC	5b7b74896488e510c7cc34628d539102229a6be665bdda1afb9c6ae4d2498ce3	12 Retail Trade	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	47214.0	www.vitakids.biz
+ORBIS	dae80ec1250c85b14c37904cc0430d23a717d2ffb2b865415d7b2aa76e5bc7a9	19 Professional Services	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	70201.0	www.original.com.sg
+ORBIS	68698d3f04f5814ad75aa6690adcf093ae7b66f4070fc0ee2bfe58d295cc333d	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	69201.0	alps-global.com.sg
+ORBIS	768e5378b475caa5e542ca8c0c5da1764565695be397335d6c137254b2cc4109	21 Other Services Industries	01. <=1mil	Missing EMP	2023	01. <= 5 Years	85407.0	sportstuition.com.sg
+SGNIC	0e56cd29e7be2d9c7c51a17e82d53403d334239a0d213dc4ce781ce38687e6c0	19 Professional Services	01. <=1mil	Missing EMP	2023	01. <= 5 Years	70201.0	CCAS.COM.SG
+SGNIC	606254b32dbae40d4f10a6737620ee7de100c93391caa79ea1cf587a1790a42e	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	04. 20 to <= 3	46522.0	MICROSEMICON.COM.SG
+SGNIC	5a49b03484b1bd4abb8c904099b9751dfcfb8a5fc6051092b4b9b67cd3bfd26b	11 Wholesale	06. 10mil -<= 100mil	03. 50 < Employees <= 200	2023	02. 5 to <= 10	46412.0	BOSS.SG
+ORBIS	691160c2ef8135bcdb3e1b3cebcbef4da7cfceeb9f2e4f8788c0dd58367cba4f	02 Construction	06. 10mil -<= 100mil	03. 50 < Employees <= 200	2023	04. 20 to <= 3	43299.0	www.tom.sg
+ORBIS	fcdbac51bc049520f5dad405d0873dbe3b226d76e235b4850ea6eba3ce103c36	02 Construction	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	43220.0	airoyal.com.sg
+ORBIS	453636db8d15db92dba994d347e679f611967bb0c0f14ae6b008174f04eade87	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	01. <= 5 Years	64929.0	www.transcab.com.sg
+ORBIS	3887697ca83ac1f1ba6948e08414ad3fc08444348330eb2b2460533d9ceb308c	12 Retail Trade	01. <=1mil	01. Employees <= 10	2023	04. 20 to <= 3	47743.0	www.elitefloragallery.com
+SGNIC	c82dd67751e66cbe240763e6d241bf3015be69a6eff9274c99bc4d7326a01e24	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	04. 20 to <= 3	94911.0	KINGOFGLORYCHURCH.ORG.SG
+ORBIS	2a76b4d461c6c20f4243ea1990cce2267d2970196eeee31afaffe71dea5c7183	16 Information & Communications	03. 1mil -<= 10mil	01. Employees <= 10	2023	02. 5 to <= 10	62090.0	www.mindthoughts.net
+ORBIS	781f4c00354c94733b351f017d8b6190d2fbfec656632658d2e1a7557929ab96	17 Finance & Insurance	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	04. 20 to <= 3	66191.0	www.rbcits.com
+SGNIC	b2c0dd3307954265bc3d1cc6e7b8e395b5787b80d6736086c50161192ecd883d	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	86904.0	REJOY.COM.SG
+ORBIS	2e7f2f7885cd04b0c143e29722733038a35bf327f7e60b8fa90a2a609e858654	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	01. <= 5 Years	46461.0	bioesquemedical.com
+GMAP	68e97c94a484a8b627abe06510d913a4650380bc5e795e2023f0bde8252d966a	21 Other Services Industries	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	04. 20 to <= 3	86909.0	www.kidz-potc.com.sg/
+ORBIS	f97062fa2ee84ba34af89dc571b6ca51915456f9895f36de29ce226e0a61308e	13 Transportation & Storage	08. Above 100mil	03. 50 < Employees <= 200	2023	05. > 30 Years	50021.0	www.aet-tankers.com
+ORBIS	56d4abc2e905725e8d372b540a1229b30e16477c1d7d6e50ee987a9aa4f85614	12 Retail Trade	06. 10mil -<= 100mil	04. 200 < Employees <= 500	2023	03. 10 to <= 2	47109.0	www.japanhome.com.sg
+SGNIC	7dd1d644e8e40f45da147e56b30f5dd386d19132a0133dbdf1a62645e5b37077	11 Wholesale	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	46551.0	XKMARINE.COM.SG
+ORBIS	059b688197a721e4aa2104f07334f4b435ba160b5b8c46d7b8b47fd4b6f34b39	19 Professional Services	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	74192.0	binaryline.com
+ORBIS	6a2c66725d64ab2174fc60c9b30369153e747d7270139d5654a8db1cbcc4f9e1	19 Professional Services	06. 10mil -<= 100mil	03. 50 < Employees <= 200	2023	03. 10 to <= 2	74192.0	wearesection.com
+ORBIS	74ad0bd5bb0cb9924fc97ba54c25970a87a815ebde29a40c5397a4e34b619c13	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	05. > 30 Years	70209.0	www.dpi-asia.com
+ORBIS	91d30bb452ffa3fe0d0b44e024e2402dcb80c848a8cc217d6e77f23ccadf6c41	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	74191.0	www.unitedteam.com.sg
+GMAP	4f0085e2e62b7fd45fe8d21b9a82f058c74e94cb6e51b852595693d4a2be0ae1	11 Wholesale	08. Above 100mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	46610.0	www.mercantile.sg/
+ORBIS	a29208dffbe66700ee651c30ea0017a2049a17b195c5edefddd767d7ca58bbbc	19 Professional Services	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	04. 20 to <= 3	70101.0	innospec.com
+ORBIS	312fddb138dda2a37ead2a319388838ed4ffba61f3b85738bbe516fc9af4f779	02 Construction	03. 1mil -<= 10mil	03. 50 < Employees <= 200	2023	05. > 30 Years	41001.0	www.etron.com.sg
+ORBIS	ff35d5bc28cf884a08919eff46f6b1d3b87628a021a79c743befed014b1333ff	12 Retail Trade	01. <=1mil	Missing EMP	2023	05. > 30 Years	47751.0	plusminus.com.sg
+ORBIS	54c0dbff1fc792ea962fbcd72c451e4d24c8ca547d24cfb8e779528fb5d6276b	04 Other Goods Industries	01. <=1mil	Missing EMP	2023	01. <= 5 Years	3209.0	www.cube2.com.sg
+WORLDORGS	d8008be08ba7a5e6621cb94c6538d256e63128453383391942266eb13e82618d	12 Retail Trade	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	47751.0	https://m.facebook.com/cerminmata/
+ORBIS	3e9a4583cab8aaa853d0af9ec6045d9c8397de2883327bf5cf7b4c0e495eef82	01 Manufacturing	01. <=1mil	01. Employees <= 10	2023	04. 20 to <= 3	26124.0	www.microfine-piezo.com
+ORBIS	f1add3e06a0662edb93808ec3bbe75d0eb21d15d8829f5e8f708edf0ab4a28de	01 Manufacturing	01. <=1mil	01. Employees <= 10	2023	04. 20 to <= 3	10712.0	www.best-one.com.sg
+GMAP	1d3e162a0104505acb605b48e6b04d4a0c51ee48793757dda208ba0c734f3632	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	46591.0	www.arms-sg.com/
+SGNIC	ac989c3a38622b0ffeaa8da8a8591d107a3268c4d74fbe997e319cce7938fb42	02 Construction	01. <=1mil	00. Non-Employing	2023	01. <= 5 Years	42101.0	VERVEVISTA.COM.SG
+ORBIS	5b8e5a6fdcf1c1c17b1c96121cc3e68cb7749591521400e2ed73409cd8fca7d9	21 Other Services Industries	01. <=1mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	94999.0	www.wings.sg
+ORBIS	fe60469d880e3e429943513f93f05f5837da6771609d695768c38ff071692940	19 Professional Services	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	70201.0	aromeconcepts.com/main.html
+SGNIC	6766236811401224171ff5fe8febd2acadc5c87c8e0718a2ea5491365cf6e055	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	01. <= 5 Years	64202.0	LEOMAXGLOBAL.SG
+ORBIS	b9863235eac97aa42f938435a1bd9ec3c38ca5d604a740a0ea60e2238f11fbf9	20 Administrative & Support Services	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	78103.0	ud.netmaid.com.sg
+ORBIS	0b3d964646fec7e55bea36f979efa8a89110f54a006e8a9d17df5671c5e246fc	01 Manufacturing	01. <=1mil	01. Employees <= 10	2023	04. 20 to <= 3	32901.0	www.artsign.com
+ORBIS	72f32513dd9c4ea6e404dd98b526e7c883ec8077846490587b33b3def999491d	11 Wholesale	01. <=1mil	Missing EMP	2023	01. <= 5 Years	46900.0	m-shot.com
+ORBIS	cc449576bddd1816b8fa6db0c09084fd287266a926a3db3462acb3fa153bbcf8	12 Retail Trade	01. <=1mil	01. Employees <= 10	2023	05. > 30 Years	47211.0	meng.com
+ORBIS	d3a1b3b85615aa4298579c326f0d0b4ef7a0ea4158556a202929dd27a728f620	02 Construction	06. 10mil -<= 100mil	04. 200 < Employees <= 500	2023	05. > 30 Years	41001.0	www.nakano.com.sg
+GMAP	e20a7b14c09970da0bbc331cadf1a3ae3cd2329df1458a58e7e453bfc5bc03d2	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	88911.0	www.sunflowerkid.com/
+ORBIS	883fdb3557754db35c7557eccf92eb7bad8eaa106ed41eb7ee9a1c4fcb721118	16 Information & Communications	06. 10mil -<= 100mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	62090.0	browzwear.com
+SGNIC	04be48c1f1f10562db513e75019f9ad032895a3670391c54c0a17ff6ae3894f0	02 Construction	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	43301.0	DECOPLANNERS.COM.SG
+ORBIS	1bf6f08ef7f95e8b1b62148ffc3dc0aa62ab02b6d8ff3315fbe8110ce03c032e	19 Professional Services	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	71126.0	blueseas.com.sg
+GMAP	d8b7268a8a5fd96d215a7c1d382219d96641d4af33dd5f504b8b026a6fb5ac51	12 Retail Trade	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	47711.0	https://www.ogreenliving.com/
+ORBIS	30bfb8977bd83cb08c0268074726c54cdcd555201226d93b530d10ab0fddff79	18 Real Estate	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	68101.0	www.tiongseng.com.sg
+ORBIS	e591342e40a5fa432295138abc08183fd8f65e0cbe5e7dca6c0743b05b9ed03e	19 Professional Services	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	04. 20 to <= 3	71122.0	www.pmcont.com
+ORBIS	5a5d1993d7febf8a403958a02ca49763d094e139f031a893b05a7f97a1ecfa46	12 Retail Trade	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	47420.0	www.arvisual.com.sg
+ORBIS	2848713d9cd235383f93b5b6c01ea1ed1bab9b81bd6eb5b73cf115af9f4a4191	02 Construction	01. <=1mil	01. Employees <= 10	2023	04. 20 to <= 3	41009.0	www.bca.gov.sg/bcadirectory/company/details/199604669m
+GMAP	6384bffe7067992c1d0818b5712a850c8c96110bc5c8e31ae74f141313e0cc68	02 Construction	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	43299.0	https://www.packlines.com/
+ORBIS	f081bf388f66ce8e29be6f20f26c0653f973114d82b83616f69f18384cd3e92a	21 Other Services Industries	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	86203.0	www.memc.com.sg
+ORBIS	70afa31156a72f2cb2957f515353d64575744ab28a6b5e1bbfbb1376e5abf451	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	02. 5 to <= 10	46900.0	www.ihi.co.jp
+ORBIS	e0055afb19b8d02d51d9b57eeb230250918e5595237a0af43247a3393860f7e0	12 Retail Trade	01. <=1mil	02. 10 < Employees <= 50	2023	05. > 30 Years	47219.0	www.yuansang.com.sg
+SGNIC	3209edde23f640a1b49c4f47c1283c13a294177f9daafd27d52cc0e29d1624bc	11 Wholesale	01. <=1mil	Missing EMP	2023	01. <= 5 Years	46900.0	GEN3.COM.SG
+SGNIC	9f580d87351bf81c5f91cf46daf7bbbc60c3aa5f5d67888a0cb8623c9072116a	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	69202.0	UNIGROWTHSERVICES.COM.SG
+ORBIS	3f0626e123f2b8add664132fed7f02d68cd940889897f77989c2b12f5b8c4096	19 Professional Services	03. 1mil -<= 10mil	01. Employees <= 10	2023	02. 5 to <= 10	71129.0	innospectra.com.sg
+SGNIC	311381601b775feab183797962c8b02f19233d427dcd4c734fce234aebd4a912	02 Construction	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	41001.0	G-POINT.SG
+ORBIS	7a279b4b0bf1d9b8a65b8f7bf3db7b7c79b9d580dce812fa03042f0633f9bd67	18 Real Estate	03. 1mil -<= 10mil	01. Employees <= 10	2023	05. > 30 Years	68101.0	www.bukittimahshoppingcentre.sg
+ORBIS	65e6abec66865062801dbeb42a68c3bb1c5eece0af25716891faa7da4747e586	19 Professional Services	01. <=1mil	Missing EMP	2023	01. <= 5 Years	74902.0	www.asialicense.com
+ORBIS	a295c4c03447c24537bb797b3a3308e3b09289b90d5777cf1e41266efbb34db9	02 Construction	01. <=1mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	43301.0	www.bca.gov.sg/bcadirectory/company/details/200908829c
+ORBIS	4d008e2382d5185ae2587b725e63586bcf67dbdd5f0223bdfbb0e1863f36583c	20 Administrative & Support Services	01. <=1mil	Missing EMP	2023	01. <= 5 Years	82303.0	sambill-park.com/index.html
+ORBIS	02a0298323ca1a709e2e8f1cc9bd9e7c2636b007012d7468a87a86dc94227746	20 Administrative & Support Services	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	82303.0	www.jabezwerkz.sg/contact-us
+ORBIS	fb714a9798d1baea42cf2d2eb87f28fc4bdfc7c262403c566ebb32eff142935a	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	46544.0	powergenbatteries.com.sg
+ORBIS	705322ed9956a44818d9bd49b940920ac04d87cd370f252c99b3d30ae4c89d3e	21 Other Services Industries	01. <=1mil	Missing EMP	2023	04. 20 to <= 3	85407.0	edu-sg.org
+SGNIC	657302fc9c0ea1fa9300c71c6c9b36944dfc0cb6e6c714593c75cf5275e0c09a	02 Construction	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	43210.0	MSG.SG
+ORBIS	d785862f784b010037a15822856ea135f34f1a2bdf35819ea2ac0d872d2b8777	01 Manufacturing	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	26511.0	sparkycontrol.com
+ORBIS	2ea4d88d8eed28d5054fba35e21b97a951a888fcad38469a220494681af936e1	19 Professional Services	01. <=1mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	74192.0	www.visualtech.com.sg
+ORBIS	20f8f9b0e5fe7533e8e322d1b3bee2c2006fc19b63e61c2038a2617450a4235e	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	71112.0	www.tinderbox.com.sg
+ORBIS	f6dd6d1fa59a865fe7cda76fa359ce7c65559c8b32a3fa748276df0300ab36bb	13 Transportation & Storage	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	52292.0	www.pandalognyc.com
+ORBIS	56769983feaf0f4d93d7d552942594bec64fe506e8569c06e8a77c19f125e8aa	11 Wholesale	08. Above 100mil	03. 50 < Employees <= 200	2023	03. 10 to <= 2	46424.0	www.prestigesmartkitchen.com
+ORBIS	9f63cbc9ab627d0274ac848b9c089c6befedbc673a42bec1bed251ef5fba3cb1	20 Administrative & Support Services	03. 1mil -<= 10mil	03. 50 < Employees <= 200	2023	03. 10 to <= 2	80100.0	www.vigilantech.net
+ORBIS	7f80e1242fad0b81e8de25b75ad39a90a556bbfd60d119844a6e458c9c3840cf	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	96022.0	crystalbeautycare.com
+SGNIC	f1d2d66920fae09ed7cb8e5db1ddb044fd86bafc5969b77799946300d8e19d33	19 Professional Services	01. <=1mil	Missing EMP	2023	04. 20 to <= 3	73100.0	MANDARINAD.COM.SG
+SGNIC	378705c3207c16803ac1d15c48c50122bd4a6886fc3b6182f71ed3baf05db8c7	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	74191.0	wysidpl.com
+ORBIS	6e23ed068b843cb5dbddd005f6ab009096e5f4a9c9c7180dc59af47ee3d2ebbd	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	46422.0	www.yajjewelex.com
+ORBIS	2080b8a30e83b71e7f228e07783a0d964ebf5a1a9ca2829024df90b66438fa92	02 Construction	06. 10mil -<= 100mil	03. 50 < Employees <= 200	2023	05. > 30 Years	41009.0	lincotrade.com.sg
+ORBIS	c8af7f78a9584748d18398825e121fcd1ad3c81acf0be52ba1b592c0f96123d9	21 Other Services Industries	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	85409.0	www.souloasisspa.com
+ORBIS	8c8273725bde8837d55e9fab4099fccc584da4e415e9557af9aed7ab554c4c38	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	05. > 30 Years	94110.0	www.smcci.org.sg
+GMAP	079672a749058a7643fc9ebe295b3416ea61a74ad852c39d5855c5aa8ab4ea1c	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	70201.0	http://www.dragonheartfengshui.com/
+SGNIC	309a8e370277348966f3db1c38aafc75ab4192b38f4cc5ed53957b0a94fc80fa	13 Transportation & Storage	01. <=1mil	Missing EMP	2023	01. <= 5 Years	53200.0	JCMOVERS.COM.SG
+GMAP	65b00164155b74882981feddd845d100146abe1175fa3db9380d2a8f0d6b6b28	21 Other Services Industries	01. <=1mil	Missing EMP	2023	01. <= 5 Years	85409.0	wmc.app/
+SGNIC	148eb61c5679c95edcd301847cad9dc7cbf8158e1fe52bf82dfdf6584f8e7843	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	86201.0	REFLECTIONSAESTHETIC.COM.SG
+ORBIS	96d642da6c6192010d1aa10d0b446f0f4796d61fe3537ae2af85ca64a0129185	19 Professional Services	03. 1mil -<= 10mil	Missing EMP	2023	05. > 30 Years	70209.0	www.berken.sg
+SGNIC	0684b9cd629e7226c13aa3bb7eed4aef29bf65b6a029a03f8ce49fb3a3d349a9	13 Transportation & Storage	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	53200.0	FIVEGG.COM.SG
+ORBIS	0902ab45c6b6a5e3c8680113e96fd538dafb1fb1d49e796567856896d58d9b59	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	05. > 30 Years	46610.0	www.ipg.com.kw
+ORBIS	2164a365b8cdd13169076d8f4ffd79e424b7f8407bc28397a58e2ffedeedf489	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	04. 20 to <= 3	46610.0	tiongaik.com.sg
+SGNIC	1bf8261cc3e761a0eab1e96a9301239109556c1ddd7730c7426dcfb2ac6d5fc7	12 Retail Trade	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	47536.0	HERITAGESTRINGS.SG
+GMAP	da1495516ef06e822a16e0756de7225ee5e461011dc51f358052283b6c778959	12 Retail Trade	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	47731.0	www.artisanjewellery.co/
+ORBIS	4161256cf472477e674904e9c7b2c3ddf59bd4ebd11c3cf9599feff249ae8d88	11 Wholesale	03. 1mil -<= 10mil	Missing EMP	2023	02. 5 to <= 10	46900.0	www.aura.sg
+ORBIS	dfe515d6c75c00102e527612f5edbc56cb5b89584e995c4a42a28e5cebfdcfd5	13 Transportation & Storage	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	49215.0	www.mnmlimousine.com
+SGNIC	c1f97d2562222d89d67581c20a1462e0d26b4cb3af75f474500a3eebeaa3f210	20 Administrative & Support Services	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	82303.0	www.distancebetweencities.us
+GMAP	bf97ce46c45dbeaebf2f445c95668a3b98ec0cc6b0993a01b33c3ebe111a1f06	20 Administrative & Support Services	06. 10mil -<= 100mil	01. Employees <= 10	2023	03. 10 to <= 2	82110.0	http://www.symphony-fp.com.sg/
+ORBIS	eff489c8722ec07a1498399ca72271d7f569ae545a8be9578f8d7747417de46b	17 Finance & Insurance	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	64202.0	www.regalinternational.com.sg
+SGNIC	3ad05554b1a1a54805b3007a05ed997d8cf7e4237cc12c332c0f90574d226c7a	19 Professional Services	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	73100.0	www.streetdirectory.me
+SGNIC	e5e4b594b3a11ed4a38975281472b9f0e1b50cdb4d052969cedfe6f44740e7a9	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	64202.0	AURAGROUP.COM.SG
+ORBIS	c0605cdb2ff95904c9af9c1da7607a153d6ae84820d4528f4658cb7acb8eedcf	02 Construction	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	05. > 30 Years	43909.0	www.deep-freeze.com.sg
+GMAP	415aad73aeeee4d8cb35f16b5713543ac667565ff3853758a491140cd5c2ba19	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	69202.0	www.sgpbusiness.com/company/Jabez-Integrated-Solutions-Pte-Ltd
+ORBIS	7ac5ee79eefeaee80fee2b5319a99b53c695ebd3b4112158421834e485eefacf	19 Professional Services	01. <=1mil	Missing EMP	2023	01. <= 5 Years	70209.0	abbesses.ventures
+ORBIS	844231af58758668d0d97717cbaa498db832de38219d79786fb66adea7f1749a	19 Professional Services	01. <=1mil	Missing EMP	2023	01. <= 5 Years	70209.0	writerandco.com
+SGNIC	4d16deb39ae38c9c5e546f9d8b9a62c3d858f0fee09ca1eaef77c98df7dd678b	02 Construction	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	41009.0	XTREMEAIRCON.COM.SG
+ORBIS	5f58e0c11c233a9916bb8503ac297927383c4fe7aa00eb5af6473ee94e4f2dfa	17 Finance & Insurance	06. 10mil -<= 100mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	66301.0	www.arohiasset.com
+ORBIS	a23793a8b21004083b9522c62d2eacf540b89663f0bfa820e2ddf93c134d83ff	12 Retail Trade	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	47533.0	hongda-services.com
+SGNIC	13b5b64226b21cd9e9612bab485a3dea45a7b11d0af02da402b48b0250fc1c47	02 Construction	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	43210.0	YOLKA.COM.SG
+GMAP	cdd73dbfddd32fb787fbf80a404b81404965a1b1f0953f8edc6f916b3ac3146d	19 Professional Services	06. 10mil -<= 100mil	03. 50 < Employees <= 200	2023	04. 20 to <= 3	71125.0	www.cse-global.com/
+ORBIS	c1d9f4a7f4f15031bc5fd8d9775a796194fcf17e89891eefdac0a58286888586	19 Professional Services	08. Above 100mil	04. 200 < Employees <= 500	2023	05. > 30 Years	70101.0	www.caterpillar.com
+ORBIS	8761642ed845f43ad96b93191c7eeb8027d8f55ba6f51b23f1a7239e50429a00	02 Construction	01. <=1mil	Missing EMP	2023	01. <= 5 Years	43301.0	hummingbirdhomedecor.com
+GMAP	4154100b9612897587ded288c56217796815e65f37b0742c16113a95d4365c72	16 Information & Communications	06. 10mil -<= 100mil	01. Employees <= 10	2023	02. 5 to <= 10	62021.0	puresoftware.com/
+ORBIS	1502ca598cb6a6774b9fd4644eb0fe10bd3a0cb92a8c565892896ed5f0c4300e	02 Construction	06. 10mil -<= 100mil	05. Employees > 500	2023	05. > 30 Years	41001.0	www.dragages.com.sg
+SGNIC	36691064c6012fc67111b77c4d946f99fb44bb4f305d61cf46f7cd8784433436	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	70201.0	ANTZCAPITAL.COM.SG
+ORBIS	41cd2b8685cc9820f267abd1cbbfe7b97cb79721098d8a4b546efb9b00b69575	19 Professional Services	06. 10mil -<= 100mil	02. 10 < Employees <= 50	2023	04. 20 to <= 3	73100.0	www.economistgroup.com
+SGNIC	3bafdb8ced9fcdb11f01bf7736b852156cf99ef0e33d64bbb26f38a973aa466a	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	46900.0	GSS-SERVICES.COM.SG
+SGNIC	f5079645857b7cb9244fee134cbcd65eee3125e27e341d10f507610c22a75bd0	01 Manufacturing	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	25999.0	FINETEC.COM.SG
+ORBIS	1183091ef3b21d5a2d94847a83aa2b166db58a9d24d061b97e0ae95396fa91ef	20 Administrative & Support Services	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	77391.0	www.audiovisuellepro.com
+ORBIS	ebc517c39f1f66a0cd1a55774032edd06f70fe5b7e4aa0da8a9199b5a589d1c2	16 Information & Communications	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	62021.0	www.aggasys.com
+ORBIS	7ca0f5e67c333440c2bb9ee3b1d7365417a24aec172f06244d951fce5726d187	02 Construction	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	43305.0	dor-com.com.sg
+SGNIC	94e2190111df405c2ecb295efaafdffaa50538a5e22a4c11c6e60df71927cee0	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	93209.0	SLINGSHOT.COM.SG
+ORBIS	fc49be58217ba9e7f37568b68085ea5b3c9db751b04c0e198ae456d260000b61	01 Manufacturing	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	04. 20 to <= 3	31001.0	www.binjai.com.sg
+GMAP	52f05e259dd0a6bbf6bc7802686b1e72fae8aea7246dfeec99ab5ac4b5db9213	20 Administrative & Support Services	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	81300.0	http://www.plantedearthdesign.com/
+GMAP	e2b2554034d8c22ac7d82fb895256e614b7cae99a0f238e8eaf87979b71e0d0b	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	04. 20 to <= 3	64202.0	www.nylect.com/
+ORBIS	e497eafa107b5d82837d2a1b0423924023a10dc97c14c9a27a72f24d3288a690	19 Professional Services	08. Above 100mil	05. Employees > 500	2023	05. > 30 Years	71121.0	www.johnsoncontrols.com
+GMAP	f74bda3ddb79c47da7ddfb2e1987520db5473f2ebdc3a1ec0b0b3a40217c37b8	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	46900.0	minebiomass.com/
+GMAP	67c2abf54922ee6a7c55fb6bc2757851c2a1379e5a7c3ca44d834d0430e58e89	17 Finance & Insurance	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	64929.0	www.sgcarmart.com/directory/merchant.php?MID=10797
+ORBIS	8c41a1acd0602ebc2a187116fafb827a796216f58af2cea0c39e63ea30a35802	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	02. 5 to <= 10	46632.0	www.jalhardware.com.sg
+GMAP	47aa3f78cb4eead681554e58d3549d0e6ac980f175a0f81e89e3d9d4890b8f98	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	64202.0	www.kkr.com/
+ORBIS	2eeca396036c6c7dd8a1c2d925ab79a3583a8d80061fd29b7e988a1d4004f037	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	95110.0	www.fredrikmarine.com
+ORBIS	7a5b44bc92d18eaf7b8afd989443735add4cbc94d6c7b18c265807f6817eaf17	20 Administrative & Support Services	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	82303.0	www.auxano.com.sg
+GMAP	0142520dc1e6512b07c5ec8602e86c477bbdb9912ee9f02133c8270f06b37fd1	21 Other Services Industries	01. <=1mil	03. 50 < Employees <= 200	2023	02. 5 to <= 10	94912.0	masjidmaarof.sg/
+ORBIS	0ef2aa172b62980ab770f379a4c6cc57ec8175f64b5c6a6cc58bd5d9e0e17652	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	04. 20 to <= 3	46301.0	www.tianshenghub.com
+ORBIS	bcc378f2c0a39c09092b14ddecd982caa909243838730042b211f360169b4269	19 Professional Services	01. <=1mil	00. Non-Employing	2023	05. > 30 Years	70201.0	aeaalliance.sg
+GMAP	633063569a30d38f876ee1cc82586afe1a1a150799f4c205bec2cf3be982ab9b	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	86909.0	http://www.sata.com.sg/
+ORBIS	e8e3816e86507767172c3a7c39820487cde99a4d82c6e12f5750f8b0c8677efa	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	46620.0	www.onemetal.com.sg
+ORBIS	294f298cb8d973134aff3cac15b63419b9dfccc72c31f4beeb98fbeabdeb21f2	21 Other Services Industries	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	93111.0	fitnessevolution.com
+ORBIS	26d0aa643baf2b9107b40a06b0b493919730198ed3fff8f0850ac16b09d90450	11 Wholesale	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	01. <= 5 Years	46301.0	ever-shine.com.sg
+ORBIS	7d5f2e5625983afcc17a102d2a3fc04c3b49aff7b2974b58e50ac22a938aed38	16 Information & Communications	01. <=1mil	Missing EMP	2023	01. <= 5 Years	62022.0	www.singaporetech.edu.sg
+SGNIC	cec85aff5f21ef6ae3b5163a838968a3befb4b65eb712a5a07d49b12978179a1	16 Information & Communications	01. <=1mil	Missing EMP	2023	01. <= 5 Years	59113.0	DOUBLEUP.SG
+ORBIS	bb8c0d4994c5189f4c83fde282ea9be3e97e4ee59141eb528f140b378ccfe4dd	19 Professional Services	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	70201.0	www.starmags.com.sg
+GMAP	36d69221883549b7f74a604c36af10b4a0102ee0bf3bf73270a3b20290d98278	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	86201.0	https://www.healthhub.sg/directory/14/59501/pier-medical-centre
+ORBIS	a608a05447a2dc6814fe65edbe4b6f26065682a651d483eb901c7796e4d7562d	11 Wholesale	01. <=1mil	Missing EMP	2023	01. <= 5 Years	46900.0	www.eaststartech.com
+ORBIS	870fc84c2acf6e21dd90f3bf23a31abb389ad4e0141aa9f34bff693eec55cf43	20 Administrative & Support Services	03. 1mil -<= 10mil	01. Employees <= 10	2023	02. 5 to <= 10	80100.0	www.aetos.com.sg
+ORBIS	a7ac89a0284cef88cc50e0129c3b3d3a47e24242d47f8e3be45879f702663fd7	21 Other Services Industries	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	85408.0	www.balletandmusic.com
+ORBIS	e974f274f443c80ab7d0bdec8daef99821b6cb53969c33aab5eb6daf6b98e708	18 Real Estate	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	68101.0	www.goshenprime.com
+ORBIS	ad8f37dd35ced0acea35af87c3fc4edccc064ef74fb46ca892216756b3c2dd6f	12 Retail Trade	01. <=1mil	Missing EMP	2023	04. 20 to <= 3	47630.0	www.cyclinglesson.com.sg
+ORBIS	b1eacfd5d57a0a64db984c7e40abd4246dda848c7b5872daeab8ea1a74518486	16 Information & Communications	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	01. <= 5 Years	61092.0	telin.sg
+ORBIS	1a8362c5b5d21d886ec4b1654808cb9cd4c015aa758d6f03875ef147f9c78415	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	43299.0	www.audax.com.sg
+ORBIS	70908e5d6607c8f99e3235bdfe31dfec4636dd17db603cf5c1a9388c7d2d4c91	02 Construction	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	43301.0	drfenterprise.blogspot.bg
+SGNIC	7b8872ec98b55d3cf9d8b46801db23dadc389ba0f6011f70c76c6a3130880a3b	11 Wholesale	01. <=1mil	Missing EMP	2023	01. <= 5 Years	46900.0	TALENTPRECISION.COM.SG
+ORBIS	5d9bfa369cc1af30925498ea6cc1bd5e8fbd1353ff8fb40315345901d3be4c0b	21 Other Services Industries	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	86203.0	www.heartmatters.com.sg
+ORBIS	ed33184b26d1ed415a3a34a1148a5086d12651710c8313a7e5802aa703625cc7	18 Real Estate	03. 1mil -<= 10mil	01. Employees <= 10	2023	04. 20 to <= 3	68101.0	www.estate.sg/paya-ubi-industrial-park.html
+GMAP	9235766c876e32d68f427aa00bff503f06c49ace67dcd7513d38d55f90fc6d97	01 Manufacturing	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	25111.0	www.facebook.com/XiangJinIron/?ref=aymt_homepage_panel
+GMAP	eab9a87014651589ae4a3dccc7b93f2039070b486ca16d24274bb0da18b9e02e	16 Information & Communications	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	62023.0	cubepayment.com/
+ORBIS	9a5d026f88a29b6665ffaa2d99d9026d174c4b9f7730c3e61b9ece6e03fddec6	11 Wholesale	06. 10mil -<= 100mil	01. Employees <= 10	2023	05. > 30 Years	46421.0	www.hogdiamonds.com
+GMAP	578b4431e760b1676b7e37fe364413930721592f67a840d5ca8d5cd40cac7683	21 Other Services Industries	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	96023.0	hanahnails.com/?utm_source=gmb&utm_medium=referral
+SGNIC	fe3047d9df936e2222b41f92bcd135759057d4f2535b9ccecdb1c98d75fb1f70	21 Other Services Industries	01. <=1mil	02. 10 < Employees <= 50	2023	01. <= 5 Years	95301.0	PAINTCONCEPT.COM.SG
+ORBIS	625e0ac00928171ec8f502caca9fcfe8b80a49d4f4744ce243efb31758674369	17 Finance & Insurance	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	64202.0	www.aoxinqm.com.sg
+GMAP	78a86ce26a20d8d8c3414ee2c2d0a4b37e11e33c6f2540dd072fc3421ce54dbb	15 Food & Beverage Services	01. <=1mil	Missing EMP	2023	01. <= 5 Years	56111.0	www.mookata.com/
+ORBIS	58c8c1d74f1ab32d84236e5cd533a723f00a8c233fad334f5fad966e42dc3178	21 Other Services Industries	01. <=1mil	02. 10 < Employees <= 50	2023	05. > 30 Years	95301.0	www.stcars.sg
+GMAP	85da039ea5ce6159c77412a72a82fcff51fd8597311c114f135660ae3034e7b2	21 Other Services Industries	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	85403.0	www.icastec.com.sg
+ORBIS	bcb84c814ef8d1d8d39768ec444403ebcc503ca2378c4e24474fe228131eb034	11 Wholesale	03. 1mil -<= 10mil	03. 50 < Employees <= 200	2023	05. > 30 Years	46591.0	ptc-business-systems-pte-ltd.business.site
+GMAP	4f059190c904927d3c59b27bb69c9b49b2bc6db0fe74acbfaecc95a0fe69fe40	13 Transportation & Storage	03. 1mil -<= 10mil	Missing EMP	2023	02. 5 to <= 10	50021.0	http://www.wilmar-international.com/
+GMAP	b954b2dd53a77fdb1a296bcc6d2cb48926f8d623f192aa82c625e4e7cb5b131c	16 Information & Communications	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	62011.0	openlink.com/en/
+GMAP	41a9ebba0c5c43ed34f3ca25f9778d21515316c25b7d9666aa9817754670970f	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	96022.0	www.willishave.com/
+GMAP	c1b7224033375b74d469deb212631b72e525959ec0f297d100b405b58ada844a	12 Retail Trade	01. <=1mil	02. 10 < Employees <= 50	2023	01. <= 5 Years	56111.0	yi-pin-ju-chinese-restaurant.business.site/?m=true
+WORLDORGS	1516f7766172b337a2c39eea934405ada559518ea95bfc8222272b5fbac5833c	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	86201.0	https://65doctor.com/doctor/david-w-h-kwee
+ORBIS	80eac731ed3ae74228e2c6c5c6df526b749301080d3a739a629e4a61b64e20b4	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	72106.0	www.ritusbio.com
+SGNIC	8cea613f19b5564b44a115f221c3e5e9c8ccc2c81ee1a6ab12d629661d146256	16 Information & Communications	01. <=1mil	Missing EMP	2023	01. <= 5 Years	59202.0	CONNAUGHT.COM.SG
+GMAP	47ef4aa08ec7474947b1d6dcc885e16810ad0a79d5ce4d143812ca86c4b9e790	01 Manufacturing	01. <=1mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	26119.0	zerro-power.com/
+GMAP	62b65fb17d2152349ea4911d999af501ac6afce8caac74c6093a660013089e0b	21 Other Services Industries	01. <=1mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	95120.0	www.singapuramobilerepair.com/
+GMAP	f6665771e39902ddc164a94637e8b376d670183af5f63c01670703d857701591	15 Food & Beverage Services	01. <=1mil	Missing EMP	2023	01. <= 5 Years	56122.0	https://www.briskrenovation.com/
+ORBIS	30fdf0e1655598ebb77c1ff72826a3ea9c199f7dff3ef600903ba7c798938ba7	18 Real Estate	01. <=1mil	Missing EMP	2023	01. <= 5 Years	68106.0	sunteccity.com.sg
+ORBIS	0870305b13cb036cdb93a3af46e4573f0b6178117619c9232df2b0a2e619640b	12 Retail Trade	01. <=1mil	Missing EMP	2023	01. <= 5 Years	47729.0	www.thegreencollective.sg
+ORBIS	483dc1c5c11c9221f39430061595ac49783d903185b2408eaa8e74850ecef077	01 Manufacturing	06. 10mil -<= 100mil	03. 50 < Employees <= 200	2023	03. 10 to <= 2	10732.0	www.aalstchocolate.com
+SGNIC	b952c54cc73bdd4ea06df9388c9844d44744d58886fbdb76debfb686a5856312	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	93119.0	www.sportzkulture.com.sg
+GMAP	66e00f0209dfd5e44e062a0b24aaf6d1510d610f756ef55c64cbec92e8e6b52b	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	46301.0	www.facebook.com/sgmushrooms
+SGNIC	92e22cd208d511b7d2e6744610afd0c093d4984fc7b36e46b0f5b15c2449bee1	11 Wholesale	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	46900.0	ALVIN.COM.SG
+SGNIC	9a9b7fab5d6f9797d1f6a99e6dbc7ccf439fff2892e8994ab4ef84a641fd8828	13 Transportation & Storage	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	52292.0	DRINKDONTDRIVE.SG
+ORBIS	036f8a25fc484df72c518d52fd50db5bac924739e015c2b2e7560b8fb69464d9	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	93111.0	imsolutions.com.sg
+GMAP	68ce71fdfbb6de3b92cca9b848c28a724ee4d3db3ddd06c7b2e943429bd70352	11 Wholesale	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	46900.0	http://www.k4connect.com/
+SGNIC	078454b0a404a873b7c9860b7e8be31cef5f9d1d38ffd26ce9c6a730bd4f1484	12 Retail Trade	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	47733.0	www.menswearsingapore.com
+ORBIS	79ca396f0920a0c454e6b86655bb33cb97ef198646e477199ebbf74940387c57	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	46900.0	micro-optics.com.sg
+SGNIC	5b7655162e5b7ca80a82952b5de2d4ccf39f463a073f8c70843e8b71d70e8949	16 Information & Communications	03. 1mil -<= 10mil	Missing EMP	2023	01. <= 5 Years	62011.0	METAJOY.SG
+ORBIS	02e8fa229dcc64f5678fb7e6bf80a9cea507849d26c93909991ea386a535fed6	15 Food & Beverage Services	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	56112.0	www.thuscoffee.com
+GMAP	454dba65627b45c4e0e0b14ea15dd5075c002d313f8ae0922c3b381c53d4f9e6	01 Manufacturing	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	10719.0	http://www.jadedmacarons.com/
+ORBIS	e93439ba438414ebab788a01fc87973c321774416b9a8453d8bf7fd0e89cb463	16 Information & Communications	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	63120.0	www.carotechs.com
+ORBIS	d2ec57b07061645591b408ef9b39f41871ada1a8da97267c83b165bf32d9fa61	15 Food & Beverage Services	01. <=1mil	01. Employees <= 10	2023	04. 20 to <= 3	56112.0	www.liuxiangtea.sg
+ORBIS	6fae935550d01d772d2e480266a6160f04ae8945afce563fe19417c8f7d86f8a	13 Transportation & Storage	08. Above 100mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	50021.0	www.chevron.com
+ORBIS	f0726d2e4cb32f552b5fc44ef933a5286e4a0e6796a309fa6f15ae2faecc08c2	17 Finance & Insurance	03. 1mil -<= 10mil	01. Employees <= 10	2023	01. <= 5 Years	65202.0	www.pinnacleunderwriting.com
+SGNIC	7ba187cce4830364c40dc7d72494eb98907e7d7a7583db957ac5ead5bb64321b	02 Construction	03. 1mil -<= 10mil	01. Employees <= 10	2023	04. 20 to <= 3	42909.0	ISE.SG
+ORBIS	c9f24ad3547abfee137a48863380f2c7ce0446c0ea46e8787334fc3d0b6b931c	01 Manufacturing	03. 1mil -<= 10mil	03. 50 < Employees <= 200	2023	05. > 30 Years	25921.0	www.sterling.com.sg
+ORBIS	2cc6737b48ef8f1b7dc561af9e5f82cd691c8074127fd6ed197f56a0543ed786	17 Finance & Insurance	06. 10mil -<= 100mil	04. 200 < Employees <= 500	2023	05. > 30 Years	64202.0	www.sembcorpmarine.com.sg
+ORBIS	7896b026e71a9482d69de7f2e32e077d3d0e209bad0bc50c4c197df53da3564b	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	04. 20 to <= 3	64202.0	keppelland.com
+SGNIC	c67ed936ace381d618c650a261e2e8fef39060fbbdb4c733bb0ee35555230ada	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	70201.0	LGB.COM.SG
+ORBIS	a6b6191ebc97becb0a3f111e15891735b04b4fca2ecbeca2b8e081ae7ada3293	16 Information & Communications	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	04. 20 to <= 3	62021.0	www.transmexsys.com
+ORBIS	8f055c9154719fa61d7ba6950a9f0bb4b5ab287231930c992c3a9816c3d51dd7	16 Information & Communications	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	61091.0	www.italkbb.com/us/chs/index.html
+ORBIS	9e08e34fe538795f97cc32ceb17c29be491d918697f70ffbd749bd13c0490a79	11 Wholesale	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	46610.0	www.alwadoenergy.com
+GMAP	fbde98a35879bd1ab054a2a699b545aa3a238b865d0ef61083cacb5539568818	19 Professional Services	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	70201.0	https://www.youtube.com/c/shinyhappype0ple
+ORBIS	4196ec8c9eb5131c250f30bcfad06000239af30f5e3ff74d6831f4e2a9cf8661	02 Construction	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	43121.0	arges.com.sg
+ORBIS	4a576a3f5a5eb33a63e6980a1b0bc3b7ed723d382d86dc6ff885c68c4630267c	11 Wholesale	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	46900.0	giftsdesign.com.sg
+ORBIS	60928e21b70f27da810e6843353e185218ed0252885bae30801b5a89e53d9fa4	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	01. <= 5 Years	64202.0	www.asiandetours.com
+GMAP	8bb525a5b70e09a7bd92ed4874af010fd1702506dad348897204155b360dabc3	19 Professional Services	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	70201.0	www.compassoffices.com/en/locations/singapore/singapore-land-tower/
+GMAP	b411592905a7f73b070863859a0c2754d605900f3b87501345d9b7e19f4f9560	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	05. > 30 Years	46473.0	www.yellowpages.com.sg/company/acts-plan-pte-ltd
+ORBIS	5ae1546b6d7b415aa822f24a1df0ea0a62be1a21540c1bebc577ea5c47832c3d	02 Construction	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	43210.0	gslproductions.com
+GMAP	281e27a8f85b47f77cd8e77828ea271208ffaf79840f841c7ef2374faa666c8f	02 Construction	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	43220.0	www.bca.gov.sg/BCADirectory/Company/Details/200402113E
+GMAP	03a647180fc195b553e67d6e87d4aa3779c3112cc777d1fc4795827d61713829	17 Finance & Insurance	06. 10mil -<= 100mil	Missing EMP	2023	01. <= 5 Years	64202.0	https://www.robertwalters.com.sg/
+ORBIS	98c6659f1db5c3e845b00adf9f57e2ae3dad2286ef1153c1edeb57e623dcec40	20 Administrative & Support Services	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	81300.0	www.amozonialandscape.com
+SGNIC	7d1111e1c7e4a80293676eaa5dae0324920581605c16b27ee6dcef1eb1788f26	21 Other Services Industries	01. <=1mil	Missing EMP	2023	01. <= 5 Years	85409.0	TERRAFORM.COM.SG
+GMAP	6e9f94a6d48360b41168b8fad26b03b37f0590da4d0d412fe997a517463c81b5	21 Other Services Industries	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	96024.0	agynessbeauties.com/
+ORBIS	e0713d244e302bded27c57e6825f02df2c053ff1008adcbd79cf4dc1ac4dd250	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	04. 20 to <= 3	46900.0	www.procomps.com
+SGNIC	a034eeffd9c0c7bafeaf6453c2488057d60e4af785d16a6e72b9af695116d273	11 Wholesale	06. 10mil -<= 100mil	01. Employees <= 10	2023	05. > 30 Years	46303.0	GKINT.COM.SG
+ORBIS	e0e8f534fcdfe08095e0a8a38a5eeca2c1cc0a9566bda1ff0bab81cfbbf03e17	12 Retail Trade	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	47719.0	www.oxhideleather.sg
+ORBIS	ba5f2121c802b235765e4fd500f3ad6d86544722d77a1d8f06f894b6b850de04	20 Administrative & Support Services	06. 10mil -<= 100mil	03. 50 < Employees <= 200	2023	04. 20 to <= 3	78104.0	www.rmaconsultants.com.sg
+ORBIS	3714f2397bb6bd4fb7e328bdf67e448540b29dd9981ac72f219d1deeaa451e28	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	46900.0	grandwise.com.sg
+GMAP	ff0623456f9fb5dabb4e9151be9a51a00bbe4f4a1127dde94a5ca4bcdf6ce7a0	21 Other Services Industries	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	85409.0	www.univers.com/
+ORBIS	6c7fe711d27483614efa54ac644b59f70f9e4512f9d449efaf7b7654c026212b	02 Construction	06. 10mil -<= 100mil	01. Employees <= 10	2023	04. 20 to <= 3	43295.0	www.brederoshaw.com
+ORBIS	11ba6761df9dde401674dd91ea339c043658b12b87b0fe341901bb46b1a2488b	11 Wholesale	01. <=1mil	Missing EMP	2023	05. > 30 Years	46441.0	americ49.wixsite.com/mysite-1
+SGNIC	a545a513c2939b12f1a6b9e6c0e2564621cce3782dd633f1bf2e098bf80b70e5	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	70201.0	ATS2007.COM.SG
+SGNIC	e364651bd27f4ab32dcaaab0601f70d52399806b13c3c9887ccbf96648603774	01 Manufacturing	01. <=1mil	Missing EMP	2023	01. <= 5 Years	28242.0	DRILLTRAKSG.COM.SG
+ORBIS	958ca81201797f16fa6db31b8b8d304261205d5c60b36b27670fc9179b1b1df4	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	86201.0	theclinicgroup.com.sg
+ORBIS	9a29805c58b2c960f6fb41dcf221d2aba384e42bed917372cca402f18320bb81	19 Professional Services	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	70201.0	onesearchconsulting.com
+SGNIC	edeba15b404f84483144d5df16352b78850f72b24469834eac51244a7a33ac48	01 Manufacturing	01. <=1mil	01. Employees <= 10	2023	04. 20 to <= 3	25929.0	TRIUMPHP.SG
+ORBIS	2ace0bdbe61edfbb87b5c1a91d9e315aa5781e50d162b6bc256085bd6e7099d1	11 Wholesale	03. 1mil -<= 10mil	Missing EMP	2023	01. <= 5 Years	46900.0	marine8.com.sg
+GMAP	f5207a3b1306e9c019aa3b4bb2824aba6369829c0c8982274d3e384c6477b757	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	70201.0	http://www.tib.com.sg/
+ORBIS	a3d252f731f0651d6ba9f54cccd9dd871b03c3d4b23a955a2d1d2d4b5f0cf6c6	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	05. > 30 Years	46610.0	golden-island.com.sg
+ORBIS	397158a9337ad0c723cf92631f4439162880aeb43948cd1e02c2980fe662035b	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	86202.0	zhongshanmall.com.sg
+GMAP	941ce00f9ca51e19abe27b55d78e09403ffe50c5f5235f4ffa73e384bb31f7fa	14 Accommodation	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	55900.0	http://studyabroadsg.com/
+ORBIS	63b94135055c286e11dcf9a6527e420a341842193d72582e2bdaf12f276619ef	13 Transportation & Storage	03. 1mil -<= 10mil	03. 50 < Employees <= 200	2023	03. 10 to <= 2	53200.0	www.myclub.nichecourier-asia.com
+ORBIS	8036420a4ab6ce776f697fe21a320d7adf996cf6a241a2b7b095f202046eff6a	21 Other Services Industries	01. <=1mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	88102.0	www.caritas-singapore.org
+ORBIS	0352eb71123fdc52a3ce8d1d310a6d2be30983c5ffd9b26118f05fe0877b0647	11 Wholesale	01. <=1mil	Missing EMP	2023	05. > 30 Years	46900.0	en.sunrain.com
+GMAP	daa36c21c3908581aea24b99b6a7f1b7518e1689fde4c54be1768144ce244f5e	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	05. > 30 Years	96022.0	http://aylabeauty.com/
+SGNIC	dd7a36a90b20c54fab969d2e5f19077a19f3702873fc69f056c0103e8a49d6f4	01 Manufacturing	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	30110.0	CMSPL.SG
+SGNIC	c2ba37a4dc7f46992b20a048c80acc15370112f6d51b867b0427f9785ae78898	01 Manufacturing	01. <=1mil	Missing EMP	2023	01. <= 5 Years	20233.0	KAFEN.COM.SG
+ORBIS	0649752927ae5ae523a1a98cdcda8f62c3b7d87b48e0e40c4820214002916aad	19 Professional Services	03. 1mil -<= 10mil	01. Employees <= 10	2023	02. 5 to <= 10	69101.0	ip-law.legal
+ORBIS	853d36c064956222a2d6ea64009a2a7721e329c1627d5a8e8710026452d50c37	16 Information & Communications	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	62011.0	www.asalta.com
+ORBIS	d3ea99f235316ddf98a6fbceb771b888028394bb15c556b2b570a841553614b3	21 Other Services Industries	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	96030.0	www.greenpasture.com.sg
+ORBIS	1ce758055f466f2eaa0da415c375e06e50bec268b05bfe8aafc7019299af711c	11 Wholesale	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	04. 20 to <= 3	46563.0	concordeauto.com.sg
+ORBIS	71d6b170680f1da2765ba87e7be9d2e7a7e3f491276278d17a61e1601ac8c543	17 Finance & Insurance	06. 10mil -<= 100mil	Missing EMP	2023	02. 5 to <= 10	64300.0	www.straitsrealestate.com
+ORBIS	ea64dd7093cc52f8b5b1c7885159b7857f0f00cd74b5c0ffb93500f4d0b8afbf	01 Manufacturing	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	22219.0	www.abprx.com.sg
+ORBIS	0e0f0a0e68a7e135706d2a8f6d015fda201d4b9eff516ded528cd30e699068b0	12 Retail Trade	03. 1mil -<= 10mil	01. Employees <= 10	2023	05. > 30 Years	47731.0	geeweejewellery.com.sg
+ORBIS	fc2869b89ac7c29e676af5b241eb7b70c6b414a5161f3cbc5e285e8886661db8	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	01. <= 5 Years	64202.0	changcheng.sg/en
+ORBIS	575b392cd43b84bbd0ba5e1c8055f02e8a8e8686f9141af68d6e038e44a40faa	21 Other Services Industries	06. 10mil -<= 100mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	86902.0	www.cmi.com.sg
+ORBIS	e4c6e92cfaa22d026d24e845379e594548352a09d708ae418c386320f1e78121	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	85409.0	www.aspirehub.com/branches
+GMAP	fee6e9e15d4e2208d8c2a2453dbac9198fbe61dbae355323030fd023d5ecedd3	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	85509.0	https://tms.in.th/
+ORBIS	9a6ff9f5f0605160a0978098c56fc893178984b2bc5d074afd7402a015b94c36	13 Transportation & Storage	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	52292.0	www.tcbgroup.eu
+ORBIS	487fc2aa9697337a4de751f9e79d625f553d28012531caed87ed64b6cad37a23	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	05. > 30 Years	46641.0	www.aw-mt.com
+ORBIS	e0b4e0391890076b65deea95e63c673fbaa293ee5ea1c03a7b9477d6f5ac4a87	01 Manufacturing	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	10712.0	www.nickvina.com
+GMAP	80793b1c9ad1e59febb0b60315ca3b957af21f57df57caeff3383e84db0aaba1	13 Transportation & Storage	08. Above 100mil	03. 50 < Employees <= 200	2023	04. 20 to <= 3	50021.0	YML.COM.SG
+ORBIS	6ce10c9bd02617fe1e09a56241c093d9b0151e5c8fe5e07159ac791ffd5b26e3	01 Manufacturing	01. <=1mil	01. Employees <= 10	2023	05. > 30 Years	25939.0	www.dialalock.co.uk
+ORBIS	f09ba51235f4c5ec795fe0c93b265e1a9894e3b2aabfdabfb352c1fc5cd58bc5	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	05. > 30 Years	70201.0	www.perfex.com.sg
+SGNIC	a2f13dc27e3c98f043b222346e56cb5ead34a38a0f6b7abc3e55957927bcdbf9	02 Construction	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	43210.0	www.sgelectrician.com
+WORLDORGS	2615305781f2b30fc45d243fd4aff4f82d9158d08b575c34ba44285418d52f23	21 Other Services Industries	01. <=1mil	Missing EMP	2023	01. <= 5 Years	85409.0	https://littlemoppets.sg/
+SGNIC	29f0a9031708832e09fc7ad8dab66c339ba74842161cadcf2fc48c8b5cc8d035	11 Wholesale	03. 1mil -<= 10mil	Missing EMP	2023	02. 5 to <= 10	46900.0	wickedwag.com
+GMAP	dd162fc74df5ed7136efd9dc3538b7465dbd0eb87c7b654a837eb4d1bf5e33d0	11 Wholesale	01. <=1mil	Missing EMP	2023	05. > 30 Years	46301.0	https://fruitguys.com/?utm_source=sanfrancisco&utm_medium=organic&utm_campaign=gmb-listing
+SGNIC	18a928f0d2567845551e447a050c3c9e993ef1e77c2d099e50c93ea8c63af35a	11 Wholesale	01. <=1mil	00. Non-Employing	2023	01. <= 5 Years	46221.0	MOMENTUMGO.COM.SG
+SGNIC	acc5bf0c900d52363afb0b02fa539fac750861a97638694054d5338b00c98f96	02 Construction	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	43301.0	cloverwerks.sg
+SGNIC	164f0136fbbd38f87ee1dff61569fdaddccaa8ad9695cb7f1fa044a260a922e6	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	64202.0	JVJMGMT.COM.SG
+GMAP	ea117ea54e531b3f75ba88afdc4767271190a9d9d7f969ad887323dcc1943677	01 Manufacturing	01. <=1mil	Missing EMP	2023	01. <= 5 Years	32509.0	https://thesmilemakeoverclinic.com/
+GMAP	78dcb63252d809be80e4fad26951aba30593e7e940ed68b73377cd75db3b46e0	13 Transportation & Storage	01. <=1mil	Missing EMP	2023	04. 20 to <= 3	50023.0	http://www.orientmaritimegroup.com/contact
+ORBIS	bcbcdb03343eabcd223480b3061ae51565334550873590258ad69810f4a65dc5	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	64202.0	www.gardenimpact.com
+GMAP	1c55656b8a1dcab4a5199e97961cc667c409ed753a176081348443c9505dace9	12 Retail Trade	01. <=1mil	Missing EMP	2023	01. <= 5 Years	47711.0	http://www.byte.com.sg/
+GMAP	6678c7bdc85b2c343b637a03d01b886da4d87d392cbbc9ed51ba85026eb530b4	12 Retail Trade	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	47711.0	shopee.sg/snailaxsg
+GMAP	a8e8cb5d9b2af8019c97ea26461b7a455ca8b09379f408c9760149d40e107b13	15 Food & Beverage Services	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	56111.0	www.burpple.com/abc-king
+ORBIS	df1aa4e4f7c8f605d2ccf2ede84d4b59b709d366d1ed8128d3e22aa37a5530be	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	05. > 30 Years	46900.0	www.npac-intl.com
+ORBIS	5fea9142a0f1b8e1efe360ba6264203ca5f84f788276677dfc7f15e751057df9	18 Real Estate	01. <=1mil	00. Non-Employing	2023	01. <= 5 Years	68103.0	bespokehabitat.com.sg
+ORBIS	cf7545fc9946beb3f2a0993a25a952646df6238f68cd4bba4ee4716d5d41aca6	01 Manufacturing	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	22216.0	primax-intl.com
+SGNIC	c1a4024688b86a97de3e7c38d64a68e385ee0a6579309eddbc4d2a4c8aca3402	21 Other Services Industries	01. <=1mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	85101.0	alamin.edu.sg/our-schools
+SGNIC	80614694634e9e70ac8ebfcd5c6bb970cd9af10d22b8422eccbef601fd4cb477	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	46309.0	NIVAFOODS.COM.SG
+ORBIS	500b5155b9a6d07f67856acc66e09a822b10c9e32e3cc0e056aaa429dab8942d	11 Wholesale	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	04. 20 to <= 3	46632.0	www.meshlxf.com
+ORBIS	dd3307c5f755e85d1474cdea9a0d7219b32c5e16e205d00292449239055ff0ea	19 Professional Services	01. <=1mil	Missing EMP	2023	01. <= 5 Years	74902.0	www.ncvision.com.sg
+ORBIS	dbdc3a0f03e73f101443647c3ff116d37c6e7807790bfadb794cb15db1fe4d2d	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	46541.0	www.fesvtech.com
+ORBIS	f406568cf0c63a5fc6176b032e4e5eda8a8a66938b7f3565d64540aaff0f8a66	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	46900.0	tomikiaikido.ie
+ORBIS	7bb54635e2b72014e478f27425818daf2e56ec21da2cb96e4f2e873381320b29	19 Professional Services	03. 1mil -<= 10mil	01. Employees <= 10	2023	02. 5 to <= 10	70201.0	www.taxisingapore.com
+ORBIS	a704b2becb2a49e966858169a7315ff8e6e570c2b1404f7895db0466e68a1b3f	13 Transportation & Storage	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	49215.0	limousine.com.sg
+SGNIC	fa649713ac5f55fc1cca060a2e724951b6bd39c11307ed4e95144a1811da8038	15 Food & Beverage Services	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	56200.0	LEPETITMARCHE.SG
+ORBIS	ce6b37518f0aa016b8b4aa4e58e133592b7c6babc1818b746ec5545ea14c3794	19 Professional Services	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	70201.0	www.cjg-consulting.com
+ORBIS	2031292d0046d869f160235dcb5ca37913743faebfda98a8fd4666d4797a6750	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	86204.0	ashforddentalcentre.com.sg
+GMAP	1d9d49e74e18e006c79c15c2ff65d8f94bd282d499fd3046f24d7d61d1dd237e	11 Wholesale	06. 10mil -<= 100mil	01. Employees <= 10	2023	02. 5 to <= 10	46561.0	http://www.jupitersg.com/
+SGNIC	6b0e055f1e7d2108d4d28ea7e155f36fbb4a25176b5ba766f2269e5fce437e94	11 Wholesale	01. <=1mil	Missing EMP	2023	01. <= 5 Years	46900.0	POWERSHARE.COM.SG
+SGNIC	38a7dfa2999ee09225eac2b06fc9c0964e852da9892a2de9d02f4be847d59c01	11 Wholesale	01. <=1mil	Missing EMP	2023	01. <= 5 Years	46900.0	ARENA.SG
+GMAP	00822d41d1e71ad45c42b75335e1dd868ab13fedc86815b8188b4b504731b3b8	02 Construction	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	42202.0	www.sgpbusiness.com/company/Janakuasa-Singapore-Pte-Ltd
+ORBIS	7bcb60ad225ef0cdd1d4438e01b75cef7724c0323d431f73799aaf4f028f0716	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	01. <= 5 Years	64300.0	www.onehillcapital.com
+ORBIS	243eea9fbda28aab010d1dca732dce9c1fa638a85678c2129d6bdd6bda64ee74	19 Professional Services	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	70201.0	styleinfinity.com
+ORBIS	6fa043b3ec7d7d14e5252c12b3220e3b0827f9201b3b90cf213b99b974de1ba9	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	05. > 30 Years	96022.0	snips.com
+ORBIS	80eb809bcd760a03ae132b8c61155b2766de638fe6732e73e27a9d2b6966c9d3	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	86201.0	ansariclinic.com.sg
+ORBIS	d143cb9367014371595869ebc6047484271dd8918f7c7099de2d7f623fab81cc	13 Transportation & Storage	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	49212.0	www.lihaoyi.com
+SGNIC	a3dbecf63ebb2828edfef0f2d181ecd25833176516ca10165d6bb7ea6b737607	13 Transportation & Storage	03. 1mil -<= 10mil	01. Employees <= 10	2023	02. 5 to <= 10	52292.0	OPTIMUS-LINE.COM.SG
+SGNIC	5e0ca885c4f62eb66d003538ce504bc141b055081e6870ba10e137258f607f90	15 Food & Beverage Services	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	56121.0	KMGROUP.SG
+GMAP	5f05f7400f6d651b3fcb8e1dba449f56b012dffbf1d46e49cb5599506155c176	13 Transportation & Storage	03. 1mil -<= 10mil	01. Employees <= 10	2023	01. <= 5 Years	50021.0	http://farenco.com.sg/
+ORBIS	c81fa7cec0297d07769164c4fb57f889bae844af69dab59fb47e845c9826d6d2	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	85407.0	www.swimlesson.com.sg
+ORBIS	3686be3b6aaebfb24f7e4f99fc962dc35a7d1b0334dfedc542fc4c847ccf1ffb	02 Construction	01. <=1mil	02. 10 < Employees <= 50	2023	05. > 30 Years	41009.0	salioconcept.com.my
+ORBIS	31a1a1fda33793c867791500c806f270ca6520fdd0fb84d89a5f9c277093dc3d	02 Construction	06. 10mil -<= 100mil	03. 50 < Employees <= 200	2023	04. 20 to <= 3	43309.0	kongsberg.sg
+ORBIS	eb305ba383302a3e75df56761ffad5f44a321e67b4c03b9d424b6a073cce12be	01 Manufacturing	06. 10mil -<= 100mil	03. 50 < Employees <= 200	2023	04. 20 to <= 3	25997.0	www.tmomfg.com.sg
+ORBIS	2dcd9f57f0b076e8050a5c43e96ad02bff5f2d4dcc696bc047d9d962c68682d3	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	70201.0	www.findasadvanced.com
+ORBIS	98dc88e92cd3d7234c2e8dbce94bc09cef3bca7e3ac24fb931df0823b1e08cc4	11 Wholesale	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	46900.0	bulkysolutions.com
+ORBIS	2ccc3b903a37eb66e1542908bd9aa15519f0cec6c7e745c5dc1f5b66672872f6	02 Construction	01. <=1mil	01. Employees <= 10	2023	05. > 30 Years	43220.0	www.plumbtechco.com
+ORBIS	bae1d66868ccfb0bfddc9f6bbe79715775ddefb87e57b078f8edf0643500e216	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	66199.0	arcadiatrading.net
+ORBIS	3238ee78d5c860f6dac63aa000afa4b9996914b5ed4a9965031f513bd725b998	11 Wholesale	01. <=1mil	Missing EMP	2023	01. <= 5 Years	46592.0	aaspl.sg
+GMAP	d9699537b4a01f1ffff1d85193250fa74e20e275b39d8f91336e8ee13e039b68	19 Professional Services	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	71122.0	www.sgpbusiness.com/company/Gentech-Engineering-Pte-Ltd
+SGNIC	44b1c3731438035252f6c636963d1f1174f89b82d46279a1d92e1cdacd5783b1	16 Information & Communications	01. <=1mil	Missing EMP	2023	01. <= 5 Years	62011.0	MAKERTECH.SG
+ORBIS	9cdfb9c33143542afb2e652e17974a8ee3bb114839cc3d7b48763c3f66904eb2	02 Construction	01. <=1mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	42101.0	blugraph.com
+ORBIS	f06a219152550d7f60ec5edfaa262e36d5f5787f09b274a200651b2a9cfd1488	02 Construction	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	43220.0	yohokomo-singapore-1979-pte-ltd.business.site
+GMAP	c154f9e482a30ac8a448167716fd0a6e7b0f91ad93a4f18082e736bdf28abac0	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	64202.0	http://www.mhiap.com/
+ORBIS	54b2a94e080930e127693df62982cc9b95188f404c524bc6bee220728c372ffe	18 Real Estate	01. <=1mil	Missing EMP	2023	01. <= 5 Years	68103.0	thk.sg
+ORBIS	94eb05cce3d0a070f9bffa87e6414d8313714fc3d4fc5fedbefbb4854843175a	19 Professional Services	03. 1mil -<= 10mil	01. Employees <= 10	2023	02. 5 to <= 10	70201.0	korefusion.com
+ORBIS	e878aac7c0abcdf83540654c3564841e12f154a6f85acb21cdc6a7dfe9c6a4f9	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	74192.0	roomism.net
+GMAP	e7caf927911df4b4293423134f8ff17fc4348985b7d49fa57ae816c220ce7f23	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	01. <= 5 Years	46301.0	freshsg.com/
+GMAP	b68ec729d285d1ed03d269c13365e7398f46625ddd0895fca387ac6b537354b6	02 Construction	03. 1mil -<= 10mil	03. 50 < Employees <= 200	2023	03. 10 to <= 2	41001.0	www.bca.gov.sg/BCADirectory/Company/Details/200714354W
+SGNIC	005a962027b5599f6a76a2d4fc49fecf91eade5f0aa36440f53eada7dac36324	19 Professional Services	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	05. > 30 Years	71122.0	ACCENT91.COM.SG
+SGNIC	41d5adc2b7ec6d79453507ddcd6ce8e3e3242b59806fedb731fba96c91dfd90b	20 Administrative & Support Services	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	78103.0	www.bestmaidemployment.com
+SGNIC	67fc9897154e498d49b1c8eae391b8b028265048faf766cafa8c0760038373e5	16 Information & Communications	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	62021.0	www.artsofmaya.com
+GMAP	8577f1d5e20e5d3d971919643aea89e9167792053413f82e63a1ff7a642b37f8	19 Professional Services	01. <=1mil	Missing EMP	2023	04. 20 to <= 3	73100.0	www.kimtiong.com.sg/
+SGNIC	b76477e17c89e70fb04a21fc109762e8d0e18f4786ea5e7e33cad2c592a2ba91	11 Wholesale	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	46523.0	LIMELITETRADING.COM.SG
+ORBIS	29422ad5f55e2c8dab8ac8b13cfa6d91799464ffe347e66f9e41ddec99a22606	19 Professional Services	01. <=1mil	Missing EMP	2023	01. <= 5 Years	69202.0	zenit.sg
+GMAP	292ac17dd70ed02292e078885f1de27a61902b42b3f425f1cd104e165e4b8fd8	01 Manufacturing	01. <=1mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	31003.0	www.hiddenwallbed.com.sg/
+ORBIS	2663dd7b0e452897af1192c7e0e8e2ae29cd9bef00a8d855f8dfd2eb71387aa0	15 Food & Beverage Services	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	56111.0	www.yellowsing.com.sg
+ORBIS	37253eccc79edc4c40ca561da8a0f3c00d522d45e0c1989c78ebe93a7f0a43e0	01 Manufacturing	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	18113.0	printpartners.com
+GMAP	b796b17e8715d48844812b0ada8615bb0a1fc7fafd388b55e931b5d5e487b6e1	15 Food & Beverage Services	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	56111.0	www.magswinekitchen.com/
+SGNIC	3cdf8621d15dc5b925e8e091b295a9f094d07dad0f5561d48fdd81e4335426a2	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	46900.0	LUXEATELIER.COM.SG
+SGNIC	782401d8f92b7438e878b593d7cc5395ac32872b3605e5b34fe602d03e4a8a32	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	94999.0	PCDA.ORG.SG
+SGNIC	dfb9398a3d6ca8ef37402b25d70ffb4958a73d37d7003a5fc835ca0a3ad059d0	11 Wholesale	01. <=1mil	Missing EMP	2023	01. <= 5 Years	46592.0	SNDHEALTHCARE.COM.SG
+WORLDORGS	bda4f979d04f49e7f6a9a4e2b899a062005f42077a1425db95e31ebc0f5c8a87	15 Food & Beverage Services	01. <=1mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	56122.0	https://www.facebook.com/soonsoonsoonwantonnoodle/
+GMAP	7724314f206289d43dd1d6cfa2f08032009ecc7bfe2adc21312dee1da407c198	11 Wholesale	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	46593.0	www.bakersbrew.com/
+ORBIS	321c83a01336c9c89b73294b4b9bab1684e90018b71f2d8752162ab9a78fc992	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	01. <= 5 Years	64202.0	www.phillip.com.sg
+ORBIS	67f4544e5822697c24b6c6674d7572cda81ed789428ddd09e1815de2bb8cc34a	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	05. > 30 Years	64202.0	www.tathong.com/en
+ORBIS	b871baccccef3fb717f1d275da2225a8dbf80c9f24237ac5daa1c0a25db68a06	20 Administrative & Support Services	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	79102.0	www.drukasia.com
+ORBIS	7e86bf4aa7eb7300b7b26a87cd51e697ca33106d450f220409d5bbd21827591f	16 Information & Communications	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	62011.0	kingstech.com.sg
+ORBIS	570827073ea48bef9eded2e86b77dad0302ba287fbb0a67a3efbcc49ec9cf221	19 Professional Services	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	73100.0	www.kncomedia.com
+ORBIS	3303c7ff861c58c839d3290387da88853efb20b60d3325f04ab689332a896046	12 Retail Trade	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	47721.0	www.docte.net
+ORBIS	ae0eb1cf9896f93fd626919e3ad1414c25a66f1b5ef8d18464dbde0de516c74b	13 Transportation & Storage	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	04. 20 to <= 3	52101.0	www.ubts.com.sg
+ORBIS	5dbca83577f7838186f225e8463f3eec576f5bab469077235d9a3becd02c4fc7	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	46521.0	www.allbright.com.sg
+ORBIS	bacda9ffd55fcd9e59f74a6f70db94f2cb216b9165a31668c68ea31472cad96e	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	01. <= 5 Years	66192.0	www.atlanticpartnersasia.com
+ORBIS	c8ff0620ce9f0f4423e66fe5acc41915b9cfde5d3604a0139d67d9fccf0a83ce	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	01. <= 5 Years	64202.0	www.interislandmanpower.com
+ORBIS	634e786eb8acbd2f4bae60cfe9b2297a7c5c64f8714093eded0e94abf2757ded	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	05. > 30 Years	46541.0	www.ictpl.com.sg
+GMAP	c23ccd56f7a1d5900452646ea70e2c2cbc56faa3a8811b8003030bdc1eefccf1	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	71129.0	www.straitsmarine.sg/
+ORBIS	97736132deddd37b24d059fe5e9a633edae185720712ef32bc20874a0c927581	16 Information & Communications	03. 1mil -<= 10mil	Missing EMP	2023	03. 10 to <= 2	62021.0	www.ingenious.sg
+GMAP	8181528c129d763b89d2352ae7923e9a4fe6dd4ed16c37cb433b1fc38387f24a	15 Food & Beverage Services	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	56111.0	www.foodee.com.sg/
+ORBIS	cdf691b807707348de42dd85f25447d2e05f197a00481e1b9b52f9bae2793047	19 Professional Services	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	70201.0	aphrodite.com.sg
+WORLDORGS	475566079508829ab35e6c52e03596b6f7ed57f13916110488fac175414cb65b	15 Food & Beverage Services	01. <=1mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	56122.0	https://www.facebook.com/SHU-Vegetarian-303321370009833/
+WORLDORGS	ae68047b27abd2171931ccc2d7b9163ad41c1ca6b714f70f03e68ddaefa89b01	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	69201.0	https://benevolent-business-services.business.site/
+GMAP	5897df59b6b96566f3935ea9a5ab8361e41197d8c714a4398460c7d776e011e4	20 Administrative & Support Services	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	82920.0	www.acepeak.com.sg/
+SGNIC	428f6f00212d92f15ac360029d513bfe1fccdd057e52e1ff50e06aa7111fd6a9	02 Construction	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	43301.0	FID.COM.SG
+ORBIS	234a6e84dc763a7320dba7bc530c1902f57a54065c5d612be53e347d865a8443	15 Food & Beverage Services	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	56111.0	greenleafcafe.com.sg
+ORBIS	cc2878c2af2402411c60278a077a2347be3eacc4f86b452a566a7b94fcbf9d58	11 Wholesale	01. <=1mil	02. 10 < Employees <= 50	2023	05. > 30 Years	46551.0	www.niigata-power.com
+SGNIC	67e80cc19429caafb87f906bb64e05312875372badc4ffdfbb79637a6dd2d7d0	01 Manufacturing	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	28300.0	RMM.COM.SG
+ORBIS	6b7bba662e42a2101e53824aab4389f0ffed7a0b38d71ffbb18e6b334bb6e241	16 Information & Communications	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	59114.0	amc-studios.com
+ORBIS	0f88130f1b2c64c0864adfcd0b05e8f749d5c8f91fdb1535b524a60152be1fb6	12 Retail Trade	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	47721.0	skinx.store
+SGNIC	df6e8f6532b9cb23bbcfa15cb558f92125ebb9d4c3b14214a2db3c58c0e4768a	17 Finance & Insurance	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	64202.0	CASSIOPEE.SG
+ORBIS	b25fc5ddbc89ccd161d03783ac74bc142be682ada9f296e0b99cc0cb8c4db163	13 Transportation & Storage	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	52212.0	www.ttl-bg.com
+GMAP	dd58701179543cae2da2e2fea11347e1268bb80d34df910674a4c3e6e800cc66	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	04. 20 to <= 3	46563.0	www.facebook.com/pg/SurpassAuto.sg
+GMAP	482ebe701f9aa4d4db46f0388d994b909c32238d190433b62893805b9fcc095a	11 Wholesale	06. 10mil -<= 100mil	01. Employees <= 10	2023	01. <= 5 Years	46900.0	http://pfyn.co/
+ORBIS	75bac2db0816e985cb9599b8e841dd9737c677914f49f75e51e7c8d37620386d	16 Information & Communications	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	62011.0	www.leadsinteractive.com.sg
+GMAP	0150a74a0ea7ca535f4e4982e01e24896a6e64b92be57672f427f7d5633e2a50	15 Food & Beverage Services	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	56112.0	https://www.funtoast.com.sg/
+GMAP	b638fad1acebb6257e63e0a6682666437832bb77cec7c7f417bd61dabef3040b	11 Wholesale	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	46900.0	http://www.yiyunmovers.com.sg/
+ORBIS	571662243f08acbda15656a656ae5eb8b8952ff52df72e8802be32d205d9143a	18 Real Estate	01. <=1mil	Missing EMP	2023	05. > 30 Years	68103.0	www.hotelprop.com.sg
+SGNIC	007d57b553320551103baf6eed5695d93748650532c1bbdcffd1452bd264ddcc	18 Real Estate	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	68103.0	www.keepoffice.com
+SGNIC	c0ab2c464f2608236f2beed1bcbf17ca7b4bfaa1b373f2cdfbc4e71e63f12a5e	12 Retail Trade	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	47220.0	POWERON.COM.SG
+GMAP	3784bf8df9aebfb7508a70edd893a79ef58145ec8a260332c3ea3512f55c1222	11 Wholesale	01. <=1mil	Missing EMP	2023	04. 20 to <= 3	46900.0	http://www.energy-mines.com/
+SGNIC	a448cabab130af5506cdec1039903ef4546fdfcdf5768f2516db803690b59acd	12 Retail Trade	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	47214.0	WELL-WELLNESSCROWN.COM.SG
+ORBIS	e81177ea0e1ed6f906471206836690a2172c8bdea13cda702960da96b77a4bb4	17 Finance & Insurance	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	66303.0	shenninginvestments.com
+ORBIS	ee683574cb4d3bb2a6a7a613e9b7340317dc0fafdc4b99378455d30d84f13e02	21 Other Services Industries	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	85409.0	genohouse.com
+ORBIS	9b4f43226cef1585cdcb76984529b6b437dde3654c8fcf9f7097c9cd2e6b0d83	11 Wholesale	08. Above 100mil	03. 50 < Employees <= 200	2023	04. 20 to <= 3	46649.0	www.brenntag.com
+ORBIS	a1d59fae0adf884f18f35408d1c11607689b028e97a7289bbcc4aa1472795cd1	02 Construction	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	43295.0	www.aumada.com.sg
+ORBIS	f6a6526bc12d43863075c7dc0a47e0fd719a25946379428eeb51e837f215d467	19 Professional Services	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	70201.0	www.dpcne.com
+ORBIS	124205f714fc0e0fc21f1017c42f02370a3726f6919e5a5a28892803fb15c57c	19 Professional Services	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	69101.0	www.mallalnamazie.com
+ORBIS	e5643b9bd4f1ba24f2a4dc7cc9e0c2235f46beab60b443f3a5fdb98f7f91d334	02 Construction	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	41001.0	www.sgbetterhome.com
+ORBIS	ebc991f87f85848cbf097de967e0634a2a21129c2888fa1384395ca6d356631d	11 Wholesale	01. <=1mil	02. 10 < Employees <= 50	2023	05. > 30 Years	46100.0	www.singaporepools.com.sg/outlets/pages/lo_details.aspx%3fsppl%3db2lkpty0mdu%253d
+ORBIS	2a81e8f32f9b3d8df1f173bccc50f3c3f9cd9aa9855f795e180259694051532b	01 Manufacturing	06. 10mil -<= 100mil	01. Employees <= 10	2023	03. 10 to <= 2	20299.0	www.kemindo-international.com
+ORBIS	0892a481d566e6db071841ffd20f5da887354305bffd6f51197ddc9f038f6b6e	16 Information & Communications	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	62022.0	www.adventuretechnologies.com.sg
+ORBIS	2a8dbaa22062c82d69fbcc1b3cfb7c5efe34ee518d6a2348895b2e04ce2c350f	12 Retail Trade	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	47522.0	kerlee.net
+ORBIS	54bed31b39bf8facab4e572549d81ff3216871013517831463f88a38f02b6f04	16 Information & Communications	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	62021.0	www.re7consulting.com
+GMAP	a8a503331b53f38ff03f1d3d70dd00aac2fc462f113cad0d47594a7d5fee0822	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	05. > 30 Years	95301.0	https://harrysautorepair.com/
+ORBIS	28a1269c48de0f9a151fa684225a7a5506192a8162d10c11ee22d9d368518804	12 Retail Trade	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	47531.0	pastperfect.sg
+ORBIS	29b855caa14e2ee3043bdcbe664f113a1d3087bfdcc466a25bab557a0b2d53d2	21 Other Services Industries	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	86904.0	pnsingapore.com
+ORBIS	e6a9132223d7026d26bba93d4e3adbca448051727d2b93d0e6b1218a31579098	19 Professional Services	01. <=1mil	Missing EMP	2023	01. <= 5 Years	70209.0	www.carringtonrhtwealth.com
+ORBIS	0934fce86ee88da79e701fdc82420d56910070391ccead0108e6fa9265f59944	11 Wholesale	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	46631.0	thiampeng.com.sg
+ORBIS	0167f41f1596ff278d5fda21c4fde205cd19d103f51607688cd10896fbf8bcdd	12 Retail Trade	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	47749.0	rosesonly.com.sg
+SGNIC	24895cbd669515ed69699e966e682390c6fe894a56c626819a1a37f6958a3154	03 Utilities	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	30110.0	GASPL.COM.SG
+SGNIC	e154db4bab1833898958579275a740979e800c14559eb0873717bd726052d867	02 Construction	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	42201.0	RHB.SG
+SGNIC	fbe7cc773c4cf84e03158ae6f644a357ca341d45a47ea9d2bdc8d201309a2415	20 Administrative & Support Services	01. <=1mil	Missing EMP	2023	01. <= 5 Years	82303.0	VRPRODUCTION.SG
+SGNIC	a8edb730f004c1ed9cd607e7834b3dfcf3ad860cf2a5937808d4576a5f662a29	12 Retail Trade	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	47711.0	IDEALE.COM.SG
+ORBIS	15660c2764a7c3d9c5023bd4f8bbbab2a6dbc2f395c90639b29c8ee8e391d5da	19 Professional Services	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	69101.0	circularlaw.com.sg
+SGNIC	670d7876982cbbe19a690c883ad82e3d9e1fd6b62d2bccef575ec2e132eb2b0c	02 Construction	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	43210.0	www.cnitech.biz
+SGNIC	6e853be9fa953589a75fda060e590d2f03d9aef1636562baf081448456ba3982	11 Wholesale	01. <=1mil	Missing EMP	2023	01. <= 5 Years	46900.0	SOSE.SG
+SGNIC	14ebdb1eb4f81cc0943991074f7ebfa05d790e0afb13189300a36ed5b6d086e2	11 Wholesale	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	04. 20 to <= 3	46433.0	TECHNOLITE.COM.SG
+ORBIS	1168696210d75f02d09fd02663738c34275d75e025e90f93f1ba30a1871895d4	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	01. <= 5 Years	64202.0	vui-inc.com
+ORBIS	810f6c1d4251d5986095d123d005c23bafef7fd2d2313f47f48fe2a6502a1a03	02 Construction	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	42202.0	www.bca.gov.sg/bcadirectory/company/details/53047160d
+ORBIS	3c3f98cc731cbf6b8f0e2e0bfe8160fc0378ac4e207c5c0b485f3393cb53ac21	19 Professional Services	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	70201.0	www.prestigekinetic.com
+ORBIS	d6077d7e42833fde974f3d8cbc245b6ff8d53b5e25bf58f8545b5ce536c2a506	20 Administrative & Support Services	06. 10mil -<= 100mil	Missing EMP	2023	03. 10 to <= 2	77399.0	www.prosafe.com
+GMAP	e53d7c5b4ff0cd79d2bbfdb83dfc11433737e4d4f8f2cf551bfe4de1aeff1b86	19 Professional Services	03. 1mil -<= 10mil	01. Employees <= 10	2023	01. <= 5 Years	74191.0	www.tabgallery.com.sg/
+ORBIS	a4f4a83a0e507eda96f6b1488c9f66393f4058fa11344c2d912be16d5378c650	12 Retail Trade	01. <=1mil	01. Employees <= 10	2023	04. 20 to <= 3	47630.0	attitudebikes.com.sg
+GMAP	0832c6ff894e9c86f7db0894d1af7ed46f4459878e04d11c02784ce519da1589	19 Professional Services	01. <=1mil	Missing EMP	2023	01. <= 5 Years	70204.0	https://employershr.net/
+GMAP	c435dfeaf29c229efd5217361bfbbb8a358624b246a259b9e6d366698ad4ee9e	11 Wholesale	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	46900.0	sevenseas-marine.com/
+SGNIC	500d5639f8f1cf3ac83c306010b4330e9b5bec84b40e00fed35a1a2d90001cc6	11 Wholesale	06. 10mil -<= 100mil	01. Employees <= 10	2023	02. 5 to <= 10	46900.0	GRUN.COM.SG
+ORBIS	e7633e2401351ca7f699e6b501d5d3afc1c0f5ded96dcacd3b5d1487971181ad	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	46649.0	printaidoffsetproducts.com.sg
+SGNIC	09dc8339d4b8528bc66e8f223f4e5da591a33cae734ea33b2f4041d81746340b	19 Professional Services	01. <=1mil	Missing EMP	2023	01. <= 5 Years	70201.0	CORPORATIONOFHEALTH.SG
+ORBIS	278f1fc054ab2e22eb9a5db58671bda48f694cf759c24b2a53d03ebdc49dd94a	19 Professional Services	06. 10mil -<= 100mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	74191.0	darwininterior.com.sg
+SGNIC	51c1e1c0d1a89a3ac913ac20c2903336b7343f27982a763f6ce15999f0aade0e	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	46472.0	COLDSOLUTIONS.COM.SG
+ORBIS	23de565f8bc2fca1444fe37023d1bf27c4b5a66104591c1e1d85aa81c0ce22d3	12 Retail Trade	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	47212.0	www.freshstop.sg
+GMAP	bee4a4c4329c1843a8b3a0f0a4a31b3c180dc1f815aa67dac3276bdfb1db5c59	11 Wholesale	08. Above 100mil	03. 50 < Employees <= 200	2023	02. 5 to <= 10	46304.0	www.ferrero.com/
+ORBIS	9047808c0cab7e1ef1eeb3fb05e388b3e352e6c9d5120e034e36cea3ed396804	11 Wholesale	08. Above 100mil	02. 10 < Employees <= 50	2023	04. 20 to <= 3	46610.0	www.kochind.com
+SGNIC	4ea68c3349bf252f3180d9181f7d8979b102b9d8e4ff8668044bc516d4fee307	16 Information & Communications	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	62090.0	OACAPITAL.SG
+SGNIC	bd50ece76466ee1c05d25e90a54916a52da7475bdd13f58436a1770f2463684c	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	88913.0	YCC.SG
+ORBIS	5821041c70a9565f73496022a1aa125f7da6f70b747be14a9c4a3127594fc45a	17 Finance & Insurance	03. 1mil -<= 10mil	01. Employees <= 10	2023	02. 5 to <= 10	64202.0	www.makuang.com.sg/en
+GMAP	2a379e5e688492acf921bf65d2924d1db93f9a13daa56ca967cdf6222ae0fd8f	20 Administrative & Support Services	01. <=1mil	Missing EMP	2023	01. <= 5 Years	77320.0	www.nechcapital.com/
+SGNIC	a6ff595aef4c4672e05a6b95cfc3fa8422e125c02a10f09270543a3472abc48b	16 Information & Communications	01. <=1mil	Missing EMP	2023	01. <= 5 Years	62011.0	UXQODE.SG
+SGNIC	1438095bee2456d663c0f07df0d208d0d6e7fb215215bc28771ba9d0aaee7911	11 Wholesale	01. <=1mil	Missing EMP	2023	01. <= 5 Years	46479.0	LANTERNKINGDOM.COM.SG
+SGNIC	d921c2455e9ffa204b2d2c71cac8f04eec202bd7a824815f54839201d8962bfb	01 Manufacturing	01. <=1mil	Missing EMP	2023	01. <= 5 Years	10793.0	GREATSOURCE.COM.SG
+GMAP	56fb0b68a08c700d98b0497353a444a161750c1b9ad6e97c71980cb641677e90	11 Wholesale	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	64202.0	http://www.streetdirectory.com/
+ORBIS	e915014c3ae0ecb066e4c81e5129402cbeef99347f11010f728d89261731df2c	17 Finance & Insurance	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	64924.0	jdcredit.com.sg
+GMAP	7d97f634527d5a06afc314ddb16383d8cdff6749381061b4f1b46b859f739167	12 Retail Trade	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	47420.0	https://www.rockstoneaudio.sg/
+GMAP	2eb764d4e89427958a3ccb8fb103861a6fb6e202d09799c72fb916886bf3ed4e	18 Real Estate	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	68101.0	http://www.smartenergy.sg/
+ORBIS	5332f1b58a3fba785e937208967f05781e1c6cba95244351c4a47649d604702d	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	46900.0	www.myanmaryp.com
+ORBIS	1c6345cafa9133332f3ebe748db34fe3f538bccb6cf9681c24c6df4012ad85bf	17 Finance & Insurance	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	64202.0	www.poet.com.sg
+SGNIC	cd749758d6f7a1ae907d09759cfb8fd956ac07ec454540b6a70184967db81aea	11 Wholesale	06. 10mil -<= 100mil	Missing EMP	2023	01. <= 5 Years	46900.0	SOUTHEASTSTONE.COM.SG
+ORBIS	892195e90c72263ce2bb777c90b307bd23509d6f91ab9e9deb66daf55c9d8fc1	13 Transportation & Storage	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	52227.0	www.howerobinson.com
+ORBIS	72722d79d8b2e6c5ddd29a96e9fbd6c4317eccc2296ec6d999ae9b33753be679	03 Utilities	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	01. <= 5 Years	38200.0	chyethiam.com
+ORBIS	8231da9ea407d9cf4a94eb49a67b114ac5dde5b75cbb03ed52354ab92e2873a5	02 Construction	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	43210.0	perita.com.sg
+ORBIS	7df83227fd056b6691b601101c99b73113d433b2e097e5609733ad303fbf1b20	21 Other Services Industries	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	86201.0	clearsk.com
+ORBIS	27b5b6eb2a705456f311b4ed9ea81873b05502a67d7a223dd679351ce9e41723	02 Construction	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	43301.0	skgroup.com.sg
+SGNIC	88530a4a3883d05f0d66e573f8a51e749ce94ec1f1745fa2dd9e16be42561005	20 Administrative & Support Services	01. <=1mil	01. Employees <= 10	2023	05. > 30 Years	82999.0	SINGCONEX.COM.SG
+ORBIS	592560fc0cf5a59c5fee80010b4605930de8a5b7c6141920e448f9bd30aea11c	16 Information & Communications	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	62011.0	www.uvionicstech.com
+ORBIS	a9a1c3214329431b2987d5588072d3b7bb6742bf3858d4373a42c5459eb650a4	02 Construction	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	43301.0	myseat.sg
+GMAP	9e2600ec352a33a48c22942ce75088b1f5b432ba376b36fb3b32ee3a46d05dd6	02 Construction	03. 1mil -<= 10mil	01. Employees <= 10	2023	02. 5 to <= 10	42101.0	BJCONSTRUCTION.COM.SG
+GMAP	26f5a8be62c00dc3e818c3b7c5fdc7d0a2a9c74216b464095f5c625d7a258482	19 Professional Services	01. <=1mil	Missing EMP	2023	01. <= 5 Years	70201.0	http://www.gfcadvice.com/
+ORBIS	86dcfb20a8b2585b6ca7863655eb0a097a4e513989bddcda1b4107b8f6292e53	16 Information & Communications	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	62011.0	www.coperit.com
+ORBIS	afbf3dacc0faf0d8ea0dbca37b24329f3ded255c6f06335ff1c9c82e39454170	13 Transportation & Storage	03. 1mil -<= 10mil	01. Employees <= 10	2023	01. <= 5 Years	52222.0	amigozsg.com
+SGNIC	65b3276cebfb1b3ee1acd10bdc893be9c34bf5b75751c137e04f08259547c99c	12 Retail Trade	01. <=1mil	Missing EMP	2023	01. <= 5 Years	47640.0	MOXANDLOTUS.SG
+ORBIS	c149d79b6cefcbaa4349b68bda491b69417e293422f50f47380d15466f236e8d	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	74192.0	itchyfingers.sg
+ORBIS	37f7e1485bc6fda4c63f7274dcd6c108b3cb74a0a4690f347980928ad202fb23	11 Wholesale	06. 10mil -<= 100mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	25113.0	www.horme.com.sg
+ORBIS	68df2c4a2cce31a23b2c231d8de5b2a818dd8e4a57ead6936f4cf754edccd9e3	16 Information & Communications	01. <=1mil	00. Non-Employing	2023	03. 10 to <= 2	63204.0	www.taxisingapore.com
+GMAP	fa6a10f5655af2e6e821cd9e878daa88e9efe1cb51d942541a1182da4d7f843b	17 Finance & Insurance	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	66309.0	http://www.foqus.com.sg/
+ORBIS	95e81964a81f702cf7b8b0f4f55e41ae482b7f09b029d05df02f19b96bf6b2f9	01 Manufacturing	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	21023.0	aavacc.com
+ORBIS	4a7dd1266ab6c3de1b8dfcf51350a15dcb51381c348064393b46182cc3c38d3b	16 Information & Communications	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	62011.0	www.advancekids.sg
+ORBIS	d7ce07f6ae0a9e6f8976b4f3309da2e505e6d70e2926daa5b21e586f24edf909	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	46523.0	www.worldcoordinates.com
+ORBIS	b50c80838731d58c53d5e0759fab9377bf8a7c1ba3b1c2f05361de1d043ffba3	16 Information & Communications	03. 1mil -<= 10mil	01. Employees <= 10	2023	04. 20 to <= 3	59113.0	veriteproductions.com
+ORBIS	2a1f29926e2d170a7bcc7f995754387a66eb74d9559b5ed9901b67bc51c0c41a	21 Other Services Industries	03. 1mil -<= 10mil	01. Employees <= 10	2023	04. 20 to <= 3	95110.0	www.reconext.com
+SGNIC	ff4ff8da180a330173ee406eff01566b23e8c321681e85ed3e77660d9609905c	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	02. 5 to <= 10	46900.0	PANELTECH.SG
+ORBIS	e0fd594b5895641f2d22366ff0a3af044ef3209c2d28ca3cab07a7839040058f	19 Professional Services	03. 1mil -<= 10mil	01. Employees <= 10	2023	02. 5 to <= 10	73100.0	www.madmenstudios.sg
+ORBIS	cc74ff15cc1f95ef98f7fcd832a7cbe2a2fbafd92f48d069bde3dcde1357f0af	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	46900.0	www.auxano.com.sg
+ORBIS	2722b8fae6a7c989c06e2f0a90a782e165563d67ab09e58b17430ea2c8500a0b	21 Other Services Industries	01. <=1mil	Missing EMP	2023	01. <= 5 Years	85408.0	wigglepods.com.sg
+SGNIC	a494c6e213462836205877c1a6ec690749a22a755e6abecf3e69496a2ad10846	12 Retail Trade	01. <=1mil	Missing EMP	2023	01. <= 5 Years	47713.0	GLORIOUSFEET.SG
+ORBIS	b24fa21ff95082c07a528ae916860313446458780e592c3aa177da9a275f5b8a	21 Other Services Industries	01. <=1mil	02. 10 < Employees <= 50	2023	05. > 30 Years	94911.0	www.harvester.org.sg
+ORBIS	0018070a7568487a495f6732359b71dd8a49d9c8a939806ef90642c615cc7ff0	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	02. 5 to <= 10	46900.0	www.smn.sg
+ORBIS	ace16eeb55d0f37f7d181ac663181e2c89bf353fc1bf7ec917e4ca24fc159eba	16 Information & Communications	01. <=1mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	62011.0	www.bittitan.com
+ORBIS	31964ea460b560a3a4659d655ad7171f031596cc2db13dc5d3e4f5b1fbd7e402	01 Manufacturing	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	20296.0	www.sealxpert.com
+GMAP	b3d134cbfb1500e0980c5e7afdc757690fb92faf3386e5018f49a1e410d8d39a	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	86201.0	boeyhollandv.com/
+GMAP	5a08604f6598fafb2934cef7e5e204dd77a0b7f140248184b1d3b14e65130ae1	15 Food & Beverage Services	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	56111.0	social.quandoo.com/en/groups/Honolulu%20Cafe%202890
+GMAP	d362b359b000d3d0588c694658c606c05d073c60e733d52be1210e17dade7c58	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	69101.0	www.khan.sg/
+SGNIC	6c2a25637576d4749c3f70ea1d4ee1085e3abcdd506cbf7ef6cd89c2a5306fb7	11 Wholesale	08. Above 100mil	01. Employees <= 10	2023	03. 10 to <= 2	46643.0	WESTPORT.COM.SG
+ORBIS	f1806ba119572904b09d36f4e6b337eb357c0880621437ab99ee74ab4f78407d	02 Construction	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	41001.0	twinpower.com.sg
+GMAP	49ac6068dcba7e9a9f2db5281b3952e1b99630dadac2ade2854697e9afb411e6	17 Finance & Insurance	03. 1mil -<= 10mil	Missing EMP	2023	02. 5 to <= 10	64202.0	http://www.phoenixcontact.com/
+SGNIC	43399ab451ab61ee493cf2eabbe9cbee4d3d5b1c8ceb3e6928cbfae4a6e72d51	20 Administrative & Support Services	03. 1mil -<= 10mil	01. Employees <= 10	2023	02. 5 to <= 10	78104.0	CONSULE.SG
+ORBIS	6361a542cab5f2bb72dc9c4a925fab66e442e6b1230a408e058f257b0b824841	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	46541.0	www.greentechref.com.sg
+SGNIC	f33077340b3fff7db9293123834f993ec3899c190f47c6fab00237accd8f82ed	13 Transportation & Storage	06. 10mil -<= 100mil	02. 10 < Employees <= 50	2023	05. > 30 Years	52103.0	CAFHI.COM.SG
+ORBIS	464553937623cfe3129cf8dd9e3fe45766b6b934d7d01024cc6436e9e4698a84	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	01. <= 5 Years	64202.0	www.herchin.com.sg
+SGNIC	d97ca1bdb8667dbb0e7c23c194db704c7ac930c348535cde3f28c0273427b6ff	16 Information & Communications	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	62021.0	HASHIRA.SG
+ORBIS	0eb718f2864ed730cecb6dfea6df2d09e85d0e859d54dadf1580b7f246d66f8d	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	70201.0	sgsmtp2.sgcloudhosting.com/interface/root
+ORBIS	4ea3d979af408022d516a9d819c09f436f0159f0ca4456c3ac7c7f1b66c46070	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	46302.0	www.mrtrade.biz
+ORBIS	b0149439ecfbac1daddff3501b97f7b449894e156fbfcf4d51756d41a2a4abd9	21 Other Services Industries	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	96021.0	georgie.sg
+ORBIS	ea815d1eacc20cb12a3b08bf1f6d0fa8a0665d6b9273f826bcd66c7edd3c1849	19 Professional Services	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	71121.0	www.res-engineering.de
+ORBIS	f1566bce4424b693976b988b740d01993f81ae55cf9fa76aacae8bfc4bc4d6cf	19 Professional Services	03. 1mil -<= 10mil	01. Employees <= 10	2023	04. 20 to <= 3	69101.0	www.wr.no
+ORBIS	697480f189194a720ec0aee9fcf34633b18770263898b2c35eefc51617534347	17 Finance & Insurance	01. <=1mil	02. 10 < Employees <= 50	2023	05. > 30 Years	64202.0	www.asiamedic.com.sg
+ORBIS	98db483a924f645fe40e56c2b6a9b68f0392080966357badc97cdf1bf8a0c20e	13 Transportation & Storage	08. Above 100mil	04. 200 < Employees <= 500	2023	05. > 30 Years	52292.0	www.nipponexpress.com
+ORBIS	e40aa2eb0ec9f1f0ed28f74594cfa3399d7f5982b3c6fb5b38217ee94df27c44	21 Other Services Industries	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	85509.0	www.achievershub.sg
+ORBIS	017de0001e742321a1a677977378409044c7d5594c10e15260a5cab1e9dbe128	21 Other Services Industries	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	96023.0	www.nailpalace.com.sg
+ORBIS	e892f3ec45d9ca80681526b14bc1c86e6dc9b8f5b604aeb72142698c4f92c10c	12 Retail Trade	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	47529.0	pohsenghardware.com.sg
+SGNIC	e51dd802287b4e7ffe8697c63996d6355cd12c79c2f1565c6ccb914b181fb2a1	19 Professional Services	01. <=1mil	Missing EMP	2023	01. <= 5 Years	70201.0	STRATEGIST.COM.SG
+ORBIS	80e97cc5fd2d679979756ae54c51a664ddbd78685370c96f929d0b73ff53d75a	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	04. 20 to <= 3	71121.0	aes-aes.com
+ORBIS	6cafcc085f030003e6a4f3630d303a759758025597ab544049f9e4da4a69fdb4	21 Other Services Industries	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	96093.0	ancientfusion.com
+SGNIC	9918c0e4ad9d3a30d212548439769e8885a999578cc7b73b7c6e75ffb72f0a6a	12 Retail Trade	01. <=1mil	Missing EMP	2023	01. <= 5 Years	47711.0	QFIT.SG
+ORBIS	54990030ef214a8a5e04a1e785c6ba697064f7559a4342088aa387708da3f744	11 Wholesale	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	46900.0	www.bintai.com.sg
+ORBIS	276eb29255386c5841230279a43ded1eca585a2362dc9dfe993498fceeffd3b2	19 Professional Services	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	71111.0	slarch.co.za
+SGNIC	9b1895d4816b37745ed36595f0cf26c3b68f42ed12428ae3209cec3692f112b6	16 Information & Communications	01. <=1mil	Missing EMP	2023	01. <= 5 Years	62011.0	POOLVA.COM.SG
+ORBIS	dac3fd57ff1cf8bd900aeb25ac17a321175d379a1db3133f49c79e2072be7417	12 Retail Trade	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	05. > 30 Years	47535.0	lioncityco.com
+ORBIS	b5d5f848e46a064df83fc5471f4d18fc9b77401aed189d213feff8b0adfc798e	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	70209.0	nsglobal.sg
+ORBIS	17810ba27d352b9c3389b0b1f9bbf797db1e27718582fb5104d50d85dced7764	16 Information & Communications	01. <=1mil	Missing EMP	2023	01. <= 5 Years	58110.0	fifth.black
+ORBIS	19a7594121ecc6ca719cce1e4dd157dd073b49f12f6192d09e7c48920448051b	19 Professional Services	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	70201.0	ajtholdings.com
+SGNIC	39b7f1ea46e091c49b0ace252f8c221ab8f6bd3749783a4fa7464a4e289997d9	15 Food & Beverage Services	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	05. > 30 Years	56111.0	BRAZILCHURRAS.COM.SG
+GMAP	fd215528bce8d67c9e4decdce3f7f3b16543a2df4ef5629ce2ccbc096d3f1d77	21 Other Services Industries	01. <=1mil	Missing EMP	2023	04. 20 to <= 3	86909.0	http://www.vivocapital.com/
+GMAP	8b86f9b996fc9b56c394e543d442196238ab56a82e868bd741bce379085713f2	17 Finance & Insurance	06. 10mil -<= 100mil	01. Employees <= 10	2023	01. <= 5 Years	64202.0	http://shireoakinternational.asia/
+SGNIC	432d9adc9b90de148d730c3d18d4fdccd0196ebe2a4a658878a42f290d3c405f	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	74194.0	DOUBLECLIQUE.COM.SG
+GMAP	1e823c14a617cef4b70801ed8e60fba2cef9b01f5d3d220ac1b448c4ec22a30b	19 Professional Services	01. <=1mil	Missing EMP	2023	04. 20 to <= 3	74191.0	colorsds.sg/
+SGNIC	3a9b48c45bbb09f8e751a2cf632f4050e478a1102a9c9f97b522d5e0c0029bed	11 Wholesale	06. 10mil -<= 100mil	Missing EMP	2023	01. <= 5 Years	46412.0	ALCARI.SG
+GMAP	3bd7a2476c1b6ef451007dce296298e2adf26ab3e782bf35a76f436becc082dd	02 Construction	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	43909.0	http://wjmfurniture.com.sg/
+WORLDORGS	503e2449306d3eb5679aff7b246968d60bcbba9329940d047aab88e0353dddde	21 Other Services Industries	01. <=1mil	Missing EMP	2023	01. <= 5 Years	85408.0	https://rainforestarts.com/
+ORBIS	1c9fa935e5b41ea2ea5808fd70b8109839d169c3f03ec52e39ec5abd6419392e	12 Retail Trade	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	47742.0	www.simply-hamper.com
+GMAP	cd159eef3d090dbd0cef5e9234fe6b3bc3213c499aebcca0746636d43d3a9d0a	16 Information & Communications	01. <=1mil	01. Employees <= 10	2023	04. 20 to <= 3	62021.0	www.medicalsupplies.com.sg/
+ORBIS	f934af084c1e9f819f854a054096a560c2aafede372d1864858714059202f3e1	17 Finance & Insurance	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	64202.0	www.rgei.com
+SGNIC	d632726cdc421ee3e0be19c64162e0c17b83a65ed7da0a959610f7e7bb8a5759	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	86201.0	HEALTHCAREMEDICAL.COM.SG
+ORBIS	eca6fc43b1f306303ffb1cb5f4e2e3fdd2438b519f5b2017107002912385c580	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	46541.0	riverhill.com.sg
+ORBIS	ce5a919c607730dbb6af928ae8ffec9eb3d8e55624d8f3bbf2b644f7a85d8071	16 Information & Communications	01. <=1mil	01. Employees <= 10	2023	05. > 30 Years	62011.0	innosys.com.sg
+ORBIS	0dab9d28c4d692bc5503f2726b98b5cfe2a7235d1b2a17a20b90e2acdca8aac2	18 Real Estate	01. <=1mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	68104.0	ieat.com.sg
+ORBIS	48ebf49f1fea53b53558f252cc38e88f07486da875a6d60ab1b1d6dcd18459d8	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	04. 20 to <= 3	64201.0	www.jgp-group.com
+GMAP	b1ee7b45603656f1af4e9d3623686aa62c08ac442c71b1fb1a4e6e36ec24249a	12 Retail Trade	01. <=1mil	01. Employees <= 10	2023	05. > 30 Years	47314.0	http://www.engleepl.com.sg/
+ORBIS	747533fc454539f5354acb3b1833c190c45289d9e5ca07b002e945cc3eafe88b	21 Other Services Industries	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	88913.0	sparkz.com.sg
+ORBIS	4116557010232d89355f012beda9352e1661c48c6437a800ba7895bb0d8a990b	11 Wholesale	06. 10mil -<= 100mil	01. Employees <= 10	2023	05. > 30 Years	46522.0	www.hosiden.co.jp
+WORLDORGS	9235299688863974e2cca689d7d74501c3e382dba789367c2d032e23bb2c4315	01 Manufacturing	01. <=1mil	Missing EMP	2023	01. <= 5 Years	20299.0	https://www.facebook.com/dustyashco
+GMAP	b099587099c77f148d570f9bcc352fdb9a660230c31cb6e4559f028d645c0ea8	16 Information & Communications	03. 1mil -<= 10mil	01. Employees <= 10	2023	02. 5 to <= 10	62011.0	smttech.asia/
+ORBIS	bc5612466d01197ec8a8e566a237f3fef79c10223dbbc81c32b4a2a7a8614b21	13 Transportation & Storage	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	05. > 30 Years	49231.0	www.sta.sg
+GMAP	49ef1e62f210dbad7897c6f6a4dfdf9d5e3a7013beefd4cb544406977d45aa74	03 Utilities	03. 1mil -<= 10mil	01. Employees <= 10	2023	01. <= 5 Years	38100.0	www.one-enviro.com/
+ORBIS	5a674cd6d8e23ddf257271590ea12de3a1bce1e690c30e873af8bca106cd0eb9	21 Other Services Industries	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	86201.0	www.memc.com.sg
+ORBIS	71afc4fb9e94a66b247da93a73f22619de9c505255c90a4cc06d39b944385445	17 Finance & Insurance	08. Above 100mil	01. Employees <= 10	2023	02. 5 to <= 10	64202.0	vankor.com.sg
+ORBIS	9f088cfd366a3ed84d21fbe2319a2dca2a7afae3a6c59dded1c8df4740f3515b	17 Finance & Insurance	03. 1mil -<= 10mil	01. Employees <= 10	2023	02. 5 to <= 10	66221.0	deltainsurance.sg
+ORBIS	15dac21308165bf69b724945ff9d500a2a073c4904a7b9861e83c786fc49fbbb	02 Construction	08. Above 100mil	04. 200 < Employees <= 500	2023	05. > 30 Years	41001.0	www.takenaka.asia
+GMAP	12ce53fcb7748dc530321c1c7402beb08e9c6dcd2027edc74a08a295e247ac33	21 Other Services Industries	03. 1mil -<= 10mil	Missing EMP	2023	02. 5 to <= 10	86201.0	http://www.centralclinic.com.sg/locate-us
+SGNIC	371d42fdb0384fa3cc47b5695fc902482d63ab0e8116a02fa2fdc43551134380	17 Finance & Insurance	03. 1mil -<= 10mil	01. Employees <= 10	2023	02. 5 to <= 10	64202.0	INVESTREE.SG
+ORBIS	04254a896545a98e791877c8e37bfc8b399ca4054b23df7b01510c108fdd34e8	11 Wholesale	01. <=1mil	Missing EMP	2023	04. 20 to <= 3	46459.0	deiconjbox.com.sg
+SGNIC	e9ea6fa96c2d105664dd627a79999b22c5864e3e2639bff9c5e83a119f794975	16 Information & Communications	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	62011.0	www.modus.sg
+ORBIS	bce5129d63c6b6e4c5a59eb1e0c209de1a974fa2ff54b2f5262ee80f4b67ef83	16 Information & Communications	06. 10mil -<= 100mil	03. 50 < Employees <= 200	2023	05. > 30 Years	61091.0	sg.kddi.com
+ORBIS	6a3c3cce5305231528ca0ba387b51d28f705006bef6fcd80178335a6b37b3e52	17 Finance & Insurance	01. <=1mil	02. 10 < Employees <= 50	2023	05. > 30 Years	64202.0	www.ipc.com.sg
+ORBIS	5f607df686fe3eb67dd54e6cc15e167fab920ea1fb45a686ef8b2b42554f794d	20 Administrative & Support Services	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	46900.0	wheelersquotes.sg
+ORBIS	e659f927e32449482f2d473a7ac6710abb41312575a2844a9220a5e90b480048	16 Information & Communications	01. <=1mil	Missing EMP	2023	01. <= 5 Years	59112.0	www.revelationmarketinggroup.com
+GMAP	a5922071176a1750bf1a8bf6bd10afacafef352bb090c01b99a5f0697a940617	19 Professional Services	01. <=1mil	Missing EMP	2023	01. <= 5 Years	74191.0	www.carpenters.com.sg/
+ORBIS	e6bc3c80031ca8e0e4934af9d3fa5b582c96fe563649569fde7b253d7f39e7b7	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	46435.0	www.vois.com.sg
+SGNIC	a797b9ab3168165cec7883e430abfa8bac11e7b5ae5e6b4f56747e24bff8d4c3	01 Manufacturing	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	04. 20 to <= 3	18113.0	www.pinpress.com.sg
+ORBIS	221217ddeaca0f8738552fe6dad96cb5dac7c7d048e838da700eaa4e2774cef0	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	74192.0	www.3ad.sg
+WORLDORGS	6238b0cca1b282bd2874b1bcfbdaf384764693a59c6cd60e2df9bbdc076f93c3	12 Retail Trade	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	47733.0	http://flys-watchhub.business.site/
+SGNIC	980af5f54fc4f7ad04128209be21ba836d4e7b145bc92ccfccbe45e4142913e1	20 Administrative & Support Services	03. 1mil -<= 10mil	Missing EMP	2023	04. 20 to <= 3	82303.0	www.qleisure.com
+ORBIS	30f7dd155473e70b82b51e8ca40b2ce3374985d74545a2ccca0baba853180c63	16 Information & Communications	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	59112.0	www.studiomonki.com
+ORBIS	5104ecb223ff9924223cf2bd3dbb9b12a1f7009bed961fc9f51b5dd64a39136d	17 Finance & Insurance	06. 10mil -<= 100mil	Missing EMP	2023	03. 10 to <= 2	64202.0	www.utacgroup.com
+ORBIS	b9654e08f42e69b9443f8fd3cf1f9a05f87de3d58ff321dcc94f4b99690737fc	17 Finance & Insurance	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	64202.0	www.kepcorp.com/en
+GMAP	a7e2eb7b3302e0657d87615534b6767bbe68e1176dadd1cd6333b49931608dc1	01 Manufacturing	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	01. <= 5 Years	25131.0	http://www.boilerman-service.com/
+ORBIS	838967473e02ada9b35700ae214c05efb90980ea0b8919086f21f9b091113916	16 Information & Communications	03. 1mil -<= 10mil	01. Employees <= 10	2023	01. <= 5 Years	62021.0	www.kollab.ph
+ORBIS	5daa6a9b14a32feccd96d899ad25437e142c8f9c25cea1476383e505d6e1fdda	19 Professional Services	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	70205.0	www.tbc.sg
+ORBIS	626d46a808f252be85396828c3b9d1ec4890938061a4f37fe643e18d3dedfedb	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	46522.0	www.forcegate-global.com
+SGNIC	65fcad9a8a839582cbe436ae5d957a83dcda5980a079263cf4ad5e38d380a1fd	11 Wholesale	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	04. 20 to <= 3	46544.0	JUNHO.COM.SG
+ORBIS	14a4c99c2075d8a1ffa7ecc2e906b12a47250cb522da763d2097916bf02d338f	17 Finance & Insurance	01. <=1mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	66129.0	www.fraxtor.com
+GMAP	d70cca71a0d91301824c182c7e034e67ed28a77c8712821069ad8f90d52b343e	20 Administrative & Support Services	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	79101.0	https://naviasiasingapore.com/
+SGNIC	ba11cf8e41fcfa0afd2c8cc8cd836f60259be86b4a4fe878ec52a46234e87adc	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	70201.0	MVISION-PROJECT.SG
+ORBIS	9bccff2f43df7586ec81d4a32e8319b3ac3be56b716bd0ac43c3384e7b2b505d	18 Real Estate	03. 1mil -<= 10mil	Missing EMP	2023	01. <= 5 Years	68106.0	sunteccity.com.sg
+ORBIS	5f54c72e224141761b0558916e807d3e063852d9e941113eed54b20db383e28e	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	04. 20 to <= 3	46549.0	circuitworks.com.sg
+ORBIS	c6d8f62986a3a87d9702cb701aa6bc3986d5fc102a11c6f60086373097e77790	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	64202.0	thecaregivergroup.com
+SGNIC	f67c6e98abf09a8f5569247da6061dc7ae35d08a5eddc4c8cbf17708584b3ed2	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	46900.0	HAPPYKINDKIDDO.SG
+SGNIC	82e0c22ad2c3bf1a16d931a81a578a5706e68422fe8ff43c4a47e5d9a458431d	12 Retail Trade	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	47751.0	visionlabeyewear.com.sg
+ORBIS	adb6d8dcf91fcb27fcdb9e1c5dd012e3c3bb168ff7e4d4239c14007dc5973191	19 Professional Services	03. 1mil -<= 10mil	Missing EMP	2023	03. 10 to <= 2	70202.0	advantagehealthbenefits.com
+ORBIS	6210480bc873d1e909f0a9559cbe0f7a1912095f4014110fa6db38e353384554	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	96099.0	www.innovalue.com.sg
+ORBIS	256f5e6a01ce37fa9c96a3c86706218f61bade35551916e0d638b76aa31db972	19 Professional Services	06. 10mil -<= 100mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	69201.0	www.borrelliwalsh.com
+ORBIS	ca1f29beff74d9151cdc756d7835d6d21ea03b8f2427c4809a2a25c6c58a64ed	19 Professional Services	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	70209.0	mooresrowland.sg
+SGNIC	3fc531f306da8cd53f7c965eff210d29c843a51210fab81bcd3eddd43777203a	11 Wholesale	01. <=1mil	Missing EMP	2023	05. > 30 Years	46549.0	WEEKIATMOTOR.COM.SG
+GMAP	76559b120c6841a77b89dda338b822e9fb616d8f27a3e2953bf685a821e44fd1	15 Food & Beverage Services	01. <=1mil	02. 10 < Employees <= 50	2023	01. <= 5 Years	56112.0	https://www.foodpanda.sg/restaurant/m7sz/sueno-cafe
+ORBIS	81c6388deb81586bf9a44956d9e19c5255ae7c4bf3513899db342495cd06bce1	16 Information & Communications	03. 1mil -<= 10mil	Missing EMP	2023	03. 10 to <= 2	62090.0	brennanit.com.au
+GMAP	8002426c9a3006894ae0298df73613954096037034a863007a1ecab096f691c4	19 Professional Services	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	70201.0	precisionopticsunitedsquare.business.site/?utm_source=gmb&utm_medium=referral
+ORBIS	e4065854ca2f9f0017c54b5e6e2eb6268c79dc0d83115776e341cee0577a3233	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	02. 5 to <= 10	46900.0	sicol.com.sg
+GMAP	4dde584c9fb2d7834d21ea43d092599d819af172a9e18e21386296036de60e3d	11 Wholesale	01. <=1mil	Missing EMP	2023	01. <= 5 Years	46900.0	http://www.uniexcelgroup.com/
+ORBIS	33b0f2058507c63f0d935086e2cdafb6272c382d7fc5a6d80eab5edcb79253ca	01 Manufacturing	01. <=1mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	23993.0	shield.com
+SGNIC	c598f389c0b86e23d76c7563c2a8f5851234ac297def86c03af3f31fb2f069af	12 Retail Trade	01. <=1mil	Missing EMP	2023	01. <= 5 Years	47211.0	FRUICEY.SG
+GMAP	d3e40b253b9418dbbed4195ce75cb070b36e54ec9c103826ff4d0ffa94a2f2e3	01 Manufacturing	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	05. > 30 Years	18112.0	khoosunprint.net
+SGNIC	9fb86f778638252df8485794e7cfb15aa95ace9b9d0b5de2ac38bc8d2f3b7320	15 Food & Beverage Services	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	56111.0	SWEETPOTATOPROJECT.COM.SG
+WORLDORGS	9a672683a28fab82d8fdfd65665fadf728f2a26fb677e2de5da0910f3f944b09	21 Other Services Industries	01. <=1mil	Missing EMP	2023	01. <= 5 Years	85409.0	http://www.languagestudios.co/
+WORLDORGS	a5f7b662c10af8bab15968de39f20a299b64fbb6cbbee2b0284b962ad217b247	21 Other Services Industries	01. <=1mil	02. 10 < Employees <= 50	2023	01. <= 5 Years	96024.0	https://sense-spa-health-spa.business.site/
+ORBIS	d2a6f7264ff183ea6edabdaf31ed5d83f3a3e62cb9fbb70d1b9e61aed44e83c7	01 Manufacturing	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	31001.0	www.carpenters.com.sg
+SGNIC	b5f9599c2a52a3eb51cd2c71e8f4d7df2d9fc98b8fd7403f5d2983aecffeeb2c	16 Information & Communications	03. 1mil -<= 10mil	01. Employees <= 10	2023	05. > 30 Years	62023.0	EMSPL.COM.SG
+GMAP	708396a762dd4681668f15a93ba21c0f5a5feabc6d0644a51b60c04a59984c0a	11 Wholesale	03. 1mil -<= 10mil	Missing EMP	2023	02. 5 to <= 10	46900.0	www.infocusinternational.com/contact.shtml
+ORBIS	3b99a0c9cec13af9d35f2fce6285b85af95e954cbc1a9ede69f1de1e046db50d	11 Wholesale	06. 10mil -<= 100mil	01. Employees <= 10	2023	04. 20 to <= 3	46900.0	www.multi-agro.com
+ORBIS	c795968aea6abde2e9fb3fdb7279578bc4b3a39ccc192a27aec8074d1d1e302d	01 Manufacturing	03. 1mil -<= 10mil	01. Employees <= 10	2023	02. 5 to <= 10	26209.0	www.fsolutions.com.sg/index_files/page394.htm
+ORBIS	1a66fd69aa4aeffada1a51c9e7e893692203ec8276c3408d868a1200ccde50b2	15 Food & Beverage Services	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	56122.0	www.gtcoffee.com
+GMAP	51eea2d880235d429bb7c7bc2da2cdf8c74adcf0ad590fe7ec279377afcc65d8	17 Finance & Insurance	03. 1mil -<= 10mil	01. Employees <= 10	2023	01. <= 5 Years	66309.0	thecathay.com.sg/
+SGNIC	897985b68796cc1be127c499b5e206888be376556cad814cc6b4efe28f43f5d4	20 Administrative & Support Services	01. <=1mil	01. Employees <= 10	2023	04. 20 to <= 3	82191.0	TNLCORP.COM.SG
+GMAP	e2d152dae9d01a35af99adb311dda88c74a67f33f9d1fb26294d85c677b9e9ba	18 Real Estate	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	68203.0	https://www.fort.sg/
+SGNIC	421e1717a125a9129d35ca6f216f86340f52386c42b2cb6b274b7bdfa75c21e9	11 Wholesale	01. <=1mil	00. Non-Employing	2023	01. <= 5 Years	46900.0	KUOSE.SG
+ORBIS	8d5e91e2024ba8e05573f35605233b34c3bb00c0d1ba9ef0e4f883820163d24a	12 Retail Trade	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	47711.0	dejavuvintage.com
+ORBIS	d8734cb094056f9db08d082cb9fcfb0d8eb13016ea94240ce038e1fb3cb40cc7	19 Professional Services	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	70201.0	glimmmedia.com
+ORBIS	474dc69172c1f5a13779dae088771c247cd152e8c4c66e84140ee12ad18f1289	01 Manufacturing	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	22193.0	www.hsm-controls.com
+GMAP	013a915023c81ff5827014b94576e51820f2c4c5d73de0c7263f9a9643a79206	02 Construction	03. 1mil -<= 10mil	01. Employees <= 10	2023	01. <= 5 Years	43301.0	www.masonmillergroup.com/
+SGNIC	cbaa29505f740b45b63f5319913c2821b6745dfcd266886a4576451250a6c5b2	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	46900.0	evergreen-health-pte-ltd.business.site
+ORBIS	7703585a317bb332044d2b43538d9805b97b0b7b06c1ebd78ea96b9684dc5f39	18 Real Estate	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	68101.0	www.wkevents.com.sg
+ORBIS	d6874823a1a347c05574e8d72b0e47111306cc50698ad05f1b609e73f213b2f8	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	70201.0	www.audienceinc.ca
+SGNIC	b3b081720f24fcaed7bbde6ffff603227130c254e44f1675d29bf9134b6095e5	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	85509.0	KIDDYNART.COM.SG
+SGNIC	3467299002e8ca337915d7dd1f3c0df1d16d9d4b2742a130cc121246e0985f7d	19 Professional Services	01. <=1mil	Missing EMP	2023	01. <= 5 Years	74191.0	HOMUHOMU.SG
+ORBIS	6a7007cf7feae3fbb912c2cc8d74f1c35dcc49eb7f65039c0b48c033e70fbdd6	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	85509.0	www.uidacademy.org
+ORBIS	8ce9acdcdb5842604f106eb7f27dc402acc455ff8244cc7756828a13e0773032	02 Construction	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	41009.0	www.zincdesign.net
+SGNIC	305e6fd5350b8675f9792299597436bae276cc50566104b872fc9cc3d298ade5	13 Transportation & Storage	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	53200.0	96GLOBAL.COM.SG
+ORBIS	146190660630633ebcdb47ab6ccc12a3f339f58a5fc6b183c27c1d50b924e62a	18 Real Estate	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	68101.0	www.uol.com.sg
+GMAP	d3e6bbdd0d51dfddb08c116a4812173d8f165cce5301bfbef5b798effcc51173	20 Administrative & Support Services	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	78104.0	www.kerryconsulting.com/
+GMAP	ece592035179da1d64892462d7565e6f3e5403846d2c0015e404eda2559884a3	17 Finance & Insurance	06. 10mil -<= 100mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	66303.0	www.prologis.com/
+ORBIS	66bc2968f28cc62b8164084571a9cf59d5a97a07d6bf964226840caf7336d617	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	70201.0	www.airguide.sg
+GMAP	5e285ed5c049a83e7829b1aeb11517c8fcccadb93a06d683074ce64304089012	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	86909.0	www.chirosolutionsgroup.com/
+SGNIC	7257e874bf8bc584dbf04b38977bc472ba346b1d8ab75225b2cc30d727a4b6b6	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	46449.0	SAVELLISHOES.COM.SG
+SGNIC	1eed0e777b8ec37fb77a9fd4429027a2fe71d855bafeedf7cfd993b39426543a	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	46900.0	KODA.COM.SG
+ORBIS	e9332cd000489ee8cc55198b1ed229559b09ab0c0ad30a2c89c3a54e54096441	19 Professional Services	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	74192.0	www.blutangerine.com
+ORBIS	8910a5cfe487e54bbfca0608bb2f76a3b3eab7f64b9aef2913648d8518872116	11 Wholesale	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	05. > 30 Years	46551.0	www.aswellfe.com
+ORBIS	cb505bbedaf45f773e46599e959b0b964cbf17a44d015c652454e895115c57e7	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	04. 20 to <= 3	85409.0	www.mindtransformations.com
+ORBIS	9ccf77b8e6b7351749f48553b437f6222d1d5d0e015860626dadc8a7667dafea	13 Transportation & Storage	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	52292.0	www.atgglobal.com.sg
+ORBIS	685bfaa84863b527b674bff7a05d26514329c03a1acf02e19b29c2fa00719c76	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	70201.0	terraasiaconsulting.com
+ORBIS	0495760e9e779b2b11b759b059d50d327f94baca0ceb4d037a1b76781f53572e	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	70201.0	www.ssagroup.com
+ORBIS	e3344f636e0fedf7709ffce657f0979c43ca346be5ae60b503347dda4bf5cedd	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	85509.0	genieeduhub.wixsite.com/genie
+GMAP	c1b174f378d31510b3f9b4ab70a0a9ce74c0955cacb8b6426cf62835f16c4039	13 Transportation & Storage	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	52292.0	https://mfi-logistics.com/
+GMAP	61dfec70de48334f005093d9719d2d93b3cbfc9bf28f026ba09edfbec0155ed9	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	86909.0	www.aacrix.com
+ORBIS	b3f09681638a881acb298ec5e2bd564cb546593feb044d7df6217699cc5a9308	18 Real Estate	01. <=1mil	01. Employees <= 10	2023	04. 20 to <= 3	68106.0	sunteccity.com.sg
+GMAP	9a16b282e157b1f7c181e312d005f21c8d96f4f87f727d4b0a8b3f89f4bee2af	15 Food & Beverage Services	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	56121.0	http://www.yuyi.com.sg/
+WORLDORGS	362f59147ebedffc49339bce81d5bb0a3fda7734c014307a0d96aab056532170	12 Retail Trade	01. <=1mil	Missing EMP	2023	01. <= 5 Years	47311.0	https://www.sgcarmart.com/directory/merchant.php?MID=16875
+SGNIC	ec5336ea89c0410d81591f32958bb41608df1a59ba6fc87aebf22ff516f163f9	18 Real Estate	01. <=1mil	Missing EMP	2023	01. <= 5 Years	68101.0	THEHILLSHORE.COM.SG
+ORBIS	5a586e182c4676f5dee95bd6472bccb2d198f8c33b05062ec1b1d6f71b059e28	17 Finance & Insurance	03. 1mil -<= 10mil	Missing EMP	2023	02. 5 to <= 10	64202.0	www.frasersproperty.com
+SGNIC	6d92b9068d4d13baf194ef37429c871649064031deaeae76d02a79403ce662a8	20 Administrative & Support Services	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	78104.0	FSM.COM.SG
+ORBIS	67c60e45ceb660cd316ba7a3f8820e7d919102de70d4d4fcedf48007b440010e	01 Manufacturing	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	27902.0	www.reitz.com.sg
+GMAP	adfb74424a85f076898a45cbb20801f85dc364170e7bf58baff3a22af4b2e65d	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	01. <= 5 Years	46900.0	https://datadynamics.com.sg/
+GMAP	40eb4f2f870876f967813772f4ea6c8aabcaad42e966e75e43bea80e89262d5d	11 Wholesale	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	46900.0	www.dapsingapore.com/
+GMAP	d6248726cbf37f24b20c13bf3f3508b908df971248d27a5e981b0ac3db09d25d	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	64202.0	https://www.epicsoft.asia/
+ORBIS	0299dfe0813d13c5949cbf16d0cbd96f35df89ab9d7c5e20f759284272515949	13 Transportation & Storage	03. 1mil -<= 10mil	01. Employees <= 10	2023	02. 5 to <= 10	52292.0	sntglobal.com
+SGNIC	e2f31b8a0f213612b336ba7a5803bbf9ce4ee95e1bc1532528105e36619617fe	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	46306.0	astavita.sg
+SGNIC	7d814f208da4b9e3850d2de92a67bf83b8f784ab860792f5b3dbf250dfacacfb	19 Professional Services	01. <=1mil	Missing EMP	2023	01. <= 5 Years	70201.0	BRIGHTPATHWAYS.SG
+ORBIS	85bc6aae750432a5977ac27350fddbe3f2628e6c2a1280821bc137eb36e7e7b2	21 Other Services Industries	03. 1mil -<= 10mil	01. Employees <= 10	2023	04. 20 to <= 3	86203.0	www.chansurgery.com.sg
+GMAP	b3cdc88721fe9df958de242175a9c8fa132ee8c9148af23e85fb5baf54faf342	02 Construction	01. <=1mil	01. Employees <= 10	2023	04. 20 to <= 3	43301.0	ole.com.sg/
+ORBIS	b09e06603ded737ab9b135c971344bb8f9424b3af5064d3632221546d0078c83	16 Information & Communications	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	62021.0	www.uxconsulting.com.sg
+SGNIC	ec803213d352a5ce437b7e45e93a8180936b5055c8507351eeeef593db77048f	18 Real Estate	01. <=1mil	Missing EMP	2023	01. <= 5 Years	68101.0	FLOATINGON.COM.SG
+ORBIS	55f8ef4ff3081a18f2bae2f199775515c32138ae10b23615fc624013752b7183	16 Information & Communications	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	62021.0	www.hoiio.com
+GMAP	e1737cc9149b77edbeed2450f0aeae337dd090569b444cac5124e439f9b1c600	02 Construction	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	43301.0	www.renotalk.com/forum/topic/20128-just-sharing-a-reliable-contractor-impo/
+GMAP	13b998534ea1e834771cb85f0c0cbb45209052d6bdd5e9ddae11213ad2c8ec6c	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	01. <= 5 Years	64202.0	http://indiahousing4all.com/
+ORBIS	354b0b4969c172aebed5ee4d5090efe57de23d9115059832ed0e8401987e80e7	01 Manufacturing	01. <=1mil	01. Employees <= 10	2023	05. > 30 Years	28199.0	www.xinghe.com.sg
+SGNIC	e1f850136a752b86fbef0f1b0646e356a0ab8c5d206bff4dc1105ccc6b5d12ed	15 Food & Beverage Services	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	56123.0	GYOZASAN.COM.SG
+ORBIS	f68fea136677e8964e68f23ecface0078038a2219d16358d7547d3cb860fe3b0	02 Construction	01. <=1mil	Missing EMP	2023	01. <= 5 Years	42101.0	sportslifestyle.com.sg
+ORBIS	04a459b15642a790f940c4a6de96114c37477739b2004ba7c7686623da12b29a	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	05. > 30 Years	64202.0	www.acra.gov.sg
+ORBIS	1c1a8ad6a008269e7eab89a9bd8c618ab5fa7b52372acca9aa6994799c6142ce	17 Finance & Insurance	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	64202.0	www.cmcinfocomm.com
+ORBIS	eb82bc395916fc90cb136d06435e356f7f6afd7251b194653902d328ec61bcd2	11 Wholesale	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	46900.0	stronglumen.com.sg
+ORBIS	f35699ff05075e8624a10f764fcbad8360f3a8e34986b1d30baa700c65caccf6	01 Manufacturing	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	28273.0	www.arcadia-eng.com
+ORBIS	7facc83a142669f3705b5347c998d8b9dec56645007fb1787d9db40e8f951cd8	20 Administrative & Support Services	03. 1mil -<= 10mil	01. Employees <= 10	2023	02. 5 to <= 10	77342.0	greyscale.sg
+SGNIC	a05e3c604603d37f058ea19a31c9ffb35ea8c915f43490028b79e4b9b7e4960d	11 Wholesale	03. 1mil -<= 10mil	Missing EMP	2023	03. 10 to <= 2	46900.0	EMLUX.COM.SG
+SGNIC	55d729de9b041edb5b3c4081070069a1938946ce0ad94d48c84ecd6a8bb49cb0	02 Construction	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	42201.0	PLT.COM.SG
+GMAP	8d144700169fbd5e1d95bfa02272b04063591e609901bdc833e6962b9d840a9e	20 Administrative & Support Services	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	78104.0	http://www.ctsolutionsglobal.com/
+ORBIS	b8b6d5294d38758e65c4dbf35ead4507e1d71c4429dea12b72b346e414bca368	11 Wholesale	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	46900.0	www.abtussingapore.com
+ORBIS	29c9f0fbc375bf8bac74dd1b4a18d4cb4da134caf1c944b27efa6069b61d9890	21 Other Services Industries	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	86909.0	www.handinhandotc.com
+GMAP	f1ffaa24210de53e16faccf9c06dd46bdc65fce50053a171198727bf57532610	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	04. 20 to <= 3	64202.0	https://www.imperialharvest.com/?utm_medium=organic&utm_source=gmb
+ORBIS	f09a21f25cfbeac456f44cf40d166a0ead95dea54deed064f37fb9146b6152c5	11 Wholesale	06. 10mil -<= 100mil	01. Employees <= 10	2023	05. > 30 Years	46221.0	www.aprfiji.com
+ORBIS	6335d03d78a760f1f388b9d03a2bdce261ac5bbbf874ef71d233d7e909ae92b3	20 Administrative & Support Services	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	78101.0	www.pathways-group.com
+ORBIS	dd5eba41bf0928598d3f581138a472dc195bf763647c3df3e292d6c09e0a15ec	11 Wholesale	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	46900.0	www.wireless.sg
+ORBIS	c6e588be3431f83caf027af87d97fda36766ca022b4c05f14dbb94443650fd02	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	46900.0	trendsupply.com.sg
+SGNIC	edfc7680f35af78c05141722cc2e28895ed0dd61310a4079855dd5099ed7cff7	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	69202.0	JANVIS.COM.SG
+ORBIS	a69780a347cd8a6f50c91d26829c400f738e552ee9e82dec78899b8b5b44b4cb	19 Professional Services	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	70201.0	www.jagan.com.sg
+GMAP	dca073bdc549ad0a9cc5ca509b0dba4126ddb3fa561ac594dd79bf2844099c9e	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	02. 5 to <= 10	46900.0	www.kusgrp.com/
+GMAP	11a50ab854ce9c0c22e00c75525706191d4e81f0970d8f14760da0458bb16493	02 Construction	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	43301.0	https://www.bca.gov.sg/BCADirectory/Company/Details/200714354W
+ORBIS	5b530fd679c0443a7b92d1e897c1e0a82eb521bb0a253669bb3de322d3e7feb2	20 Administrative & Support Services	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	81291.0	www.mediacorp.sg/en
+SGNIC	127d8abf7a2edf9e216f72b1243c5fc8fdd7c793e3129b58524ba354a052cc9a	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	72106.0	oncotech.com.tr
+ORBIS	edffcc21f8c50c22be2e6cb1f181f496e59859ff8aaa8cc74e4a1f1c98c20545	01 Manufacturing	01. <=1mil	01. Employees <= 10	2023	05. > 30 Years	18113.0	companyregister.sg
+ORBIS	382918dc18e6dd927ed7cb71a69824a4ff76fb38e8f21dbb5b802ddfc22c45bd	20 Administrative & Support Services	03. 1mil -<= 10mil	04. 200 < Employees <= 500	2023	03. 10 to <= 2	80100.0	www.spearsecurityforce.com
+ORBIS	5684ee91a9d9c5ebdfb615e5d8af33738ad441b0e638caf11ab16ab2526b8004	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	04. 20 to <= 3	46592.0	bronjo.com
+ORBIS	64c66c3a5181c7220a10fd09563071bc4d288f217c6905f082b104946f428509	19 Professional Services	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	73100.0	keko.sg
+SGNIC	dd7d63a674fa2973c1597932f584809898bb3f3d28649fa78427279f4572a575	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	46661.0	SHIPSUPPLY.SG
+GMAP	ba0cc1ee0cb41664a46dd98a74539bb33e418dab931f0eb2bf397257961c1bdf	18 Real Estate	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	68101.0	www.sgpbusiness.com/company/Sky-Property-Pte-Ltd
+SGNIC	dcd6cea59b88368ea8b015fe43779e12884fcab6af0eac6f8e7834a5e3b55ad3	19 Professional Services	01. <=1mil	Missing EMP	2023	01. <= 5 Years	70202.0	ADVANCEHEALTH.SG
+ORBIS	e7cd44c3e2b00e8f8b3978162a332167c5ac21cc54712d38227ef6c5fc500543	19 Professional Services	01. <=1mil	Missing EMP	2023	01. <= 5 Years	69101.0	simhalaw.sg
+ORBIS	7b73d35b59d03a04d118306c21fad65f9c641dc78c4b4cf0f5340a09cd419adb	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	43299.0	www.ascenstar.com
+GMAP	b89f0819cc10243d0f52a2250a4d6bf144daea164c2b1b49d3b0f8935ff11671	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	72104.0	www.neo-aeronautics.com/
+SGNIC	d83652f7a249731e7a6f9740d3f3f68b87c6c20c895029e37a0d805830eb534e	11 Wholesale	01. <=1mil	Missing EMP	2023	01. <= 5 Years	46412.0	AMTEX.SG
+ORBIS	86fece9fdd915280e673936d1269a6bb7edba92d989166816137353e6fab4bbf	13 Transportation & Storage	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	52252.0	omicnet.com
+ORBIS	cf1923dc9868e005ba9ca7d430322753b8aaefe3b95a55d0bce1489c414ebdd4	01 Manufacturing	08. Above 100mil	03. 50 < Employees <= 200	2023	05. > 30 Years	20294.0	www.dic-global.com
+SGNIC	0f8367e1a12f9265e7a82e24f898c2365b9759bbcdfebbe319e11d6feb898f1a	11 Wholesale	01. <=1mil	Missing EMP	2023	01. <= 5 Years	46900.0	CDAENG.SG
+ORBIS	8394cefb9c69a434b341d8407d8b99ff5e833c19f9c5b34660d7aa316efc32b7	20 Administrative & Support Services	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	79101.0	www.gaadit.com
+GMAP	1cd104f6dc5cba609afc22f11d4ae38f38dff51180bba2489760a955ac187379	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	01. <= 5 Years	46900.0	www.global-sg.com/
+ORBIS	151b5f603f7302ac3954836b3ff506d40b49d310aa7795d10b03837e773987cc	19 Professional Services	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	70201.0	www.turnkeyconsulting.com
+SGNIC	3e5dd2b3ecd0d65df7e4b837836e15c284a422e059969f0f5d2c5118581d4e92	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	85509.0	SMARTLEARNINGGURU.COM.SG
+GMAP	9b942ff9c0600201aea437d11483d5cee36da05011f5c079c0ce9a8c3cb38944	02 Construction	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	41009.0	www.gcybuildingconstruction-sg.com/
+ORBIS	b0e277d13408fcd9bd66bfdea28eafb3a148622b0bb171cd5d75e992606396c1	12 Retail Trade	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	47711.0	societyoftouristguides.org.sg
+ORBIS	769571c4c727fc8d928358fbbb8c9b4c179f688067c656adf582851cd6e55466	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	74191.0	www.boonhuat.com.sg
+ORBIS	cfec4dff8262340d7f7dbd54d9fc54008baba4748f1a2584927386bb5946771a	11 Wholesale	06. 10mil -<= 100mil	02. 10 < Employees <= 50	2023	04. 20 to <= 3	46544.0	www.kabeltec.com.sg
+ORBIS	a039c528f1db9260be05c121f34c7fccff37f6e45b7ce2ca378ba36bdbcbbb47	01 Manufacturing	01. <=1mil	Missing EMP	2023	05. > 30 Years	14103.0	art-tailor.com
+GMAP	f2c70e5a81845b7e77a814d1f334cbe4b0328c006a1051f3438cb79aed8f3902	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	46900.0	www.dtone.com/
+ORBIS	19dfa8784f9d1f82a57be43e179fbff38c60d574be76c29615cf3b4f4ceba4c4	01 Manufacturing	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	13940.0	www.kianyongmarine.com
+SGNIC	75b009e11cabe68bd13a74022989ca4dae57070e0053336a83b967d40983af56	02 Construction	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	43301.0	GDHOME.COM.SG
+ORBIS	30e3dfc71ac288d7d8132661fefad630fa0c8461451e0d68c7987f243c1480c9	19 Professional Services	01. <=1mil	Missing EMP	2023	01. <= 5 Years	70201.0	www.eclecticaworks.com
+ORBIS	ec5fd743b90e93d2a6862cc987f995c3b956acc4d5299ab9bab6b753c7d5d713	17 Finance & Insurance	03. 1mil -<= 10mil	Missing EMP	2023	03. 10 to <= 2	66121.0	www.abnamro.com/clearing/en/home
+ORBIS	b8663c0e9ee1a0cd661bd61239ba3f3155d0ddaed9454e9097ea0bbdc781692f	16 Information & Communications	01. <=1mil	01. Employees <= 10	2023	04. 20 to <= 3	62021.0	www.ifs-software.com
+GMAP	1aa120fb9e28bb090687263aedabf4c5a9780b1b4ad01f9b5d689383044021ba	19 Professional Services	03. 1mil -<= 10mil	01. Employees <= 10	2023	05. > 30 Years	71121.0	www.bca.gov.sg/BCADirectory/Company/Details/198900341R
+ORBIS	13d0cb7b93802476670e84b6a2d5ec9fda6653ef04ead848a358b579c51926fc	16 Information & Communications	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	62011.0	amcits.sg
+SGNIC	ba599a93312d388426a18f11a7abc63b5f3b1af341c57f65d8cbcc2dff421486	01 Manufacturing	03. 1mil -<= 10mil	01. Employees <= 10	2023	01. <= 5 Years	28300.0	KOOLFAB.COM.SG
+ORBIS	c62383eb6e3850e3d03ddfc895934c07f0841766af8dc15293ce44be5aedfff3	13 Transportation & Storage	03. 1mil -<= 10mil	01. Employees <= 10	2023	02. 5 to <= 10	52292.0	www.omfreight.com
+ORBIS	29613fcdecbd19d3a0b780310e1bc97eed1284c8477725abae778fb60dc08c9b	14 Accommodation	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	55103.0	www.thepodcapsulehotel.com
+ORBIS	c2051273775f0737990a2deff974d0fbbb2a065e31aa77cc861ddfcc2da9d274	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	46592.0	www.sgsleepsolutions.com
+GMAP	e7e7439466644fc980e60fedc099085f4483620609ba7abd94b9fb69913c24aa	20 Administrative & Support Services	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	78104.0	www.mpower.com.sg/
+ORBIS	693683ecb3e3c8dc9291f2ea08430703979663790667a40ce39cdb00f063c19a	21 Other Services Industries	03. 1mil -<= 10mil	Missing EMP	2023	03. 10 to <= 2	86201.0	www.frontierhealthcare.com.sg
+ORBIS	0c64cd01ec0ab6133e5ec5be3631324ec9f5e452c659d0d797f5f8fb3e523f5e	02 Construction	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	43301.0	www.homerenoguru.sg
+ORBIS	05b55fc5c01c612beae5b07cf8284040e3f9df59a4de7f18bd4d80ccc7d31718	01 Manufacturing	01. <=1mil	01. Employees <= 10	2023	05. > 30 Years	30110.0	www.inparco.com
+SGNIC	452187673c500e6dda99e31e3aeebf9debea978a955467d0e97d2b03a685195e	01 Manufacturing	03. 1mil -<= 10mil	01. Employees <= 10	2023	02. 5 to <= 10	27902.0	konbinisg.com
+GMAP	b49af72c289622876c4781726097c2e26e70ee2bda6ebba19b95de37b7689a29	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	46100.0	www.smartdecordesign.com/
+GMAP	46df4cf19adf7f33c7ec4df16b62b2c606a07f1e07ac51b09543a2838cddb9dd	20 Administrative & Support Services	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	81300.0	https://www.naturelandscapes.com/
+ORBIS	fb0f90299219dc0231664aee35b10291cf95a8fe88592dd3c5a2b8d1ccc454eb	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	64202.0	www.avicgo1.de
+GMAP	069a7f766cbc22c60f54c1fb7a02cdae4700300b519ece10e64f299b5a900a8a	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	86204.0	https://www.healthhub.sg/directory/14/57259/communal-dental-clinic
+SGNIC	aa9ee53744bd18b249f456f2850a4b2527310ce487da18bf4662161a17d428d1	02 Construction	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	41009.0	MATRIXSEAL.COM.SG
+SGNIC	03a27fe5a11442b7b90dd428469a9fc9c657bb99fd6f7d9a18e6eb13633d56c2	20 Administrative & Support Services	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	78103.0	INDIANMAIDAGENCY.COM.SG
+ORBIS	c6d1458871285582ea17448a5b4cd60096caded58769f5bdfa9c25792d8f434d	19 Professional Services	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	70209.0	infinixglobal.com
+ORBIS	61f6bd68bdeba62790c4c9631f7d13712d51b19679236c0f35699bac94525c8a	21 Other Services Industries	01. <=1mil	Missing EMP	2023	01. <= 5 Years	85502.0	sdb.org.uk
+ORBIS	df33853f6ae7d71056e77ebdb44ee168886b576f3c632eaacff8ec8a69774530	14 Accommodation	03. 1mil -<= 10mil	Missing EMP	2023	03. 10 to <= 2	55101.0	www.hotel81.com.sg
+ORBIS	c7d34c3f399bb35b331ded88dea376cce5481c630e6238fb8e20be2b2fe9d7e9	17 Finance & Insurance	08. Above 100mil	01. Employees <= 10	2023	04. 20 to <= 3	65121.0	www.standard-club.com
+ORBIS	29c1f1e13c50edd9e32ad62b2c138e97eb6acdfb9859b191bee6dbaa4c66aaef	19 Professional Services	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	70201.0	e-healthmanage.com
+SGNIC	e22acbf4d24ba539d1de3d06266ee02fc302c2e936f4ca9b576827461f983fbf	16 Information & Communications	01. <=1mil	Missing EMP	2023	01. <= 5 Years	62011.0	TASTEFULLY.COM.SG
+ORBIS	196d15a638981d57e249099878b6c218b3b83ed8387d3999fae03a87c9eec266	16 Information & Communications	01. <=1mil	Missing EMP	2023	04. 20 to <= 3	62011.0	www.microlabs.com.sg
+GMAP	9a13a99d831ca1ed06957e0c02ee6e0c7934bf928c39d891fcae46f73bd01133	12 Retail Trade	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	47731.0	www.sgpbusiness.com/company/Js-Jewellers-Pte-Ltd
+SGNIC	4d232f6e7a446552614457c0db0bc08e7c51a6ca0ea8bbc56d0982a85ced8dbd	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	46592.0	HERE.COM.SG
+SGNIC	90722a09bfdbef93e3767061de9cc4587f503ed6fbb45c516eca98be4f845bbc	15 Food & Beverage Services	01. <=1mil	00. Non-Employing	2023	01. <= 5 Years	56111.0	CELLAR-V.COM.SG
+ORBIS	fdc33fc096f150cd8d3288eaa9688a8ba6b92e825eea2aeb2818584cf5db6f38	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	86909.0	www.cityosteophysio.com
+SGNIC	565a1a4f8af0466757aae3b255aef0194b574fa94647d8e078296b41516ade15	16 Information & Communications	03. 1mil -<= 10mil	01. Employees <= 10	2023	01. <= 5 Years	63201.0	GENESISTECH.SG
+SGNIC	048a3062e5a9ec507c8457671b095a9509bcc9d6ac0d012f0cfa42d887c96a47	13 Transportation & Storage	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	52222.0	VOYAGEASIA.COM.SG
+ORBIS	71a752d100562ccacc6ee1f3ac1bd48327a945cafe3da73cee8ecff05b80d707	21 Other Services Industries	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	85409.0	www.koreinfotech.com
+ORBIS	cd8d5c8ade6920c4b4a30afffcabccaf041d868117b2bab753705865b2f982a1	16 Information & Communications	01. <=1mil	Missing EMP	2023	01. <= 5 Years	59113.0	guruproductions.com.sg
+ORBIS	b33cefb2eff183af1336158cc5a1ada759c7ea1115ec5663fb39c618fb9af1ad	17 Finance & Insurance	01. <=1mil	01. Employees <= 10	2023	04. 20 to <= 3	64925.0	www.singpawn.org/en
+SGNIC	98c403a1a6d26ecc5f63509c6af1e457a20b6bfae364ff29dfd1acafbfed2d42	19 Professional Services	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	46900.0	NEEUROSTUDIO.COM.SG
+SGNIC	bbb65c1c3a25af184a0efdb1d124dc5fa19dfcd55295d056676edf571fea021c	16 Information & Communications	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	62011.0	TAGDIGITAL.COM.SG
+ORBIS	efb03cdf2f8c3d992895d0c307dd43342c6da8ff35d8d0b6cf5ddbdc07eb4212	19 Professional Services	01. <=1mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	70101.0	nsses.com.sg/404.html
+ORBIS	b53b044232b31f89fdfcc82eb53e2627eab9194167439d3499df2bc4952ba974	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	04. 20 to <= 3	46632.0	www.sanko-kk.net
+ORBIS	d59e2b48aae72f2f048965e8efce91df9dacebfa9b49dc8edf27edfbd8119665	11 Wholesale	06. 10mil -<= 100mil	Missing EMP	2023	03. 10 to <= 2	46900.0	www.sajinternational.net
+ORBIS	dfedf7d75cb0255d031a00ccfafb0adac90d1530b45a012016e6bda9669cc2a7	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	04. 20 to <= 3	94919.0	www.truejesuschurch.sg
+ORBIS	f6d0f38dac6ec282883d7e1e31e0193e12a1d2756d36ba340eeb677dc24b613a	20 Administrative & Support Services	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	82200.0	www.venturemedia.sg
+ORBIS	90cd50c429bbc4739f240f591ec5a0bbfc2ae014e17f784948d634f92009cc9a	13 Transportation & Storage	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	01. <= 5 Years	49232.0	www.aelogistics.com.sg
+GMAP	8d16d944fbcf26d7323653a9ee2ef83555b8bbd2aef6f41b88f827fd7885c232	11 Wholesale	03. 1mil -<= 10mil	Missing EMP	2023	03. 10 to <= 2	46900.0	https://eshop.jj-lapp.com/
+GMAP	663cdaa71f0642e14555c24cb5d6df3dc38d353384aa0d6c05201dd1ba2d7180	16 Information & Communications	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	62011.0	https://nife.io/
+GMAP	24b89a81ae6d90594e37caef218f56bb21963481c8e1f50e5c35da0ee33c8a9a	21 Other Services Industries	01. <=1mil	02. 10 < Employees <= 50	2023	01. <= 5 Years	96021.0	headeditor.com/
+SGNIC	8bb266fad6260f581a1fd596d9a09e6544f1d37c21669255edcbf117f394c217	20 Administrative & Support Services	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	82110.0	ymytrading.goshopper.net
+ORBIS	e030c07ef0f9f6a41b55b611946e832db7a2f309cfcf77e38e17409875928a5b	21 Other Services Industries	01. <=1mil	Missing EMP	2023	04. 20 to <= 3	85407.0	www.acearchery.org
+SGNIC	711786014fee82ff43ed2994f68745196bce79c54ae7ce69b8b49be44bc07d49	17 Finance & Insurance	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	64202.0	CARBONRESILIENCE.COM.SG
+SGNIC	18afec5d89412e3e7e03713a5e71efcee285fadab8962a135316d502ced2765f	12 Retail Trade	03. 1mil -<= 10mil	01. Employees <= 10	2023	01. <= 5 Years	56111.0	TACOMMUNITY.SG
+GMAP	9e4f8a42bba24f31e0763b46246499a9831c499baa4016ecb980eed71389cc30	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	04. 20 to <= 3	88912.0	www.pro-teach.com/home.php
+SGNIC	0211fec9f7825cb4a69d7e48f7e8cc758f18e1afd8c3ec8639b7fdee2d8e7170	02 Construction	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	43210.0	TANTP.COM.SG
+ORBIS	28402c01c9e656b093aefa5423d7b3b9313f34caefabff9eac800a84a2d04cb0	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	04. 20 to <= 3	46100.0	maximusracing.com
+ORBIS	e0c12bb70b5897ec5841c1b2e2bd30d81631072ece3c43b61c74f9b10cf658a0	19 Professional Services	01. <=1mil	Missing EMP	2023	01. <= 5 Years	71125.0	www.nexifenergy.com
+ORBIS	47a00269ca77d4fed7aae52aa59f5dae1a07f483147e675d79edb7281bfa26fe	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	66301.0	danielphenry.com
+ORBIS	108186bad951785543c20d3f83a7c2f63a8c5b468616452aea8c6376a442f9a3	20 Administrative & Support Services	03. 1mil -<= 10mil	Missing EMP	2023	03. 10 to <= 2	82200.0	www.callbox.com.sg
+ORBIS	171c8735c086c45b25ea8992badc6335cc70159b16c8e9c30c989c079291be77	11 Wholesale	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	46541.0	www.matcoasia.com
+SGNIC	9604e747d1e30a2ec73ee82ba0d9effe4b48c9f22096c4f904380c413640327d	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	46307.0	INFINITEBEVERAGES.COM.SG
+ORBIS	69c14a274a804ed9d3a1ec52f49c7c303ea3f4d3ad08a456944897ea5e1a1e1a	21 Other Services Industries	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	96099.0	cynderella.com.sg
+ORBIS	5827bf8c9ced2d8e715569b2dd63ba853d65ef4872360fb567acf8910d741bca	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	04. 20 to <= 3	70101.0	www.cemex.com
+GMAP	f2b370f0b4f4d16e1bb71acedfe4faf9acc7d78dfe939a27dc47eacd03a625b4	18 Real Estate	03. 1mil -<= 10mil	01. Employees <= 10	2023	01. <= 5 Years	68203.0	redcrowns.co/
+ORBIS	cbc02a2a2e8a0742957e1c8fddd159a78a275ec9ab62f4af16a186ea8f00b667	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	04. 20 to <= 3	46522.0	www.gistec.com.sg
+GMAP	058b9613783b4ef9f094e871f44e3839985fca688c161c7889cc1372c79a6943	11 Wholesale	01. <=1mil	Missing EMP	2023	01. <= 5 Years	46900.0	http://www.jungle-ventures.com/
+ORBIS	804423adf4eb170a55176a9d0d4c0b2bada5a1db4b9e139908f4c356ba094573	21 Other Services Industries	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	86909.0	activelifechiropractic.com.sg
+ORBIS	8fd0ae88801b6985fa056ddfab978f2c931d048957ac1807a7b54a3f5990b5d3	17 Finance & Insurance	03. 1mil -<= 10mil	01. Employees <= 10	2023	01. <= 5 Years	66124.0	www.interactivebrokers.eu/en/home.php
+ORBIS	d6a4ed7f741da9bdecd938caac820dccf89b90f6106fc09b2ffb170a3a294c0b	19 Professional Services	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	70201.0	informa-global.com
+SGNIC	031c54ff6bb743a5d17b2eb3e231c5eadc569227c43ffdd05cf9b04dc4ab4235	16 Information & Communications	01. <=1mil	Missing EMP	2023	01. <= 5 Years	63201.0	JUNLEEN.COM.SG
+SGNIC	cf49ec6fa88bd60142255419f986051fd90259ae3ec09e0c588dfe990c8c793d	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	02. 5 to <= 10	46439.0	ALTFIELD.COM.SG
+ORBIS	16f8558001f8016160dbc12996a411f3089463bdab85723bd0a29259c71b36dd	02 Construction	08. Above 100mil	04. 200 < Employees <= 500	2023	05. > 30 Years	41001.0	sg292760.panpages.sg
+SGNIC	c92a3b86a3d89100dcbdcd77c1569a507f51fd411306c4fb08690053be53f2e5	12 Retail Trade	01. <=1mil	Missing EMP	2023	01. <= 5 Years	47640.0	GAMETHEORY.COM.SG
+ORBIS	64f0379b6117239f9044a4b3302b67688a351f4ddbf6d8871f41b0c606652322	02 Construction	03. 1mil -<= 10mil	01. Employees <= 10	2023	02. 5 to <= 10	42101.0	kemvet.sg
+ORBIS	3b84380b8dbaa1fc0db33ab9d37400e73119c9db55267491296700e01ff1b11e	17 Finance & Insurance	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	01. <= 5 Years	64202.0	redhill.world
+SGNIC	524fc559d07c15c2e0125370229345225749e2c628dfc1d3cc935b9223c2e406	11 Wholesale	06. 10mil -<= 100mil	04. 200 < Employees <= 500	2023	05. > 30 Years	46437.0	EYAMAHA.COM.SG
+ORBIS	07ba3fbdee14e8ba658019ef074792b265bf9f38fe257b59f454a15581cb8acc	21 Other Services Industries	01. <=1mil	Missing EMP	2023	01. <= 5 Years	86909.0	amazingspeechtherapy.sg
+ORBIS	f941b28760b48919b1ab26a26362c59dfde2c2c9d565823041d9d8a606f7fb33	19 Professional Services	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	70203.0	www.cristalhospitality.com
+ORBIS	e9f185187839de44ccddfd66e2be3fe3b265f9d3e69dbb7cbc60ecda03f99177	13 Transportation & Storage	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	52292.0	www.tradewinlogistics.com
+GMAP	6975319295511f9f3f002c41d68f55c1069a1d8398877cf82f79879c1dfc8e2c	01 Manufacturing	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	18122.0	www.processdigital.com/contact/
+ORBIS	6b78ab3aaedf9d3acbcbbf30fedcf589e5e9bb9389988ec7ad9261430faf98d8	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	04. 20 to <= 3	46424.0	www.unikkessential.com
+ORBIS	03c05f96c521ca2310fd5de88ef39c7c969240a563edc4a857d067dd52ffab34	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	71124.0	perfectwatertech.com.sg
+ORBIS	3c577033e9431f9455095dc2ccc9e8b9296d7baa158c0e52ee9131d9ce0ebacb	16 Information & Communications	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	62011.0	viagoo.co/welcome
+ORBIS	3b1066a4c5747ad0bc53e7c712a0c0f7d876f055695917c0335a42c3fb58a1cf	19 Professional Services	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	70201.0	www.manjaroresort.com
+ORBIS	b7d565361fc2a83abda3610749ec70d8beae31cdaf63784ac57ba66a88b547f9	02 Construction	03. 1mil -<= 10mil	01. Employees <= 10	2023	05. > 30 Years	43905.0	www.teambuild.com.sg
+ORBIS	7f868497cd86731844896fcf28846adbb439ce070fe490a3067bc1cd3cd482ee	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	46620.0	www.kineticsindustries.com/contact-us
+ORBIS	ff7a51922873b3896bfacdcbf54e1c0ac979f7754d472a1df7b8abde9577a54e	20 Administrative & Support Services	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	79101.0	sinoelite.com.sg
+ORBIS	0d5ab80a1fbf83ae3c822b73fa9b4953ca9471499df0f702a54fac7bfcbecea5	16 Information & Communications	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	63119.0	www.smartsolutions.com.sg
+ORBIS	78b3d6404a61b2dd255a639c3de4c2dd06c47875cba2087e9e9d4fc91d81170d	20 Administrative & Support Services	06. 10mil -<= 100mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	82301.0	www.image-engine.biz
+ORBIS	12657031a9db4706b7b8c5612df8b9838ae81f4a61892a7d26d0f4cf92b9c279	21 Other Services Industries	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	88911.0	starlearners.com.sg
+ORBIS	95f63a2fa724faa99a04d1380ba5dd6bde7eed4b345b6706057d718135f79324	11 Wholesale	06. 10mil -<= 100mil	03. 50 < Employees <= 200	2023	05. > 30 Years	46599.0	www.klenco-asia.com
+SGNIC	74fd35d8661aa14647c8697b4998fdf99895ee9fb3500a791f0008440c269157	15 Food & Beverage Services	03. 1mil -<= 10mil	03. 50 < Employees <= 200	2023	03. 10 to <= 2	56112.0	UNCLEPENYET.COM.SG
+ORBIS	7991ce067a7bfc6540a9b98ad045c669b6f5f04327b7b0ddbdabda9669a93f4f	02 Construction	03. 1mil -<= 10mil	01. Employees <= 10	2023	04. 20 to <= 3	43309.0	unifor.com.sg
+ORBIS	ceae433c8dee3a2383c603fa129482a58064f80567ed94c5c44569c7c67a2c72	21 Other Services Industries	03. 1mil -<= 10mil	Missing EMP	2023	02. 5 to <= 10	86201.0	www.wellcollegeglobal.com
+ORBIS	03c6a4b4f72754988c1c981df8e453adddcb4f5ca8fc70d02a76168fced9c33c	19 Professional Services	06. 10mil -<= 100mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	70101.0	www.1st-sponsor.com.sg
+GMAP	0eb24d63081db529aa0d48b2e8c4d1187250ff7ccd98f894b25b01f292782f5f	21 Other Services Industries	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	85409.0	www.holisticpsychotherapy.sg/
+ORBIS	b721e57b0fa095bd1627ed55564a044b3b2bc3ee7d0517267bfac18bd7ee3f2b	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	64202.0	www.ascendas-reit.com/en.html
+SGNIC	e2babdc751d2708748a0f4411a6a21e35f49aeed3d0b9fba7189a38ac9a5a725	19 Professional Services	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	69201.0	NLS.COM.SG
+GMAP	889a56dd06f7b297c85d15babfc72b961d6bf81504771837629fa5da12cf3e8c	01 Manufacturing	01. <=1mil	02. 10 < Employees <= 50	2023	04. 20 to <= 3	10750.0	https://www.agri-biz.com/companies/teck-shin-food-manufacturers-pte-ltd
+GMAP	c619427040fc24bde840afdfa8376d02c2c3f11c1e1976d7dce60eda9a45ce54	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	01. <= 5 Years	64202.0	www.generalatlantic.com/
+ORBIS	6e693c697d3d8b975197d416b36ceba2cfdc6eb51cd84fda49ca4cd2ca49f68b	11 Wholesale	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	01. <= 5 Years	46900.0	getecha.com
+ORBIS	2899c19cf480165fe4323f58e9278d7975f8bdfd6da58880f9b375e8e87f3ffe	02 Construction	01. <=1mil	Missing EMP	2023	04. 20 to <= 3	43301.0	www.chaplindesign.com
+ORBIS	b7bbc85164d456fd6ea36ea3f6adea4483b9d24c66d1e5d7e7a6011b1d07ecd3	18 Real Estate	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	68106.0	sunteccity.com.sg
+ORBIS	7f4fa570c7520dd39dce18ea033a2c0bb96467604476a528ae6b6a7290c1f6f1	19 Professional Services	01. <=1mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	70209.0	prestigefiduciary.com
+ORBIS	683aa2351f8b7f550e83e4f440aec1857bef4963b60abe53782413f44077a45c	19 Professional Services	01. <=1mil	Missing EMP	2023	01. <= 5 Years	70201.0	xeniaconcepts.com
+ORBIS	30b6422d2d8423827145f91acae4fae4a07b95fc8bf315fcc55c02f76b2346ca	17 Finance & Insurance	03. 1mil -<= 10mil	Missing EMP	2023	04. 20 to <= 3	64202.0	www.capitaland.com/international/en.html
+ORBIS	2dc93a9edf440353e72f5928cef89105669d39c58c560815e64fb98f286bc364	16 Information & Communications	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	62090.0	www.roambee.com
+ORBIS	8d4af0108e578345e791fb4a402c7f227da532c0d92bb6afc5f7a4a40fda29af	12 Retail Trade	06. 10mil -<= 100mil	04. 200 < Employees <= 500	2023	02. 5 to <= 10	47101.0	www.littlefarms.com
+ORBIS	4b4cdaef2d24c5622e81626068fa61913f0fe6cb1ba0a069bc5c6cf204b5d37f	20 Administrative & Support Services	01. <=1mil	01. Employees <= 10	2023	04. 20 to <= 3	81211.0	suaconsultants.com
+ORBIS	62d2fbd624ef13588e367ffc3edfa83e08bca1ba04d605c96c10cd51fd29b6c0	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	04. 20 to <= 3	64202.0	www.businesstimes.com.sg
+ORBIS	b6efadfb79f0b5341e676a62924e45df291d22ff2ce9fa007011d9ed77698d00	16 Information & Communications	01. <=1mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	61099.0	www.harmonicinc.com
+GMAP	a2cacc0f5011f9d7b01e1c228f128cebc121c97c3422778a0a9ab86a4f583b54	21 Other Services Industries	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	85409.0	www.ispeak.com.sg/
+GMAP	be37b23bac057bb33d1d18f435e4a9c39ba8f4d7e33a81562d48498f6d8e3557	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	66306.0	www.sgpbusiness.com/company/Inovaxia-Pte-Ltd
+WORLDORGS	46f8499939e68fd55c099133a1864a8b08c6ef7a399ab79bde2fd1ad76f54466	11 Wholesale	01. <=1mil	Missing EMP	2023	05. > 30 Years	46521.0	https://www.facebook.com/magstrengthpage/
+ORBIS	d26df56999b7e89690339860e7cc0c75e57c51ea5aa941e8ab6e63707ba17cc7	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	46900.0	hallofgadget.com
+ORBIS	02f49cab93fe409b3eec37039bd67be9d230b0b024f1df6dc49a6cc5dac7f0e6	15 Food & Beverage Services	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	56130.0	www.bullandbear.com.sg
+ORBIS	2cb438b6cd1951e452ebca9b9fcf0c1b3f2a0518ef8cb11397c57c5bae0666da	16 Information & Communications	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	63201.0	www.bedokpoint.com.sg
+ORBIS	787769d771686a2b1f1a7be77dc1303a363d99b0e0d1e9373f64e1d40a7ee302	12 Retail Trade	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	47630.0	mybikeshopsg.com
+GMAP	cc4decfc99a61f222bec2f91d242dfdb9e0dfed4e810d87a807a96dd7839433e	16 Information & Communications	01. <=1mil	Missing EMP	2023	01. <= 5 Years	62021.0	www.gp.com.sg/
+ORBIS	0bf6feac33db8ec0b84803111de225d51b7ad404cd048fc2fd75e440ddf4aec2	14 Accommodation	03. 1mil -<= 10mil	01. Employees <= 10	2023	04. 20 to <= 3	55900.0	dimensions.edu.sg
+ORBIS	5acd522bd5346cbc8d7980e42bbe377d05d5b78cc78e30715b85543627211da2	02 Construction	06. 10mil -<= 100mil	03. 50 < Employees <= 200	2023	05. > 30 Years	42201.0	www.bca.gov.sg/bcadirectory/company/details/199201563h
+GMAP	d0f6c003dc267cf5a09ad0981ba9bca73929776dfda286b2c776e1a1434e6d67	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	46900.0	http://www.stabilus.com/
+WORLDORGS	bff1c805fd97466b4fb4c16695df7b0b823cf47f89457938ba8637cc3f66f9ad	20 Administrative & Support Services	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	77101.0	http://www.facebook.com/driveworksg
+SGNIC	19c93590f194db4dfed73ae2672401ccd07953c74cfc73b77e1b2024d86c655a	21 Other Services Industries	01. <=1mil	Missing EMP	2023	01. <= 5 Years	88999.0	ACCEPTANCE.SG
+GMAP	c2492d34044c7f957f0f82dc9cb59f55ff44e02a5d53af9f9fa4ca20e4fbe0e2	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	64202.0	https://dtec-industries.com/
+ORBIS	a71222af4ebadb8164491b6430f3eb88384d1d215a9f2032afe331562594e71e	20 Administrative & Support Services	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	78103.0	www.nurmaid.com
+ORBIS	40c656821024d076616635ea337380c5ff1a766129ae9475a5be252683861c97	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	94993.0	italianlanguage.school
+ORBIS	9d5eb732ef505ba419299e6858496cb7392c1415e9d30a409a80fe3671449eea	16 Information & Communications	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	62021.0	komstadtsystems.com
+ORBIS	17ca11477b650f2614cfb2bb76bee6087152ac51ca7d12376f45e4f152199df0	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	74200.0	www.antelopestudios.com
+ORBIS	0ed45538043ff02f91648565c4cdc13cbed877fa8dda7f8dfb6a165f2af83e7b	13 Transportation & Storage	08. Above 100mil	04. 200 < Employees <= 500	2023	04. 20 to <= 3	50021.0	www.apl.com
+ORBIS	6ce6b8077eb9a9e47490aa4c7e447e65ffaf7ed638aadd0882babe08d62b5118	19 Professional Services	01. <=1mil	Missing EMP	2023	01. <= 5 Years	74191.0	leegroup.com.sg
+ORBIS	62d757e79a69e50eb0244a080fc0d4d85ee2667abb30d7594fe1bd02730990bd	17 Finance & Insurance	08. Above 100mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	65124.0	www.axiscapital.com
+ORBIS	e10dce0d30d2a990f978389b0fc6bac265add3856fcaa47a4d6e26c10f3d5383	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	01. <= 5 Years	64202.0	galena-invest.com
+ORBIS	f0e2f7c46cba12658a2242bf19c91719b19a05b5b20ad927898f465401783c74	13 Transportation & Storage	03. 1mil -<= 10mil	Missing EMP	2023	02. 5 to <= 10	52292.0	www.athena-logistics.com
+ORBIS	a4ced8ab1835d6bb2949b56ad97513c3016a975c3f3acf4836e46ed6206cc370	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	72104.0	www.senzehub.com
+WORLDORGS	3baeac86750db33e725d34b3006dae3a3b277c10da461f7f2efe3ce95076aa1d	12 Retail Trade	01. <=1mil	Missing EMP	2023	01. <= 5 Years	47711.0	https://www.instagram.com/candlecouturesg/
+GMAP	9c594e5578bee9d94b94f285c0f8d23f6c529a987679b0c1dfd206cefbf228db	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	46900.0	kimwinautoparts.com/
+ORBIS	3a0f5cf8ae12d701ac10e091c1b70af2f25f992d79a10d3c017c2a9ec5cfb550	11 Wholesale	03. 1mil -<= 10mil	Missing EMP	2023	01. <= 5 Years	46303.0	www.bitzergreenpoint.com/en
+GMAP	4c3b98491a7abf1b9bf6279529480c7df9b73759acb96dc6eb43340e9d0e46bc	02 Construction	03. 1mil -<= 10mil	03. 50 < Employees <= 200	2023	03. 10 to <= 2	41009.0	www.bca.gov.sg/BCADirectory/Company/Details/201021265R
+ORBIS	2a44347350d7e66979da87536a0b375559b8eba38fdabd3fd35609779fa48af1	21 Other Services Industries	01. <=1mil	Missing EMP	2023	01. <= 5 Years	90009.0	www.eightmercatus.com
+ORBIS	587af74d77c6a742b26e2e7ac5661a41b2c4d58ad5d12147d9b0c23fdf178931	20 Administrative & Support Services	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	77109.0	maplefrt.com.sg
+GMAP	3bce04193b2a9effc6d5044e025258cb4c5c48ca38836ac78d0c69f6f3fb8275	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	66192.0	http://www.asialinkrealty.com.sg/
+SGNIC	2715cffc2e69368c2664aff4a63fde98ddd2d068d2768e0eede346f2cd098172	21 Other Services Industries	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	85409.0	www.sbp-academia.com
+ORBIS	2c883f946425f978abc15a163c901cd4983ac5adcdc26b77c6ce008554ac656b	21 Other Services Industries	06. 10mil -<= 100mil	Missing EMP	2023	03. 10 to <= 2	86201.0	www.thomsonpaediatriccentre.com
+ORBIS	669c1927f57d6b116c1c81551c0fe0efcd69eaf1e6c93d13354b87e53965db44	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	96024.0	botanique.be
+SGNIC	3c554ec4e6a8e3bd2b3bc714bdb37a0a671bb574a6680c188a86b42fcaef113f	15 Food & Beverage Services	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	01. <= 5 Years	56121.0	GOPIZZA.SG
+GMAP	f410af5c3f94eb1206400b1bc15811b38d464702c35a4512b862084bd6999758	17 Finance & Insurance	03. 1mil -<= 10mil	Missing EMP	2023	05. > 30 Years	64202.0	https://www.markono.com/
+ORBIS	875f3e0a5e749f138319bf0a75b5788ac1de13f08a57783bc19556dfe3ffab7c	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	74192.0	livelygreen.co
+ORBIS	dca8ff1321b997f33646b0c89a977ede6550a5fa45d7d24f3949baa02dcdb046	16 Information & Communications	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	62011.0	www.bigo.tv
+ORBIS	1f15b6f30f45518a3de751eba4b2b26b43253380fb33ef8a41b22c46506c7084	11 Wholesale	01. <=1mil	Missing EMP	2023	01. <= 5 Years	46424.0	tps.ltd
+ORBIS	5921847df2dbdfed0bcc5c41ca190ddcd27b7960ba9c332f3ce0fcb1b32c4a4e	11 Wholesale	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	46592.0	biomedix.com.sg
+SGNIC	0af37b9685cc0a15ceded43cbce8443bce6b26c56c8712d1762544721e3d5972	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	71121.0	www.bca.gov.sg/bcadirectory/company/details/200702453k
+ORBIS	1863a09f606699b40c387f082cf486d476933b6f6dc3b7323101ea74d4e577e7	21 Other Services Industries	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	96024.0	herbalfootcares.com
+GMAP	0e456cfd348f1d5f0574a22cdf6310783d9f4078c31585b9627e23a478959b2d	15 Food & Beverage Services	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	56200.0	ldelicacies.com.sg/
+ORBIS	992c387ba608dbcd2ba5c75753e37b3f3842f95a8c79a2998ad88833f32713a3	02 Construction	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	43301.0	www.studio.associates
+SGNIC	f280d818451bcaa8f1b6f251d9ea991f3ab1d95b5a8cc2f83ad60112e8feede3	16 Information & Communications	01. <=1mil	Missing EMP	2023	01. <= 5 Years	63202.0	PHANTRAL.SG
+ORBIS	5503ae9554ff93c56cff75263eedb76c94a1241190f1e3b8d5a436f0848b4d5a	19 Professional Services	01. <=1mil	Missing EMP	2023	01. <= 5 Years	70204.0	leadback.co/index.html
+ORBIS	f6e117b2783126dc66ca20f7e4b002413ba8ad6928656230734a0a4d9bdf0a8d	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	85409.0	smtcglobal.net
+ORBIS	e954a49325aa74c6bdb18f9592d66c79437c53d254e87917b86971801c5b5bf6	02 Construction	01. <=1mil	01. Employees <= 10	2023	04. 20 to <= 3	43301.0	interiordesign-renovation.com
+SGNIC	c93374a3c30bd572c57fb51e082afbdc15f62db5afc001912f93b0812e458c8f	15 Food & Beverage Services	01. <=1mil	00. Non-Employing	2023	01. <= 5 Years	56111.0	SAMPANMAN.COM.SG
+SGNIC	056cea6ff1c799ef93beb80c6f14cb0773ebf54a419fd67c73068ea63c3651bb	18 Real Estate	01. <=1mil	Missing EMP	2023	04. 20 to <= 3	68103.0	8BADMIRALTY.COM.SG
+SGNIC	ff10c152fedd15b6772f03328107737b4a7cf7849815cfd08f4fa321b9d0578f	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	70201.0	BACKDOOR.COM.SG
+ORBIS	5876bec3a35f17fbcb775ff63b4d17f0c897904866d562c7a10aa2e1a46f6def	01 Manufacturing	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	32901.0	us.creative.com
+GMAP	154c9b490a892900f8efd21fe7052afe3a276562c77cbcf17017a7a1cc01306c	02 Construction	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	41001.0	https://www.bca.gov.sg/BCADirectory/Company/Details/201317517H
+ORBIS	a6b69b8e00e658f5370e28b33cb0a5f65f81c69e810ad1c9bf97b29f34f94bbf	16 Information & Communications	01. <=1mil	Missing EMP	2023	01. <= 5 Years	62021.0	www.ecgit.in
+ORBIS	7897fb840fe62a840334b1ac919afb30f056571d3d35522fcde6262bc39ffc62	01 Manufacturing	03. 1mil -<= 10mil	Missing EMP	2023	02. 5 to <= 10	30110.0	www.84divers.com
+GMAP	b45bc12b6914fcf5ee286feccefad1d78841ad672c436a2bc6b75f1224407920	01 Manufacturing	01. <=1mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	30110.0	http://guanjoo.com/
+ORBIS	1cde50955c6361f9c3572d598d7bfc3c3e0c29e32dae85ecafd2b7d6c46f154d	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	46900.0	www.insing.com
+SGNIC	68064ac2141f242303f6a191780f68a58a29c974bc6bb23df6d3009947456815	15 Food & Beverage Services	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	01. <= 5 Years	56111.0	KIWAMI.COM.SG
+ORBIS	901c229c90603448f697f452338240a480757df7602be12185142fd55d347970	16 Information & Communications	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	62011.0	www.activeoo.com
+GMAP	afd531c53c0a6775d14b28842d5ee6acae050c7a10e8d3d824ce5e804c85d8c4	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	85501.0	http://www.sparksystems.sg/
+SGNIC	a5fba3df40dd9857001d2ff3e5ab91637b75a424d0c3db72821c8589bf5805f0	11 Wholesale	03. 1mil -<= 10mil	Missing EMP	2023	02. 5 to <= 10	46522.0	RELIER.SG
+SGNIC	20fd33948243aad4e2f6d7f6f082a7e79476afa094c8c3ebc9d36c4f3462295d	19 Professional Services	01. <=1mil	Missing EMP	2023	01. <= 5 Years	70201.0	ANTITHESIS.SG
+GMAP	728ee29a4eb8ef09ff2965474880f890c5f4ca11e8a8fad4832cdb2daaccbce0	21 Other Services Industries	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	96021.0	www.salesable.co/
+SGNIC	99acca1e96053bc437d39e96d8c02275c119deedc97dc681402b2592854f8936	11 Wholesale	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	46100.0	GIGROUP.SG
+ORBIS	3f2536092726bbec3ce9cac11c96d1c9a089a1b96f99e4aa0d75f9f38d51fe3e	19 Professional Services	01. <=1mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	74199.0	www.innoverde.com.sg
+ORBIS	2eea6de5d3a604fc807d040108c05d7440f7edf437a3b84d37d82c2b72fe9f82	12 Retail Trade	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	47411.0	www.voxglobalcomm.com
+SGNIC	07bc451f5768e5e5241a7eda069cf0c4b88fcd6d91f2b8cc489ecdf2255c7974	11 Wholesale	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	46522.0	www.hioki.sg
+SGNIC	881e246c962c9a62a152bb8d4825a4316e7fda5cc61858319c99fe228231c92a	21 Other Services Industries	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	85509.0	BEAUTYFULMINDS.COM.SG
+ORBIS	f695a62fe8f4c0d97062ad197a621a553f9ef606bf9bfda33c1efef483fadf68	20 Administrative & Support Services	06. 10mil -<= 100mil	03. 50 < Employees <= 200	2023	05. > 30 Years	81299.0	www.lianshing.com.sg
+ORBIS	0fe3db414b4210410c20e7b3cdaf507d97e1ed2f55c32ef80849503c66b20e8f	01 Manufacturing	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	05. > 30 Years	18113.0	www.azone.com.sg
+ORBIS	00af943404a5bf4a9d17824a175ffa6cb997f70b3cdbcde62ea1f7aac1c58d6e	17 Finance & Insurance	06. 10mil -<= 100mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	66121.0	www.tdameritrade.com.sg
+ORBIS	a3314e934d70ef29a9f1e37b1e039e8b89590761dae7325c136e9579710d260f	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	64202.0	www.venture.com.sg
+ORBIS	899c8d27b424fd43d484f3289e70c8f38afcd2c957726ed86fc16cddfa320fe4	12 Retail Trade	01. <=1mil	01. Employees <= 10	2023	05. > 30 Years	47742.0	www.framemaker.com.sg
+ORBIS	7971f33856dba8d77f5780cbcb929598d4fc4a1d19422e5a673dca662e255064	13 Transportation & Storage	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	04. 20 to <= 3	52222.0	www.batamlogistics.com
+ORBIS	c919ce8ed035f4a4e33b5d588a5e7c34de4d4edd6d4c4f4ee09959c5c4741231	02 Construction	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	43301.0	grmbuilders.com
+ORBIS	dcb039d830cdced37bb308205d0c3bb0e4bd879db953d3f32b7061f4f0eea5ef	20 Administrative & Support Services	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	77109.0	firstaccess.com.sg
+ORBIS	f90cfa758cee0a11a5f2d101c6b477d609539b65983af5233b8a664c4d5d1eb6	11 Wholesale	06. 10mil -<= 100mil	01. Employees <= 10	2023	03. 10 to <= 2	46303.0	futurefoodasia.com
+ORBIS	7231148992a7d7265d1f5876e0580c242bc1d3bde5cb4214eafa3a9528c534ce	20 Administrative & Support Services	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	81291.0	www.incpest.com.sg
+ORBIS	a2aacacd9cacb3688cb6b0cdf3f8047ef2e75b3d523d3c88864f1a83c72ca8a1	12 Retail Trade	01. <=1mil	01. Employees <= 10	2023	04. 20 to <= 3	47214.0	healthtrends.sg
+ORBIS	4c4aee37b6a28e70902c2e0aef95d218e9c5b3fb9ad191d3b934d19dd70b64ae	19 Professional Services	06. 10mil -<= 100mil	03. 50 < Employees <= 200	2023	02. 5 to <= 10	69201.0	osome.com/sg
+ORBIS	4dc4604417f2e1a2f9b6a61134d01d77f27e38fd80d64562dcb0bfe0e814ea8d	21 Other Services Industries	03. 1mil -<= 10mil	Missing EMP	2023	02. 5 to <= 10	95301.0	bw.com.sg
+SGNIC	e994f095449306ef899bc4a648f358a9bf8837816ca4a7a02fb722c80f71ce48	11 Wholesale	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	46100.0	SHUOPIN.SG
+SGNIC	fc86bb2b3915a538af411acbe491afb14977a6724dbe265d6ce8abddc161b47b	11 Wholesale	03. 1mil -<= 10mil	Missing EMP	2023	01. <= 5 Years	46900.0	EUROCLIPS.SG
+ORBIS	ed175b98b44e3ef6d76d7af476a764c26bab578d893e718c1971b8b53187a656	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	01. <= 5 Years	64202.0	www.ouect.com
+ORBIS	2323b489659406ce2a9bc500d1a564177b11152cd853112a02dfb12c67a4ca53	15 Food & Beverage Services	03. 1mil -<= 10mil	03. 50 < Employees <= 200	2023	03. 10 to <= 2	56111.0	www.copperchimney.com.sg
+SGNIC	16a56786ca7129ddf4f282ad4b31d62515e4d262a556f7dd570578d6a3bf634f	11 Wholesale	08. Above 100mil	01. Employees <= 10	2023	04. 20 to <= 3	46649.0	SHOKUBAI.COM.SG
+SGNIC	ddcffe288850eabee169726c4605dac9ebd7533d1e74596962cea4bb0e9a3fe9	01 Manufacturing	01. <=1mil	Missing EMP	2023	01. <= 5 Years	10799.0	AZELIA.COM.SG
+ORBIS	27b61045e3159905eb50965de633ce92537a50fbe9e0a18875631acf8d217b9b	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	01. <= 5 Years	64202.0	www.tlcmodular.com
+SGNIC	256e43891ffb874afe10b90f8d65512622a5f5a08a0736163120d077b5636fbc	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	46610.0	GOLDEDGE.COM.SG
+ORBIS	39b9b3bed09ebd9d0ee0d27caf31b3122c5b2ffb95be777f5991ca4fdb47a4e9	20 Administrative & Support Services	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	82303.0	www.firstconcept.sg
+SGNIC	8f0d971281e670e477cd41ad347b4384fc7100a11225a1ea4928d5eab03af265	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	96029.0	YEONGHUIBEAUTY.COM.SG
+ORBIS	1901080de389b2525eb2757cae27dd0755ff9a6fbb6ed1fcf18832abaa8541e4	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	05. > 30 Years	46541.0	www.artsgate.com
+ORBIS	2d0eff8540387a1b0b4898ee428f5860c7d2b3b9a9de2d43956274d7daa6be4b	16 Information & Communications	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	63119.0	morchlo.com
+GMAP	5816b400c92de1e831ab5b11332b9c14e80f36e76b169ef8a0a0930db24c66db	18 Real Estate	01. <=1mil	Missing EMP	2023	05. > 30 Years	68101.0	https://www.asbrealestate.com/
+ORBIS	c4052e99d8df8434d9a4fb7e20c26b5355639f8ad736a31da66aee54e23bad64	16 Information & Communications	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	62011.0	www.moglix.com
+ORBIS	e763b5e675f561aeb0f89c962f68a0940c77982460c965f82e26a75ff638dfc6	01 Manufacturing	06. 10mil -<= 100mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	30110.0	www.vallianzholdings.com
+SGNIC	c71d19ec4c2f7e8ece7199247a0dc588d3239446aebf9e0d1eafdb5f1db67fb3	12 Retail Trade	03. 1mil -<= 10mil	01. Employees <= 10	2023	02. 5 to <= 10	47101.0	ALMARCHE.COM.SG
+ORBIS	86a2a5c5dc876736daf933088283f2aa47db4e66d10ca4c5349b95eecba1c631	13 Transportation & Storage	03. 1mil -<= 10mil	01. Employees <= 10	2023	04. 20 to <= 3	52222.0	pmagency.com.sg
+ORBIS	d28e7d8fd1757cb413157161ea9acbabd3770f3102cb903a0fc7f3bf88a3e68f	19 Professional Services	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	72102.0	cloud.sciencejet.net
+ORBIS	4f6e28f6be4a0f806af657b6cf6394c08189185f6b09c1e07cc9d9b4223e7826	01 Manufacturing	01. <=1mil	Missing EMP	2023	01. <= 5 Years	31001.0	htlinternational.com
+ORBIS	92b4b72448f8e79ab77f3ef3f0e03d368f202e506c5fb0245e07f1494ef2b8cd	01 Manufacturing	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	31001.0	ritzeco.com.sg/contact-us
+ORBIS	09a739dac6408b0a24b57a7d671c38c02e6cab0e95641e3568309c3a6492ac3d	20 Administrative & Support Services	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	78104.0	alphastrides.com
+GMAP	5484d9cc9ba1af5be34335ce042d4bea44a621b71964c06fc6f82aeeb47ba16a	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	04. 20 to <= 3	64202.0	http://www.gencap.com/
+ORBIS	aa11cf25d672a14a90d6fd0af3c57b69cf8354678b0a1924e29c74361c459be9	13 Transportation & Storage	01. <=1mil	01. Employees <= 10	2023	04. 20 to <= 3	52226.0	www.firstship.co.jp/english/profile/group
+ORBIS	b3dbeb6f52d11b21499a691720f5cfda7c9d6d420e77c96488df4c9837a4c9a0	17 Finance & Insurance	03. 1mil -<= 10mil	01. Employees <= 10	2023	01. <= 5 Years	64924.0	singaporetopmoneylenders.com
+ORBIS	cedcb627ac906c6dc56d17a90826237efa23dda267767947a4dc1e616306b806	01 Manufacturing	01. <=1mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	10799.0	www.youtiaoman.com
+ORBIS	54eb362a0c5dba468d8f027c1e9621201214bf666cb886e65b92ae7c475dcaf8	20 Administrative & Support Services	06. 10mil -<= 100mil	05. Employees > 500	2023	03. 10 to <= 2	80100.0	security-risksolutions.com
+ORBIS	f3ffcf02051fe12c0791db10478b718ca2f0a553a6e28b9ba39963875dce390d	12 Retail Trade	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	47533.0	brightliving.com.sg
+ORBIS	73b378096bfca19a70e5c468764880345dba9cf80d24803d647b7b1db25fb5d3	11 Wholesale	01. <=1mil	Missing EMP	2023	05. > 30 Years	46549.0	www.tenaris.com/en
+GMAP	9d651c5b86407ff75d4c727e9a43e142e45f7a191e67d58fa03ef92b46b4c023	18 Real Estate	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	68101.0	www.triplestar.com.sg/contact-us/
+ORBIS	69f8f37705b71bfcef29602935e755ee85c7f4ddb4688e8482bd4a853569165b	11 Wholesale	01. <=1mil	Missing EMP	2023	04. 20 to <= 3	46512.0	www.cruxial.com.sg
+ORBIS	c9790903af1f5d9f1f60305a968aced886cd35c42dab153274ed862f12a036e4	16 Information & Communications	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	62021.0	kenetics-solutions.com
+ORBIS	a78c42fac170241fac2e2025b07aaf0c2639bc7b63ac79e1d215c776c0924667	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	69202.0	www.dkt.com.sg
+ORBIS	2a273651ec5202b5e426f089973e045f5fbd04bf308c797f89fe7cd0864f8175	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	04. 20 to <= 3	46595.0	www.systemswinners.com.sg
+ORBIS	514df5c5a0bc04f30c33e26e45c644f0b0cf43bf246a29cc18e72a981c42a0b8	18 Real Estate	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	68103.0	www.mg-global.com.sg
+ORBIS	73177368bf32e0ae55acdbf7d3b8f68cc8bc5a26262d54a1e95db9b7ca360556	17 Finance & Insurance	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	64924.0	www.sandscredit.com.sg
+GMAP	cbb4e071bd13dff188949f3d3fc2e848b63ca947ee4fe194811d01abe6428a43	13 Transportation & Storage	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	52226.0	www.marine-intl.com.sg/
+ORBIS	7cfab786794ffe86c2d4594804c8c40b3f9d5c3fc1d6ccd6b8c8b2d2d192e485	21 Other Services Industries	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	85409.0	unichallenge.biz/index.html
+ORBIS	d27e3fabd93efd0b43c59edc86990cf01caac990bf93073bce0d8bdb9e67017a	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	85409.0	learningexpedition.org
+ORBIS	0c4008e14a1f9b44f06884981e1bf7bc8cd6ac68ac1863bcece51012263530d8	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	46302.0	firstocean.sg
+ORBIS	7e18910fc4cd7b4d832c37e0215ad279af5977ad4e6e7605c38b22bcf7236299	12 Retail Trade	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	47102.0	www.yesnatural.sg
+ORBIS	2b3799b056021843ff2e642938cdf1fc53c3bbac0589d327c394f4dbb28895c1	02 Construction	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	43301.0	www.mimo-technologies.com
+SGNIC	0790725f0f9ea9cb79112a345abd49225b53e7bcf4e4ef8f2d8daceb6f043c50	19 Professional Services	01. <=1mil	00. Non-Employing	2023	01. <= 5 Years	41009.0	VELEGANT.COM.SG
+ORBIS	f25b57fa4bcbebd23877b725c6fe26283e39d18336ed18b4f0cd3c04be832d4f	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	05. > 30 Years	46551.0	www.asiadiesel.com.sg
+ORBIS	efc36ddd2276a757176f0f1231f640fb78296eb321f330e7bce5b5b5e0b7ae59	16 Information & Communications	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	62011.0	hyetech.biz
+ORBIS	b41a30b3691f432b93e5f2efda80d32450199919a09fe0214e9c4b4146ea9fa3	02 Construction	01. <=1mil	01. Employees <= 10	2023	04. 20 to <= 3	41001.0	mingyongcontracts.blogspot.com
+SGNIC	a67337b0e3fc1f00d151e75e8a9502d28375d0ec6a25f87a13edd219aa007718	11 Wholesale	01. <=1mil	Missing EMP	2023	01. <= 5 Years	46900.0	EASTJAVACO.SG
+ORBIS	8243f2054473aba2b012fd56a7b4a2ff01bfe5c176c243389d8f5dd026ef92e2	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	96023.0	www.stellanails.com
+ORBIS	df50fe816671a2c3a72277cb21974fbe3c38743245e16df662169952ca90ef7c	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	46100.0	www.zipl.com.sg
+ORBIS	3b4c6f73ec3df045e9dfc0e06b48bdbe0b74372c96ec9e63cc867522f6da1bd5	11 Wholesale	06. 10mil -<= 100mil	Missing EMP	2023	01. <= 5 Years	46100.0	radic8.com
+ORBIS	e10b02259a3f5072eddede0940489e79cc0ac0e6f8b89ab9beb62885b3d3414d	12 Retail Trade	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	47640.0	www.stargek.com
+ORBIS	19eacc0216ae837ddebba7b87b2e9a5ad7a388e76231464fda594634f806427f	16 Information & Communications	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	62021.0	bstglobal.com
+ORBIS	0c88439cee8ac8916118f383d293a2c9730fe63c26ec9bd63a18d0e24071aaba	21 Other Services Industries	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	86909.0	www.redefind.net
+GMAP	eb3cef5891b76032613a3491345e9806ea5ef57a9522dc21fed65631140cd7f5	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	64202.0	http://www.edrill.com/
+ORBIS	decb306f73f4a6c55a05cb5f9e288f70a1b3efd903347d9a618fb76ac150396d	21 Other Services Industries	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	85509.0	www.kingston.edu.sg
+ORBIS	ca1e44d53009b4c765919eeb6b5731f4cb353457133f8f9ce2b02450036cbd31	17 Finance & Insurance	06. 10mil -<= 100mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	64929.0	thegrandstand.com.sg
+SGNIC	eb14b3b6bddea677c1632b6e44cc2ebb58c5d320db7b6825fe26eb4e1fc837d3	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	70201.0	SUEZ.COM.SG
+GMAP	562719c9705b389a27f67584f4e39dca7f7fe8f306f74ba9a01de1fcce1e171c	12 Retail Trade	01. <=1mil	Missing EMP	2023	05. > 30 Years	47714.0	https://www.facebook.com/joomohchiapkeetradingpteltd
+SGNIC	b1e999114fa0de2fae86396337f6b2e954ee11daf55acfa71d7f87fd97999140	11 Wholesale	01. <=1mil	Missing EMP	2023	01. <= 5 Years	46900.0	RECYCLEBAG.COM.SG
+ORBIS	e3b4f0d90c3565c91c1213946d291b7d3a8fb57da6447302b04c118106e6894c	19 Professional Services	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	73100.0	three60.com.sg
+GMAP	e611d69fe8b63d94628b135fdc0c97985fe9d645a322bb9768662a4005dbbb7c	13 Transportation & Storage	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	52212.0	http://jsautomotive.my/
+ORBIS	bdbfbb777822a8662de17d8816b809843f0b88c31b50411786a82dce27702a88	20 Administrative & Support Services	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	78104.0	myczechrepublic.com
+GMAP	63bc73234fc1ac35cada26a98a342129b31e79e0df8cfa9014d407bb6a3958f9	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	01. <= 5 Years	46632.0	www.alsecure.com.sg/
+GMAP	ef31a3ada5e3520ade77bca4dc946d67d1d363d175f08a67f6591847434310e8	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	95301.0	http://maskcartel.com/
+ORBIS	e604f0c1b729799d262974cae47afc69b2f9a3af165860f55e7a4ee214270b87	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	05. > 30 Years	46551.0	dsships.com
+SGNIC	8a04ebf000dc8770c4fa84197f219c20b881324527feb0398981bab3824943fd	16 Information & Communications	01. <=1mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	59111.0	www.media-freaks.com
+ORBIS	7440179c05d3c88b5d9bd8965cf18d493721f6aebf0ba6fd9ef64ef7563a539e	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	46620.0	hwaco.com.sg
+ORBIS	a53aca48f3b390d670f42ffd3495525800d5d93bf09427ef4ee13befd0585478	11 Wholesale	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	05. > 30 Years	46900.0	www.unlimite.com.sg
+ORBIS	7f630713ca4668c7d25d938558f7ce71d4cc5ded59825e26e19c50cc6733358b	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	93111.0	www.fitnessfun.com.sg
+SGNIC	fc9008d194328b5c3c9d55af8b078f35bbb68ddc03eada2cb597683760ea8404	16 Information & Communications	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	58190.0	MMACTIV.SG
+ORBIS	5ab52cf87d44d4882a01f32e4ce00441199337a5bb9d62910bbac2f44c8da721	02 Construction	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	43220.0	arcticstaraircool.com.sg
+SGNIC	f9435834820ff94063c7bc929dc53bc258deaaa6d10acdd7e03597baadcc7eac	16 Information & Communications	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	63209.0	DAAS.COM.SG
+ORBIS	9d9f8c9cc404240f4cbde6988109b0488c4207ae3bb7187d5aa8b1aa29e930a9	21 Other Services Industries	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	85409.0	www.pictorial.com.sg
+SGNIC	0d906c02b4d7407474fbd882141d13d6553d1364a16bd7fbaec35a639c49a3f8	19 Professional Services	06. 10mil -<= 100mil	03. 50 < Employees <= 200	2023	03. 10 to <= 2	73100.0	EVERY.SG
+ORBIS	9dcda6d71b2c38b73a586e55d5a2dad3946d48b927f3dee56350034856169b0a	17 Finance & Insurance	03. 1mil -<= 10mil	Missing EMP	2023	03. 10 to <= 2	66303.0	www.suntecreit.com
+GMAP	b0a2ca7cbe73d32983ad6f219e8c3a776aeef6095be48109ca17fa6e86f3704f	15 Food & Beverage Services	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	56111.0	fameline-apsg.com/
+ORBIS	dcdc881fcd2b24f2a41ec81546f44fbd2420fcae4bc8a4ef2485108b2d103557	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	64202.0	www.frasershospitality.com/en
+WORLDORGS	c531e56928acff29a1fc97497f2b27a8dc0e9cf147d78a3e00ab5f5a2f6407c6	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	70101.0	https://www.leonardocompany.com/en/global/asia/singapore
+ORBIS	568ee92f35601d9f290545e81a8a7d161cc8bf2d528156b9589f95d596b3ce9f	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	01. <= 5 Years	64300.0	www.temasek.com.sg/en/index
+ORBIS	dc51a24fc6b48d7354b48968db78e312736a066605b78ce8ba4de9bc78254169	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	01. <= 5 Years	64300.0	www.proterrapartners.com
+SGNIC	210b9ff66cb4b30145a6bbaeefcc0ef224762e27a762ca2de93db0903e62589e	01 Manufacturing	01. <=1mil	Missing EMP	2023	01. <= 5 Years	10712.0	THEFOODLAB.SG
+ORBIS	1c19a85766b8ccbddeb629148d6906d13651bc703adde0612e32c8bc9e6a676b	19 Professional Services	06. 10mil -<= 100mil	02. 10 < Employees <= 50	2023	04. 20 to <= 3	71122.0	www.pacific-central.com
+GMAP	22f7b2b7a8250efcddff0ac914cc7a3c61d1b9990142a10fc6a2dd8cc9156414	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	01. <= 5 Years	96023.0	www.facebook.com/BelleLadyBeauty/
+SGNIC	a6b48e0f41c869ef630a3e48eed4fbf35bee4f55886ce41038304eec5026460a	12 Retail Trade	06. 10mil -<= 100mil	04. 200 < Employees <= 500	2023	03. 10 to <= 2	47103.0	www.muji.com.sg
+GMAP	28590c1744a13fd261b816b6a3e043803937e7ddcb2f0107f89d804662fc371f	21 Other Services Industries	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	85408.0	tma.com.sg/
+ORBIS	52f3518ca5935ef94aa72adc8094a024f4018558184e56b2e279c2aa26c68c00	21 Other Services Industries	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	96099.0	trans4mationaltherapy.com
+ORBIS	89077c6c7d380dad2beff2ec548fecf528bf65dc2b2c75cbe4d4ccce4959dc2c	02 Construction	01. <=1mil	Missing EMP	2023	05. > 30 Years	43301.0	www.yelu.sg
+ORBIS	31d2b4f5b305d5111c89365a9cafc10eb00c9dd1c61d6148e4f9eef6a2ef4f07	19 Professional Services	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	70201.0	lntglobal.com
+ORBIS	c64ea41922fedcfb47d2edc570b57b61a49f5ecb5efaa13763b74a08f976c3e2	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	05. > 30 Years	46512.0	www.ngk-software.com
+ORBIS	b807d6ed21c1fc1abeb6d7b785703f35c0c7922a55c739b606076456d188ef4a	21 Other Services Industries	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	85409.0	www.renergetics.com
+SGNIC	56f626d4b29a8bf9f582196ff3c50e2e89a31d186c1de5496abf74037786aaec	11 Wholesale	06. 10mil -<= 100mil	03. 50 < Employees <= 200	2023	05. > 30 Years	46309.0	KORYO.COM.SG
+SGNIC	2c278cadd5e36146078d783078f1263ec0bb03399ccaea9aaccf4c8beed66283	16 Information & Communications	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	63112.0	HOSTGEEK.COM.SG
+SGNIC	9d402a9c23b2723276b0c51c29e38828c472e613203824cd2763c6de8ccb54f3	13 Transportation & Storage	08. Above 100mil	01. Employees <= 10	2023	01. <= 5 Years	50021.0	BGSG.COM.SG
+SGNIC	81a6184fec7f17b55f662f2493dda31a88e45fac9b933402ae6f47a8c91dc036	21 Other Services Industries	01. <=1mil	00. Non-Employing	2023	01. <= 5 Years	85408.0	JOYMUSICSTUDIO.COM.SG
+SGNIC	7a7f038db0743594cbff1296fd4434d5cc68e8f6f40d2b8c2d2bc073b1309d48	02 Construction	01. <=1mil	Missing EMP	2023	01. <= 5 Years	43293.0	E-TECHSMARTSSOLUTIONS.COM.SG
+GMAP	404db079ce570207b4943a05500e3f740824db97e0d739afd44d7633e76929b7	15 Food & Beverage Services	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	56112.0	http://www.funtoast.com.sg/outlets/fun-toast/#fadeandscale5
+ORBIS	5963fd862711672bd73bb3eeb409909d34a60f0c351369a68ba162f1e081f209	19 Professional Services	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	70201.0	celestialambience.com
+ORBIS	4facafbd21809cb2c8099cc322d3d775053b08ece4d9d98a7755ace0b10396ac	18 Real Estate	03. 1mil -<= 10mil	Missing EMP	2023	03. 10 to <= 2	68106.0	sunteccity.com.sg
+GMAP	e0bffdab4ad47c0c705771977822ddb7c434aa960940844d30f0a6fd858e69f0	13 Transportation & Storage	01. <=1mil	Missing EMP	2023	01. <= 5 Years	49232.0	www.facebook.com/askunclepoh
+ORBIS	13cb22d65b470497c4f6e5e83fcd8d1788b822f36e3eee24cb6dc8ec514f9cf8	21 Other Services Industries	01. <=1mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	96021.0	hacos.com.sg
+GMAP	daf1aac024af74ec344b196255ace2d480944a90657fb8cb5dc1b8abc91be3b3	11 Wholesale	03. 1mil -<= 10mil	01. Employees <= 10	2023	01. <= 5 Years	46307.0	https://www.asiawhiteant.com.sg/
+GMAP	de738de11846c5c468e53d22be54d32454193e6421f9bb433e6cc393acf369af	14 Accommodation	01. <=1mil	02. 10 < Employees <= 50	2023	03. 10 to <= 2	55101.0	lamodehotel.blogspot.com/
+ORBIS	0da75fadd7fb13ce424fc854c613fc4f267f56629d30a93aa7656b3fce9fa1a0	01 Manufacturing	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	26512.0	www.tiscalibrator.com
+ORBIS	04bc23e7b57ca5b8cb8bedf0e377c3ebb8650c02263ae84e437d6af188185ea1	21 Other Services Industries	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	86204.0	www.specialistdentalgroup.com
+ORBIS	533aa8029d188596d166a8ad5593d8b03626cbd1f99487748cc9bc8f69f36caa	21 Other Services Industries	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	95301.0	kgcworkshop.com.sg
+GMAP	43eb5fc62d568f405ea023fa03423fac254b1f1495cb4712ac07f13f7a5467be	18 Real Estate	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	68101.0	www.proinvest.com.sg/
+ORBIS	ec60faec224429c40168415d767a2190a36f9e74cc0c8ba3db60a5e82e96d82a	12 Retail Trade	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	47412.0	pcdreams.com.sg
+GMAP	552fa91274338467e6011809daf4afd1273c0000f43868a889048c6f51715de8	17 Finance & Insurance	01. <=1mil	Missing EMP	2023	01. <= 5 Years	64202.0	https://www.myworldasia.com/
+ORBIS	453143acb1a7dd93a20d04aaf6e788fef4cfa9fe306be9f510c5f73747d39487	19 Professional Services	03. 1mil -<= 10mil	02. 10 < Employees <= 50	2023	02. 5 to <= 10	71129.0	fiberone-asia.com/home.html
+ORBIS	1ca46b65d6bf99d61d8730bc3cdc994a445a61b8a09c8874f16e50d9596d4ae8	19 Professional Services	08. Above 100mil	05. Employees > 500	2023	05. > 30 Years	71122.0	www.peceng.com
+ORBIS	964de0fd6ca846455af977e4547205f6a2a66b40a820356ac2a4437dd60d1467	16 Information & Communications	01. <=1mil	Missing EMP	2023	03. 10 to <= 2	62011.0	www.univacap.com
+SGNIC	71db9eeb0b93692b9389d13f449ca6b8232262015f0de891d08d80adb63371ed	16 Information & Communications	01. <=1mil	Missing EMP	2023	01. <= 5 Years	63201.0	MILKTOP.COM.SG
+ORBIS	10f06cf19060cc9a3b2f16f26d34b047b60c32cb5832666e379046058eca163d	02 Construction	01. <=1mil	Missing EMP	2023	01. <= 5 Years	41001.0	rkingyo.com
+ORBIS	3630141f097987bf6e04267a75c7408a11c23ab713a46a109fe30dae8c722ee7	01 Manufacturing	03. 1mil -<= 10mil	01. Employees <= 10	2023	04. 20 to <= 3	28199.0	www.technic.com
+SGNIC	3ba2796680cf8b53436b29d5ed6266e20c617ef8a0d528ce6ceda2ed40af4d78	11 Wholesale	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	46432.0	lghausys.sg
+SGNIC	7a136179f161160f9c8da5e6698bd7e595169ac98c4b0a9f3cb46991f53ea9aa	20 Administrative & Support Services	03. 1mil -<= 10mil	01. Employees <= 10	2023	03. 10 to <= 2	82301.0	www.neo.tm
+ORBIS	2effc4621b405b0cc9e2cf3946d41df38f4632f8c52ba7e477642c84ed50ec47	13 Transportation & Storage	03. 1mil -<= 10mil	03. 50 < Employees <= 200	2023	03. 10 to <= 2	49212.0	www.longlim.com
+ORBIS	5c51e3300b165f7410e6bda6cbe240db5636eb3889cd0b32497ad085c10e5d5b	11 Wholesale	03. 1mil -<= 10mil	Missing EMP	2023	03. 10 to <= 2	46900.0	ggm.sg
+SGNIC	ac4de7b386140091a8fdf3580716e6e1fdfa1b746cd8c46a610943f2a990626b	11 Wholesale	06. 10mil -<= 100mil	01. Employees <= 10	2023	03. 10 to <= 2	46631.0	PREMARK.COM.SG
+ORBIS	35387488424359113db5dc9724aa5c59a4699aa0e02a2ac90b1b013bc9898a49	13 Transportation & Storage	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	52227.0	primeshipbrokers.com.sg
+GMAP	25d618e948fe2f944ef08887d4fc41c30ec8fa30b36b27d5778a8e6dd4d5b466	15 Food & Beverage Services	01. <=1mil	01. Employees <= 10	2023	03. 10 to <= 2	56111.0	https://sunrisegreensmarketing.com/
+GMAP	66905b113ac647ba8a6fdfb995e20db99436bef2bf6255e759f072fceb080e65	11 Wholesale	01. <=1mil	Missing EMP	2023	02. 5 to <= 10	64201.0	www.tgdevelopment.com.sg/
+ORBIS	d68acb1e5928cf8ab981035e022dc30785b2ac6881683f4d549c0a8a1108d878	17 Finance & Insurance	01. <=1mil	01. Employees <= 10	2023	02. 5 to <= 10	64202.0	www.chipengseng.com.sg
