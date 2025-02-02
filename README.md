@@ -3,7 +3,7 @@ This project aims to extract features from unstructured business website text da
 
 **Dataset folder is not included as datasets are classified as restricted/sensitive national data.*
 
-General Description of Notebooks (.txt files): 
+General Description .py files in SRC folder: 
 1. Generate Embeddings:
    - Pull consolidated embeddings from AZURE container database + subset to 10 random samples per Business UEN.
    
@@ -14,4 +14,4 @@ General Description of Notebooks (.txt files):
    - Evaluation of Machine Learning models on various evaluation metrics - Accuracy, Precision, Recall, F1-score and ROC-AUC curve.
    
 7. Inference:
-   - Utilisation of trained models to run inference on Business Register database. Rule-based inference classifies firm as "Innovative" as long as one sub-page embedding returns a positive classification. Average prediction probability across all    subpages are returned.
+   - Utilisation of trained models to run inference on Business Register database. Rule-based inference classifies firm as "Hiring" as long as one sub-page embedding returns a positive classification. Average prediction probability across all    subpages are returned.
